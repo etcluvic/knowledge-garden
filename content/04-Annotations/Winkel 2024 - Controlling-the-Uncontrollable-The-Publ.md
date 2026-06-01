@@ -1,0 +1,79 @@
+---
+title: "Controlling the Uncontrollable: The Public Discourse on Artificial Intelligence between the Positions of Social and Technological Determinism"
+authors:
+  - "Winkel, Marek"
+year: "2024"
+domain: "AI and Social"
+subdomain: "Diversity, Determinism, Bias and Justice"
+tensions:
+  - "Operational Assistance vs Epistemic Authority"
+concepts:
+  []
+methodologies:
+  - "qualitative"
+  - "quantitative"
+stakeholders:
+  - "policymakers"
+  - "communities"
+source: "AI & Society 39, no"
+url: "https://doi.org/10.1007/s00146-024-01979-z"
+status: "reviewed"
+type: "annotation"
+created: "2026-05-14"
+tags:
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-qualitative
+  - method-quantitative
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - region-global
+  - tension-operational-assistance-v-epistemic-authority
+---
+
+# Controlling the Uncontrollable: The Public Discourse on Artificial Intelligence between the Positions of Social and Technological Determinism
+
+**Winkel, Marek** (2024)
+
+*AI & Society 39, no*
+
+🔗 [https://doi.org/10.1007/s00146-024-01979-z](https://doi.org/10.1007/s00146-024-01979-z)
+
+---
+
+## Annotation
+
+This article engages in a quantitative discourse analysis of 113 articles from two German newspapers (Süddeutsche Zeitung and Frankfurter Allgemeine Zeitung) to identify and evaluate the way these center-left and center-right newspapers present AI technology to its readers and the options available to society for AI’s regulation. Winkel contends that “news media are key players in the discourse on AI as they pick up on and shape social sentiment”, ultimately guiding citizens towards what regulations might be sensible based on the perceived “controllability of AI development”. Winkel is primarily interested in whether these newspapers promote technological determinism—the outlook that technology’s influence on society is difficult (maybe even impossible) to control—or social determinism—the notion that “the development of technology is largely determined by human actions and decisions”—and theorizes that the tension between these two positions is resolved by a “mediating position” on a spectrum between them. He comments that “the social influence of technologies is determined by the extent to which their latent deterministic character is reflected and… circumvented by social actors. This also applies to the influence of technology on the democratic system. In other words, where consensus lands on the issue of AI will have a great impact on the regulation of that technology and democratic systems. Winkel develops “three central interpretive schemes” as part of his experiment: “historically conditioned techno-capitalist semi-determinism”, “semi-determinism of need satisfaction and social restructuring”, and “global-historical techno-social imprinting on several levels” (1956), each of which point to distinct narratives about the current circumstances, but all acknowledge the agency of powerful actors (either government or AI corporations) and the relative ineffectiveness of attempts to curb AI technology.
+
+---
+
+
+## Connections
+
+**Domain**: [[AI and Social]] → Diversity, Determinism, Bias and Justice
+
+**Tensions**: [[Operational Assistance vs Epistemic Authority]]
+
+**Key Concepts**: *None detected*
+
+**Methodologies**: `qualitative`, `quantitative`
+
+**Stakeholders**: policymakers, communities
+
+**Geographic Focus**: Global
+
+### See Also
+
+- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared tension: Operational Assistance vs Epistemic Authority | cites Hara*
+- [[Nelson 2023 - No-Journal-is-an-Island-The-John-Donne]] — *cites INKE*
+- [[Turin 2021 - From-Orality-to-Open-Innovations-in-Mul]] — *cites Turin*
+- [[Winter 2020 - Foundations-for-the-Canadian-HSS-Commons]] — *cites INKE*
+- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: quantitative*
+- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: quantitative, qualitative*
+- [[Kay 2024 - Epistemic-Injustice-in-Generative-AI]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Shams 2023 - AI-and-the-Quest-for-Diversity-and-Inclu]] — *same subdomain | shared methodology: quantitative, qualitative*
+
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
