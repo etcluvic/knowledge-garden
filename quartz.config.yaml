@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: false
     typography:
-      header: DM Serif Display
-      body: DM Sans
+      header: Sen
+      body: Sen
       code: IBM Plex Mono
     colors:
       lightMode:
