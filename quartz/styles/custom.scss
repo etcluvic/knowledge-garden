@@ -1,3 +1,11 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+// Force all component headings to use the header font
+.graph-outer > h3,
+.toc-header,
+.backlinks > h3,
+.explorer > header > div,
+.page-title {
+  font-family: var(--headerFont);
+}
