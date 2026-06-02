@@ -157,6 +157,32 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
+    options:
+      localGraph:
+        drag: true
+        zoom: true
+        depth: 1
+        scale: 1.1
+        repelForce: 0.3
+        centerForce: 0.5
+        linkDistance: 25
+        fontSize: 0.45
+        opacityScale: 3
+        showTags: false
+        removeTags:
+          - hub-note
+      globalGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 0.6
+        repelForce: 0.2
+        centerForce: 0.5
+        linkDistance: 20
+        fontSize: 0.35
+        opacityScale: 5
+        showTags: false
+        enableRadial: true
     layout:
       position: right
       priority: 10
