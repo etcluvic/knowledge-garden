@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-CA
+  locale: en-US
   baseUrl: etcluvic.github.io/knowledge-garden
   ignorePatterns:
     - private
@@ -229,7 +229,7 @@ plugins:
     enabled: true
     options: {}
     order: 50
-  layout:
+layout:
   groups:
     toolbar:
       priority: 35
