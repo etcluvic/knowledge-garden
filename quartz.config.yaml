@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: null
   locale: en-US
-  baseUrl: etcluvic.github.io/knowledge-garden
+  baseUrl: https://etcluvic.github.io/knowledge-garden
   ignorePatterns:
     - private
     - templates
