@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: ETCL Knowledge Garden
+  pageTitle: ETCL AI Scan
   pageTitleSuffix: " | ETCL"
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: null
-  locale: en-UK
+    provider: plausible
+  locale: en-US
   baseUrl: etcluvic.github.io/knowledge-garden
   ignorePatterns:
     - private
@@ -14,21 +14,21 @@ configuration:
     - .obsidian
   theme:
     fontOrigin: googleFonts
-    cdnCaching: false
+    cdnCaching: true
     typography:
-      header: DM Serif Display
-      body: DM Sans
+      header: Schibsted Grotesk
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#f8f7f2"
+        light: "#faf8f8"
         lightgray: "#e5e5e5"
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
-        secondary: "#2d6a7f"
+        secondary: "#284b63"
         tertiary: "#84a59d"
-        highlight: "rgba(45, 106, 127, 0.12)"
+        highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
@@ -36,9 +36,9 @@ configuration:
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#7eb8c9"
+        secondary: "#7b97aa"
         tertiary: "#84a59d"
-        highlight: "rgba(126, 184, 201, 0.12)"
+        highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
@@ -61,17 +61,7 @@ plugins:
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
-      comments: true
-      highlight: true
-      wikilinks: true
-      callouts: true
-      mermaid: true
-      parseTags: true
-      parseArrows: true
-      parseBlockReferences: true
       enableInHtmlEmbed: false
-      enableYouTubeEmbed: true
-      enableVideoEmbed: true
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
@@ -100,7 +90,7 @@ plugins:
     enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
-    enabled: true
+    enabled: false
     order: 90
   - source: github:quartz-community/ox-hugo
     enabled: false
@@ -139,7 +129,7 @@ plugins:
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
-    enabled: true
+    enabled: false
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
@@ -184,7 +174,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: github:quartz-community/tag-list
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 30
@@ -223,8 +213,8 @@ plugins:
     enabled: true
     options:
       links:
-        ETCL: https://etcl.uvic.ca
-        University of Victoria: https://uvic.ca
+        GitHub: https://github.com/jackyzha0/quartz
+        Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -242,33 +232,9 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
+      hidePropertiesView: true
       includeAll: false
-      includedProperties:
-        - description
-        - aliases
-      excludedProperties: []
-      hidePropertiesView: false
-      delimiters: ---
-      language: yaml
-    order: 5
-    layout:
-      position: beforeBody
-      priority: 15
-      display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: default
-  - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
+      includedProperties: []
 layout:
   groups:
     toolbar:
@@ -276,11 +242,6 @@ layout:
       direction: row
       gap: 0.5rem
   byPageType:
-    "404":
-      positions:
-        beforeBody: []
-        left: []
-        right: []
     content: {}
     folder:
       exclude:
