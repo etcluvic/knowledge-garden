@@ -16,7 +16,6 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Schibsted Grotesk
       header: Schibsted Grotesk
       body: Source Sans Pro
       code: IBM Plex Mono
