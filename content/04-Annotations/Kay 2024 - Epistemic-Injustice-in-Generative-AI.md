@@ -1,48 +1,16 @@
 ---
-title: "Epistemic Injustice in Generative AI"
-authors:
-  - "Kay, Jackie, Atoosa Kasirzadeh"
-  - "Shakir Mohamed"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Diversity, Determinism, Bias and Justice"
-tensions:
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "epistemic authority"
-  - "epistemic justice"
-  - "generative AI"
-  - "bias"
-  - "hallucination"
-  - "equity"
-  - "reproducibility"
-  - "training data"
-methodologies:
-  - "computational"
-  - "design research"
-stakeholders:
-  - "publishers"
-  - "developers"
-source: "arXiv preprint arXiv:2408"
-url: "https://doi.org/10.48550/arXiv.2408.11441"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Epistemic Injustice in Generative AI
+domain: AI and Social
+tension:
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - diversity-determinism-bias-and-justice
-  - method-computational
-  - method-design-research
-  - topic-epistemic-authority
-  - topic-epistemic-justice
   - topic-generative-ai
-  - topic-bias
-  - topic-hallucination
-  - topic-equity
-  - stakeholder-publishers
-  - stakeholder-developers
+  - topic-epistemic-justice
   - tension-operational-assistance-v-epistemic-authority
+  - topic-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Epistemic Injustice in Generative AI
@@ -74,17 +42,16 @@ Kay, Kasirzadeh, and Mohamed “develop an account of generative algorithmic epi
 
 **Stakeholders**: publishers, developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Akter 2021 - Algorithmic-bias-in-data-driven-innovati]] — *shared concepts: bias, equity, reproducibility | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: design research, computational*
 - [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: generative AI, bias, epistemic authority | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: design research, computational*
 - [[Taneja 2020 - AI-Powered-Recommender-Systems-Personal]] — *shared concepts: generative AI, bias, epistemic authority | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: design research, computational*
-- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: computational | cites Hara*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: generative AI, training data, epistemic justice, epistemic authority | shared tension: Operational Assistance vs Epistemic Authority*
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: bias, equity, epistemic authority | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: computational*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: hallucination, reproducibility, epistemic authority | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: design research*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: bias, training data, epistemic authority | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: design research*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

@@ -240,7 +240,7 @@ tags:
 
 ### Cheong
 
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]]
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]]
 
 ### Christian Katzenbach
 
@@ -588,7 +588,7 @@ tags:
 
 ### Linåker
 
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]]
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]]
 
 ### Lise Stork
 
@@ -858,7 +858,7 @@ tags:
 
 ### Richard Nweibo
 
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]]
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]]
 
 ### Richard Staley
 

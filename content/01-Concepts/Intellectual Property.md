@@ -1,12 +1,12 @@
 ---
-title: "Intellectual Property"
-type: concept
-mentions: 9
-created: "2026-05-14"
+title: Intellectual Property
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 9
+created: 2026-05-14
 ---
 
 # Intellectual Property

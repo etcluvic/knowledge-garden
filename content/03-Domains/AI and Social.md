@@ -1,11 +1,11 @@
 ---
-title: "AI and Social"
-type: "domain"
-annotation_count: 61
-created: "2026-05-14"
+title: AI and Social
 tags:
-  - "domain"
-  - "hub-note"
+  - domain
+  - hub-note
+type: domain
+annotation_count: 61
+created: 2026-05-14
 ---
 
 # AI and Social
@@ -75,7 +75,7 @@ tags:
 - [[Rughiniș 2025 - AI-at-the-Knowledge-Gates-Institutional]] (2025) · [[Technical Capability vs Organizational Capacity]][[Operational Assistance vs Epistemic Authority]]
 - [[Sposato 2025 - Artificial-Intelligence-in-Educational-L]] (2025) · [[Efficiency vs Process]][[Technical Capability vs Organizational Capacity]]
 - [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] (2025) · [[Efficiency vs Process]][[Technical Capability vs Organizational Capacity]]
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] (2024) · [[Technical Capability vs Organizational Capacity]][[Operational Assistance vs Epistemic Authority]]
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] (2024) · [[Technical Capability vs Organizational Capacity]][[Operational Assistance vs Epistemic Authority]]
 - [[Oh 2024 - Does-Algorithmic-Content-Moderation-Prom]] (2024)
 - [[Birkstedt 2023 - AI-Governance-Themes-Knowledge-Gaps-an]] (2023) · [[Technical Capability vs Organizational Capacity]]
 - [[Broekhuizen 2023 - AI-for-Managing-Open-Innovation-Opportu]] (2023) · [[Technical Capability vs Organizational Capacity]]

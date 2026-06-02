@@ -1,46 +1,16 @@
 ---
-title: "Leveraging IP for AI Governance"
-authors:
-  - "Schmit, Cason, M. J. Doerr"
-  - "J. K. Wagner"
-year: "2023"
-domain: "AI and Open"
-subdomain: "Open Source"
-tensions:
-  - "Efficiency vs Process"
-concepts:
-  - "intellectual property"
-  - "training data"
-  - "governance"
-  - "surveillance"
-  - "trust"
-methodologies:
-  - "framework development"
-stakeholders:
-  - "policymakers"
-  - "communities"
-  - "industry"
-  - "developers"
-source: "Science 379 (6633): 646-647"
-url: "https://doi.org/10.1126/science.add2202"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Leveraging IP for AI Governance
+domain: AI and Open
+tension:
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-open
-  - open-source
-  - method-framework-development
-  - topic-intellectual-property
-  - topic-training-data
   - topic-governance
-  - topic-surveillance
-  - topic-trust
-  - stakeholder-policymakers
-  - stakeholder-communities
+  - topic-training-data
   - stakeholder-industry
   - stakeholder-developers
-  - tension-efficiency-v-process
+type: annotation
+created: 2026-05-14
 ---
 
 # Leveraging IP for AI Governance
@@ -72,17 +42,16 @@ This article proposes a hybrid AI copyright model that combines copyleft licensi
 
 **Stakeholders**: policymakers, communities, industry, developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *content similarity (0.31) | shared concepts: training data, intellectual property | same subdomain*
 - [[Radu 2021 - Steering-the-Governance-of-Artificial-In]] — *shared concepts: surveillance, governance | shared tension: Efficiency vs Process | same subdomain*
 - [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: trust, training data, surveillance | shared tension: Efficiency vs Process | shared methodology: framework development*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: trust, surveillance, governance | shared tension: Efficiency vs Process | shared methodology: framework development*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: trust, governance | shared tension: Efficiency vs Process | shared methodology: framework development*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared methodology: framework development | cites Long*
-- [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: trust, training data, intellectual property | shared methodology: framework development*
-- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Efficiency vs Process | same subdomain | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+</details>

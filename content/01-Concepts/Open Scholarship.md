@@ -1,12 +1,12 @@
 ---
-title: "Open Scholarship"
-type: concept
-mentions: 5
-created: "2026-05-14"
+title: Open Scholarship
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 5
+created: 2026-05-14
 ---
 
 # Open Scholarship

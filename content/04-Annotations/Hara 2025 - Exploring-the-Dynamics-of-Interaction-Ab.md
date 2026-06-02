@@ -1,49 +1,17 @@
 ---
-title: "Exploring the Dynamics of Interaction About Generative Artificial Intelligence Between Experts and the Public on Social Media"
-authors:
-  - "Hara, Noriko, Eugene Kim, Shohana Akter"
-  - "Kunihiro Miyazaki. "
-  - "the Public on Social Media."
-year: "2025"
-domain: "AI and Scholarship"
-subdomain: "Audience"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "generative AI"
-  - "knowledge production"
-  - "diversity"
-  - "participation"
-  - "infrastructure"
-  - "evaluation"
-methodologies:
-  - "computational"
-  - "framework development"
-  - "empirical"
-stakeholders:
-  - "communities"
-source: "Journal of Science Communication 24, no"
-url: "https://doi.org/10.22323/2.24010202"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Exploring the Dynamics of Interaction About Generative Artificial Intelligence Between Experts and the Public on Social Media
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-scholarship
-  - audience
   - method-computational
-  - method-framework-development
   - method-empirical
   - topic-generative-ai
   - topic-knowledge-production
-  - topic-diversity
-  - topic-participation
-  - topic-infrastructure
-  - topic-evaluation
-  - stakeholder-communities
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Exploring the Dynamics of Interaction About Generative Artificial Intelligence Between Experts and the Public on Social Media
@@ -75,17 +43,16 @@ Hara and colleagues conduct an empirical investigation into how experts and the 
 
 **Stakeholders**: communities
 
-### See Also
-
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: generative AI, infrastructure, knowledge production, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Zeffiro 2024 - -EASST4S]] — *shared concepts: generative AI, participation, evaluation, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: evaluation, infrastructure, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational, empirical*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: generative AI, evaluation | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational, framework development, empirical*
-- [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *shared concepts: generative AI, participation, evaluation, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: generative AI, evaluation, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Taneja 2020 - AI-Powered-Recommender-Systems-Personal]] — *shared concepts: generative AI, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *shared concepts: participation, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: empirical, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Taneja 2020 - AI-Powered-Recommender-Systems-Personal]] — *shared concepts: generative AI, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: generative AI, infrastructure, knowledge production, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
+- [[Zeffiro 2024 - -EASST4S]] — *shared concepts: generative AI, participation, evaluation, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational*
+
+</details>

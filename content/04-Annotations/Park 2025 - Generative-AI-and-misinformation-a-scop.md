@@ -1,45 +1,14 @@
 ---
 title: "Generative AI and misinformation: a scoping review of the role of generative AI in the generation, detection, mitigation, and impact of misinformation"
-authors:
-  - "Park, Seyeon"
-  - "Xiaoli Nan"
-year: "2025"
-domain: "AI and Social"
-subdomain: "Human, Labour and Environmental Costs"
-tensions:
-  []
-concepts:
-  - "large language models"
-  - "misinformation"
-  - "generative AI"
-  - "hallucination"
-  - "interoperability"
-methodologies:
-  - "literature review"
-  - "quantitative"
-  - "framework development"
-  - "empirical"
-stakeholders:
-  - "researchers"
-source: "AI & SOCIETY"
-url: "https://doi.org/10.1007/s00146-025-02620-3"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension: []
 tags:
   - annotation
-  - ai-and-social
-  - human-labour-and-environmental-costs
-  - method-literature-review
-  - method-quantitative
-  - method-framework-development
-  - method-empirical
-  - topic-large-language-models
   - topic-misinformation
   - topic-generative-ai
-  - topic-hallucination
-  - topic-interoperability
-  - stakeholder-researchers
+  - method-empirical
+type: annotation
+created: 2026-05-14
 ---
 
 # Generative AI and misinformation: a scoping review of the role of generative AI in the generation, detection, mitigation, and impact of misinformation
@@ -54,7 +23,7 @@ tags:
 
 ## Annotation
 
-This article constitutes a scoping review of two dozen “recent empirical studies on the role of generative AI in the generation, detection, mitigation, and impact of misinformation.” Park and Nan are interested in the rise of misinformation alongside the development of GenAI technology and how the latter affects and possibly contributes to the former. Of particular interest are “deepfakes”, applications of AI technology that purposely imitate video and audio to fabricate real world individuals. The survey examines relevant articles from the advent of the first GPT models in 2018 to September 19, 2024; authors captured initial studies through keyword searches for terms related to both LLMs and misinformation, then performed full-text reviews. The results of the survey suggest that the role of LLMs in misinformation is conflicted: LLMs themselves are a significant source of misinformation but also show potential as “scalable instruments for detection and correction”. The authors take this as evidence of “the urgent need for clearer guardrails, more consistent performance standards, and interdisciplinary ation to shape” responsible deployment. For better or worse, the future of AI’s role in misinformation depends heavily upon scholars’ ability to ate and continue this form of research.
+This article constitutes a scoping review of two dozen “recent empirical studies on the role of generative AI in the generation, detection, mitigation, and impact of misinformation.” Park and Nan are interested in the rise of misinformation alongside the development of GenAI technology and how the latter affects and possibly contributes to the former. Of particular interest are “deepfakes”, applications of AI technology that purposely imitate video and audio to fabricate real world individuals. The survey examines relevant articles from the advent of the first GPT models in 2018 to September 19, 2024; authors captured initial studies through keyword searches for terms related to both LLMs and misinformation, then performed full-text reviews. The results of the survey suggest that the role of LLMs in misinformation is conflicted: LLMs themselves are a significant source of misinformation but also show potential as “scalable instruments for detection and correction”. The authors take this as evidence of “the urgent need for clearer guardrails, more consistent performance standards, and interdisciplinary collaboration to shape” responsible deployment. For better or worse, the future of AI’s role in misinformation depends heavily upon scholars’ ability to collaborate and continue this form of research.
 
 ---
 
@@ -71,17 +40,16 @@ This article constitutes a scoping review of two dozen “recent empirical studi
 
 **Stakeholders**: researchers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: hallucination, generative AI, large language models, misinformation | same subdomain | shared methodology: quantitative, framework development*
 - [[Spatharioti 2025 - Effects-of-LLM-based-Search-on-Decision]] — *shared concepts: hallucination, large language models, misinformation | same subdomain | shared methodology: quantitative*
 - [[Aguiar 2024 - Final-Thoughts-Digital-Humanities-Looki]] — *shared concepts: hallucination, generative AI, large language models | shared methodology: quantitative, framework development*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared methodology: framework development | cites Long*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: hallucination, large language models, misinformation | shared methodology: framework development*
-- [[Mehlenbacher 2024 - Synthetic-Genres-Expert-Genres-Non-Spe]] — *shared concepts: interoperability, large language models, misinformation | shared methodology: quantitative*
-- [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *shared concepts: hallucination, generative AI, large language models | shared methodology: framework development*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: generative AI, interoperability | shared methodology: empirical, framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

@@ -1,12 +1,12 @@
 ---
-title: "Provenance"
-type: concept
-mentions: 17
-created: "2026-05-14"
+title: Provenance
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 17
+created: 2026-05-14
 ---
 
 # Provenance

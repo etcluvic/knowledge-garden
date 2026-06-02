@@ -1,41 +1,16 @@
 ---
-
-title: 'Large Language Publishing: The Scholarly Publishing Oligopoly''s Bet on AI'
-authors:
-- Pooley, Jefferson
-year: '2024'
+title: "Large Language Publishing: The Scholarly Publishing Oligopoly's Bet on AI"
 domain: AI and Open
-subdomain: Open Access
-tensions:
-- Operational Assistance vs Epistemic Authority
-concepts:
-- surveillance
-- accountability
-- scholarly communication
-methodologies:
-- framework development
-stakeholders:
-- researchers
-- publishers
-- industry
-source: "KULA: Knowledge Creation, Dissemination, and Preservation Studies 7 (1):' 1–11"
-url: "https://doi.org/10.18357/kula.291"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-open
-  - open-access
-  - method-framework-development
-  - topic-surveillance
-  - topic-accountability
-  - topic-scholarly-communication
-  - stakeholder-researchers
-  - stakeholder-publishers
-  - stakeholder-industry
-  - tension-operational-assistance-v-epistemic-authority
   - cited-in-introduction
+  - topic-surveillance
+  - stakeholder-publishers
+  - open-access
+type: annotation
+created: 2026-05-14
 ---
 
 # Large Language Publishing: The Scholarly Publishing Oligopoly's Bet on AI
@@ -75,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, publishers, industry
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Colbert-Lewis 2024 - The-Citation-Economy-as-a-Site-of-Extrac]] — *content similarity (0.26) | shared concepts: scholarly communication, surveillance*
 - [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared concepts: scholarly communication, accountability | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development*
 - [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: scholarly communication, surveillance | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: surveillance, accountability | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared methodology: framework development | cites Shin*
-- [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *shared concepts: scholarly communication, surveillance | same subdomain | shared methodology: framework development*
-- [[Veldhuis 2024 - Critical-Artificial-Intelligence-literac]] — *shared concepts: surveillance, accountability | shared methodology: framework development*
-- [[Werder 2022 - Establishing-Data-Provenance-for-Respons]] — *shared concepts: surveillance, accountability | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+</details>

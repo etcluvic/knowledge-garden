@@ -1,38 +1,17 @@
 ---
 title: "AI-Reporter: A Path to a New Genre of Scientific Communication"
-authors:
-  - "Graßhoff, Gerd"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Forms of Research Output"
-tensions:
-  - "Efficiency vs Process"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "consent"
-  - "metadata"
-  - "scholarly communication"
-methodologies:
-  []
-stakeholders:
-  - "researchers"
-  - "communities"
-source: "arXiv:2507"
-url: "https://arxiv.org/abs/2507.05903"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Efficiency vs Process
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-scholarship
-  - forms-of-research-output
   - topic-consent
   - topic-metadata
   - topic-scholarly-communication
-  - stakeholder-researchers
-  - stakeholder-communities
   - tension-efficiency-v-process
-  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # AI-Reporter: A Path to a New Genre of Scientific Communication
@@ -64,17 +43,16 @@ Graßhoff introduces a new tool, the AI-Reporter, that aims “to fundamentally 
 
 **Stakeholders**: researchers, communities
 
-### See Also
-
-- [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared concepts: scholarly communication, consent | shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: metadata, scholarly communication, consent*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Liang 2024 - Evaluating-Science-A-Comparison-of-Huma]] — *shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared concepts: scholarly communication, consent | shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority*
+- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority*
+
+</details>

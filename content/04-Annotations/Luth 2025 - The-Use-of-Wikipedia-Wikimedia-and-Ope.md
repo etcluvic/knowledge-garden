@@ -1,42 +1,17 @@
 ---
-
-title: The Use of Wikipedia, Wikimedia, and Open Access Content for Artificial Intelligence
-  and Text and Data Mining
-authors:
-- Luth, Eric
-year: '2025'
+title: The Use of Wikipedia, Wikimedia, and Open Access Content for Artificial Intelligence and Text and Data Mining
 domain: AI and Open
-subdomain: Open Access
-tensions:
-- Openness vs Enclosure
-- Technical Capability vs Organizational Capacity
-concepts:
-- commons
-- creative commons
-- open access
-- trust
-methodologies:
-- framework development
-stakeholders:
-- developers
-source: 'Stockholm IP Law Review 6 (1): 109–138'
-url: "https://doi.org/10.53292/33313cc8.be33e111"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Openness vs Enclosure
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-open
-  - open-access
-  - method-framework-development
-  - topic-commons
-  - topic-creative-commons
-  - topic-open-access
-  - topic-trust
-  - stakeholder-developers
-  - tension-openness-v-enclosure
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - open-access
+  - topic-open-access
+  - topic-commons
+type: annotation
+created: 2026-05-14
 ---
 
 # The Use of Wikipedia, Wikimedia, and Open Access Content for Artificial Intelligence and Text and Data Mining
@@ -75,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *content similarity (0.26) | shared concepts: commons, creative commons, open access | shared tension: Technical Capability vs Organizational Capacity*
 - [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: commons, creative commons | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
 - [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: trust, open access | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
-- [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: trust, commons, creative commons | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Tumadóttir 2024 - Questions-for-Consideration-on-AI-the]] — *shared concepts: commons, creative commons | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
-- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
-- [[Boyd 2021 - Datasheets-for-Datasets-Help-ML-Engineer]] — *shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+</details>

@@ -1,55 +1,17 @@
 ---
-
 title: Algorithmic bias in data-driven innovation in the age of AI
-authors:
-- Akter, S., McCarthy, G., Sajib, S., Michael, K., Dwivedi, Y. K., D’Ambra, J
-- Shen, K. N
-year: '2021'
 domain: Essential Contexts
-subdomain: Bias and Technological Determinism
-tensions:
-- Technical Capability vs Organizational Capacity
-- Operational Assistance vs Epistemic Authority
-concepts:
-- bias
-- equity
-- algorithmic bias
-- provenance
-- reproducibility
-methodologies:
-- case study
-- computational
-- framework development
-- design research
-stakeholders:
-- researchers
-- institutions
-- developers
-source: International Journal of Information Management, 60, 102387
-url: "https://doi.org/10.1016/j.ijinfomgt.2021.102387"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - essential-contexts
-  - bias-and-technological-determinism
-  - method-case-study
-  - method-computational
-  - method-framework-development
-  - method-design-research
-  - topic-bias
-  - topic-equity
-  - topic-algorithmic-bias
-  - topic-provenance
-  - topic-reproducibility
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-developers
-  - region-australia-oceania
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
   - cited-in-introduction
+  - topic-bias
+  - topic-algorithmic-bias
+  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Algorithmic bias in data-driven innovation in the age of AI
@@ -90,17 +52,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Geographic Focus**: Australia/Oceania
 
-### See Also
-
-- [[Taneja 2020 - AI-Powered-Recommender-Systems-Personal]] — *shared concepts: algorithmic bias, bias | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, computational*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: algorithmic bias, bias | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, computational*
-- [[Sartori 2022 - A-sociotechnical-perspective-for-the-fut]] — *shared concepts: bias, equity, reproducibility | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: algorithmic bias, bias, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development, computational*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *content similarity (0.27) | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Alvarez 2024 - Policy-Advice-and-Best-Practices-on-Bias]] — *content similarity (0.26) | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: bias, equity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational, framework development*
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: bias, reproducibility | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *content similarity (0.27) | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
+- [[Alvarez 2024 - Policy-Advice-and-Best-Practices-on-Bias]] — *content similarity (0.26) | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
+- [[Sartori 2022 - A-sociotechnical-perspective-for-the-fut]] — *shared concepts: bias, equity, reproducibility | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

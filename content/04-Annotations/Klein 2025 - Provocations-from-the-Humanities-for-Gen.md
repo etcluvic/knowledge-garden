@@ -1,51 +1,16 @@
 ---
-
 title: Provocations from the Humanities for Generative AI Research
-authors:
-- Klein, L., Martin, M., Brock, A., Antoniak, M., Walsh, M., Johnson, J. M., Tilton,
-  L
-- Mimno, D
-year: '2025'
 domain: Essential Contexts
-subdomain: "Histories & Theories of AI"
-tensions:
-- Technical Capability vs Organizational Capacity
-concepts:
-- bias
-- open scholarship
-- curation
-- training data
-methodologies:
-- quantitative
-- framework development
-stakeholders:
-- researchers
-- institutions
-- publishers
-- industry
-source: Preprint
-url: "https://arxiv.org/abs/2502.19190"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-quantitative
-  - method-framework-development
+  - cited-in-introduction
   - topic-bias
   - topic-open-scholarship
-  - topic-curation
   - topic-training-data
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-publishers
-  - stakeholder-industry
-  - region-global-north
-  - region-europe
-  - tension-technical-capability-v-organizational-capacity
-  - cited-in-introduction
+type: annotation
+created: 2026-05-14
 ---
 
 # Provocations from the Humanities for Generative AI Research
@@ -86,17 +51,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Geographic Focus**: Global North, Europe
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Bender 2021 - On-the-Dangers-of-Stochastic-Parrots-Ca]] — *shared concepts: curation, training data | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, bias, training data | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
 - [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: curation, bias, training data | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Alvarez 2024 - Policy-Advice-and-Best-Practices-on-Bias]] — *shared concepts: bias, training data | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, training data | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: curation, bias | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, training data | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *shared concepts: curation, bias | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+</details>

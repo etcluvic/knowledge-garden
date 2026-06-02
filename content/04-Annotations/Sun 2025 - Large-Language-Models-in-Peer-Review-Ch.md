@@ -1,56 +1,18 @@
 ---
-
-title: 'Large Language Models in Peer Review: Challenges and Opportunities'
-authors:
-- Sun, Zhuanlan
-year: '2025'
+title: "Large Language Models in Peer Review: Challenges and Opportunities"
 domain: AI and Scholarship
-subdomain: Service and Peer Review
-tensions:
-- Operational Assistance vs Epistemic Authority
-- Technical Capability vs Organizational Capacity
-- Efficiency vs Process
-concepts:
-- large language models
-- evaluation
-- bias
-- infrastructure
-- interoperability
-- peer review
-- epistemic authority
-methodologies:
-- quantitative
-- framework development
-- theoretical
-- design research
-stakeholders:
-- researchers
-- developers
-source: 'Scientometrics 60 (3): 1683-1706'
-url: "https://doi.org/10.1007/s11192-025-05440-w"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Operational Assistance vs Epistemic Authority
+  - Technical Capability vs Organizational Capacity
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-scholarship
-  - service-and-peer-review
-  - method-quantitative
-  - method-framework-development
-  - method-theoretical
-  - method-design-research
-  - topic-large-language-models
-  - topic-evaluation
-  - topic-bias
-  - topic-infrastructure
-  - topic-interoperability
-  - topic-peer-review
-  - stakeholder-researchers
-  - stakeholder-developers
-  - tension-operational-assistance-v-epistemic-authority
-  - tension-technical-capability-v-organizational-capacity
-  - tension-efficiency-v-process
   - cited-in-introduction
+  - topic-peer-review
+  - topic-large-language-models
+  - topic-bias
+type: annotation
+created: 2026-05-14
 ---
 
 # Large Language Models in Peer Review: Challenges and Opportunities
@@ -90,17 +52,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: peer review, evaluation, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | same subdomain*
 - [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: evaluation, peer review, epistemic authority, interoperability | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
 - [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: peer review, infrastructure, epistemic authority, bias | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: peer review, evaluation, interoperability, large language models | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Liang 2024 - Evaluating-Science-A-Comparison-of-Huma]] — *shared concepts: peer review, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | same subdomain*
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: evaluation, infrastructure, epistemic authority, interoperability | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: interoperability, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | shared methodology: design research, framework development, theoretical*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared concepts: bias, large language models | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: quantitative, design research, framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

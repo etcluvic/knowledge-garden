@@ -1,12 +1,12 @@
 ---
-title: "Bias"
-type: concept
-mentions: 43
-created: "2026-05-14"
+title: Bias
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 43
+created: 2026-05-14
 ---
 
 # Bias

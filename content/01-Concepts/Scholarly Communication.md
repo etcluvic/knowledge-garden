@@ -1,12 +1,12 @@
 ---
-title: "Scholarly Communication"
-type: concept
-mentions: 12
-created: "2026-05-14"
+title: Scholarly Communication
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 12
+created: 2026-05-14
 ---
 
 # Scholarly Communication

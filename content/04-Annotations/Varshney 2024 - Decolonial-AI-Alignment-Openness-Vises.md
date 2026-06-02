@@ -1,50 +1,18 @@
 ---
 title: "Decolonial AI Alignment: Openness, Visesa-Dharma, and Including Excluded Knowledges"
-authors:
-  - "Varshney, Kush R"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Globalism, Colonialism and Influence"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Openness vs Enclosure"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "decolonization"
-  - "large language models"
-  - "epistemic authority"
-  - "diversity"
-  - "reproducibility"
-methodologies:
-  - "framework development"
-  - "design research"
-stakeholders:
-  - "publishers"
-  - "communities"
-  - "developers"
-source: "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7: 1467-1481"
-url: "https://doi.org/10.1609/aies.v7i1.3173"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Openness vs Enclosure
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - globalism-colonialism-and-influence
-  - method-framework-development
-  - method-design-research
-  - topic-decolonization
-  - topic-large-language-models
-  - topic-epistemic-authority
-  - topic-diversity
-  - topic-reproducibility
-  - stakeholder-publishers
-  - stakeholder-communities
-  - stakeholder-developers
-  - region-global-north
-  - tension-technical-capability-v-organizational-capacity
   - tension-openness-v-enclosure
+  - stakeholder-communities
   - tension-operational-assistance-v-epistemic-authority
+  - topic-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Decolonial AI Alignment: Openness, Visesa-Dharma, and Including Excluded Knowledges
@@ -78,17 +46,16 @@ Varshney discusses AI alignment through a decolonial lens, arguing that current 
 
 **Geographic Focus**: Global North
 
-### See Also
-
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *content similarity (0.31) | shared concepts: decolonization, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
-- [[Muldoon 2023 - Artificial-Intelligence-in-the-Colonial]] — *shared concepts: decolonization, reproducibility, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Mohamed 2020 - Decolonial-AI-Decolonial-Theory-as-Soci]] — *shared concepts: decolonization, diversity | same subdomain | shared methodology: framework development*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: reproducibility, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Openness vs Enclosure | shared methodology: framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, diversity | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | same subdomain*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: large language models, reproducibility, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: large language models, reproducibility | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: design research, framework development*
-- [[Chun 2023 - The-Crisis-of-Artificial-Intelligence-A]] — *shared concepts: diversity, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *content similarity (0.31) | shared concepts: decolonization, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
+- [[Muldoon 2023 - Artificial-Intelligence-in-the-Colonial]] — *shared concepts: decolonization, reproducibility, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, diversity | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | same subdomain*
+
+</details>

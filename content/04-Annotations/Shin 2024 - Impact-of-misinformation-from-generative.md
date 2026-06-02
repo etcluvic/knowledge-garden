@@ -1,49 +1,15 @@
 ---
 title: "Impact of misinformation from generative AI on user information processing: How people understand misinformation from generative AI"
-authors:
-  - "Shin, Donghee, Amy Koerber"
-  - "Joon Soo Lim"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Human, Labour and Environmental Costs"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "misinformation"
-  - "generative AI"
-  - "large language models"
-  - "hallucination"
-  - "open education"
-  - "accountability"
-  - "transparency"
-  - "bias"
-  - "trust"
-methodologies:
-  - "quantitative"
-  - "computational"
-  - "framework development"
-stakeholders:
-  - "researchers"
-source: "New Media & Society 26, no"
-url: "https://doi.org/10.1177/14614448241234040"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - human-labour-and-environmental-costs
-  - method-quantitative
-  - method-computational
-  - method-framework-development
   - topic-misinformation
   - topic-generative-ai
-  - topic-large-language-models
-  - topic-hallucination
-  - topic-open-education
-  - topic-accountability
-  - stakeholder-researchers
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Impact of misinformation from generative AI on user information processing: How people understand misinformation from generative AI
@@ -75,17 +41,16 @@ Shin, Koerber, and Lim perform a study in which they gauge “how users respond 
 
 **Stakeholders**: researchers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Aguiar 2024 - Final-Thoughts-Digital-Humanities-Looki]] — *shared concepts: hallucination, generative AI, bias, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
 - [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: misinformation, generative AI, bias, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
 - [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: generative AI, bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *shared concepts: hallucination, generative AI, large language models, accountability | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *shared concepts: transparency, hallucination, trust, bias | shared tension: Technical Capability vs Organizational Capacity*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: bias, accountability, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development, computational*
-- [[Park 2025 - Generative-AI-and-misinformation-a-scop]] — *shared concepts: hallucination, generative AI, large language models, misinformation | same subdomain | shared methodology: quantitative, framework development*
-- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *shared concepts: hallucination, bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

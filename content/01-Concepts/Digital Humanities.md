@@ -1,12 +1,12 @@
 ---
-title: "Digital Humanities"
-type: concept
-mentions: 7
-created: "2026-05-14"
+title: Digital Humanities
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 7
+created: 2026-05-14
 ---
 
 # Digital Humanities

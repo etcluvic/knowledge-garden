@@ -1,17 +1,17 @@
 ---
-title: "Generative Ai"
-type: concept
-mentions: 36
-created: "2026-05-14"
+title: Generative Ai
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 36
+created: 2026-05-14
 ---
 
 # Generative Ai
 
-> AI systems that produce text, images, code, audio, video, or other outputs in response to prompts or inputs. Generative AI—particularly large language models—reshapes knowledge production by enabling rapid content creation while raising questions about authorship, originality, provenance, and the erosion of deliberative processes through which understanding develops.
+> AI systems that produce text, images, code, audio, video, or other outputs in response to prompts or inputs. Generative AI—particularly large language models—reshapes knowledge production by enabling rapid content creation while raising questions about authorship, originality, provenance, and the erosion of delibercollaborative processes through which understanding develops.
 
 ---
 

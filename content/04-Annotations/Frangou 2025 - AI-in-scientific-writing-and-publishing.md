@@ -1,54 +1,18 @@
 ---
 title: "AI in scientific writing and publishing: A call for critical engagement"
-authors:
-  - "Frangou, Sophia, Umberto Volpe"
-  - "Andrea Fiorillo"
-year: "2025"
-domain: "AI and Scholarship"
-subdomain: "Forms of Research Output"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-  - "Efficiency vs Process"
-concepts:
-  - "transparency"
-  - "consent"
-  - "trust"
-  - "epistemic authority"
-  - "accountability"
-  - "bias"
-  - "reproducibility"
-  - "scholarly communication"
-methodologies:
-  - "framework development"
-stakeholders:
-  - "researchers"
-  - "publishers"
-  - "communities"
-  - "industry"
-source: "European Psychiatry 68 (1): e98"
-url: "https://doi.org/10.1192/j.eurpsy.2025.10061"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-scholarship
-  - forms-of-research-output
-  - method-framework-development
-  - topic-transparency
-  - topic-consent
-  - topic-trust
-  - topic-epistemic-authority
-  - topic-accountability
-  - topic-bias
-  - stakeholder-researchers
-  - stakeholder-publishers
-  - stakeholder-communities
-  - stakeholder-industry
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
   - tension-efficiency-v-process
+  - topic-transparency
+  - tension-operational-assistance-v-epistemic-authority
+  - topic-consent
+type: annotation
+created: 2026-05-14
 ---
 
 # AI in scientific writing and publishing: A call for critical engagement
@@ -80,17 +44,16 @@ Frangou, Volpe, and Fiorillo provide a succinct summary of the benefits of imple
 
 **Stakeholders**: researchers, publishers, communities, industry
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: trust, bias, accountability, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
 - [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: reproducibility, accountability, transparency, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
 - [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: trust, scholarly communication, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared concepts: bias, consent, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: bias, transparency, reproducibility, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Zeffiro 2024 - -EASST4S]] — *shared concepts: bias, accountability, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: trust, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

@@ -1,12 +1,12 @@
 ---
-title: "Explainability"
-type: concept
-mentions: 13
-created: "2026-05-14"
+title: Explainability
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 13
+created: 2026-05-14
 ---
 
 # Explainability

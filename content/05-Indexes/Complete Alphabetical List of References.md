@@ -96,7 +96,7 @@ Carroll, Stephanie Russo, Edit Herczog, Māui Hudson, Keith Russell, and Shelley
 
 Checco, Alessandro, Lorenzo Bracciale, Pierpaolo Loreti, Stephen Pinfield, and Giuseppe Bianchi. 2021. "AI-Assisted Peer Review." Humanities and Social Sciences Communications 8: 25. https://doi.org/10.1038/s41599-020-00703-8
 
-Cheong, Inyoung. 2024. "ative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models." PhD diss., University of Washington. https://homes.cs.washington.edu/\~yoshi/papers/theses/inyoung-cheong-dissertation.pdf
+Cheong, Inyoung. 2024. "Collaborative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models." PhD diss., University of Washington. https://homes.cs.washington.edu/\~yoshi/papers/theses/inyoung-cheong-dissertation.pdf
 
 Chun, J., & Elkins, K. (2023). The Crisis of Artificial Intelligence: A New Digital Humanities Curriculum for Human-Centred AI. International Journal of Humanities and Arts Computing. https://doi.org/10.3366/ijhac.2023.0310
 
@@ -206,7 +206,7 @@ Lewis, Jason Edward, Noelani Arista, Archer Pechawis, and Suzanne Kite. 2018. �
 
 Liang, Weixin, Tara Iyer, Marianna Zhang, Zachary Lipton, and James Zou. 2024. "Evaluating Science: A Comparison of Human and AI Reviewers."  and Decision Making 19: e24. https://doi.org/10.1017/jdm.2024.24
 
-Linåker, Johan, Cailean Osborne, Jennifer Ding, Daniel Puttick, and Richard Nweibo. 2025. "A Cartography of Open ation in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects." arXiv preprint arXiv:2509.25397. arXiv:https://arxiv.org/abs/2509.25397
+Linåker, Johan, Cailean Osborne, Jennifer Ding, Daniel Puttick, and Richard Nweibo. 2025. "A Cartography of Open Collaboration in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects." arXiv preprint arXiv:2509.25397. arXiv:https://arxiv.org/abs/2509.25397
 
 Long, Duri, and Brian Magerko. 2020. "What is AI Literacy? Competencies and Design Considerations." In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1–13. New York, NY: Association for Computing Machinery. https://doi.org/10.1145/3313831.3376727
 
@@ -310,7 +310,7 @@ Shin, Donghee, Amy Koerber, and Joon Soo Lim. 2024. "Impact of misinformation fr
 
 Sidorkin, Alexander. 2025. "Environmental Impact of Generative AI: Carbon and Water Footprint." AI-EDU Arxiv 1. https://doi.org/10.36851/ai-edu.vi.5448
 
-Siemens, L., & INKE Research Group (2023). I Stayed for the Community: ation and Community in an Open Social Scholarship Research Project. Pop! https://doi.org/10.54590/pop.2023.013
+Siemens, L., & INKE Research Group (2023). I Stayed for the Community: Collaboration and Community in an Open Social Scholarship Research Project. Pop! https://doi.org/10.54590/pop.2023.013
 
 Simon, Judith. 2025. "Generative AI, Quadruple Deception & Trust." Social Epistemology. https://doi.org/10.1080/02691728.2025.2491087
 

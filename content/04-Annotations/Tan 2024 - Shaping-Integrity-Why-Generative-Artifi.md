@@ -1,54 +1,17 @@
 ---
-
 title: "Shaping Integrity: Why Generative Artificial Intelligence Does Not Have to' Undermine Education"
-authors:
-- Tan, Myles Joshua Toledo
-- NMAT Maravilla
-year: '2024'
 domain: AI and Scholarship
-subdomain: Teaching and Pedagogy
-tensions:
-- Operational Assistance vs Epistemic Authority
-- Technical Capability vs Organizational Capacity
-concepts:
-- evaluation
-- transparency
-- epistemic authority
-- generative AI
-- research integrity
-- citation
-methodologies:
-- framework development
-- comparative
-- theoretical
-- design research
-stakeholders:
-- researchers
-- students
-source: 'Frontiers in Artificial Intelligence 7: 1471224'
-url: "https://doi.org/10.3389/frai.2024.1471224"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Operational Assistance vs Epistemic Authority
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - teaching-and-pedagogy
-  - method-framework-development
-  - method-comparative
-  - method-theoretical
-  - method-design-research
-  - topic-evaluation
-  - topic-transparency
-  - topic-epistemic-authority
-  - topic-generative-ai
-  - topic-research-integrity
-  - topic-citation
-  - stakeholder-researchers
+  - cited-in-introduction
   - stakeholder-students
   - tension-operational-assistance-v-epistemic-authority
-  - tension-technical-capability-v-organizational-capacity
-  - cited-in-introduction
+  - teaching-and-pedagogy
+type: annotation
+created: 2026-05-14
 ---
 
 # Shaping Integrity: Why Generative Artificial Intelligence Does Not Have to Undermine Education
@@ -87,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, students
 
-### See Also
-
-- [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] — *content similarity (0.31) | shared concepts: citation, evaluation, transparency | shared tension: Operational Assistance vs Epistemic Authority*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: evaluation, citation, generative AI, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, evaluation, research integrity, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *content similarity (0.28) | shared concepts: evaluation, transparency | shared tension: Technical Capability vs Organizational Capacity*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: generative AI, evaluation, transparency, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: citation, evaluation, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: comparative, design research*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: evaluation, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, theoretical*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: evaluation, research integrity, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] — *content similarity (0.31) | shared concepts: citation, evaluation, transparency | shared tension: Operational Assistance vs Epistemic Authority*
+- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *content similarity (0.28) | shared concepts: evaluation, transparency | shared tension: Technical Capability vs Organizational Capacity*
+- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, evaluation, research integrity, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
+
+</details>

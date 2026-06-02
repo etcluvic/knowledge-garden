@@ -1,39 +1,15 @@
 ---
-
-title: 'AI as Philosophical Ideology: A Critical Look Back at John McCarthy’s Program'
-authors:
-- 'Anderson, Marc M. “AI as Philosophical Ideology: A Critical Look Back at John McCarthy’s
-  Program.” Philosophy'
-- Technology 37, no. 2 (March 19
-year: '2024'
+title: "AI as Philosophical Ideology: A Critical Look Back at John McCarthy’s Program"
 domain: Essential Contexts
-subdomain: "Histories & Theories of AI"
-tensions:
-- Operational Assistance vs Epistemic Authority
-concepts:
-- AI ethics
-- bias
-methodologies:
-- framework development
-- critical analysis
-stakeholders:
-- industry
-source: "Philosophy & Technology 37, no"
-url: "https://doi.org/10.1007/s13347-024-00731-1"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-framework-development
-  - method-critical-analysis
-  - topic-ai-ethics
-  - topic-bias
-  - stakeholder-industry
-  - tension-operational-assistance-v-epistemic-authority
   - cited-in-introduction
+  - topic-ai-ethics
+  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # AI as Philosophical Ideology: A Critical Look Back at John McCarthy’s Program
@@ -72,17 +48,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: industry
 
-### See Also
-
-- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development | cites Hara*
-- [[Mohamed 2020 - Decolonial-AI-Decolonial-Theory-as-Soci]] — *shared methodology: framework development | cites Philosophy*
-- [[Chun 2023 - The-Crisis-of-Artificial-Intelligence-A]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: framework development*
-- [[McIntosh 2023 - From-Google-Gemini-to-OpenAI-Q-Q-Star]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: framework development*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: critical analysis, framework development*
-- [[Werder 2022 - Establishing-Data-Provenance-for-Respons]] — *shared concepts: bias, AI ethics | shared methodology: framework development*
-- [[Yim 2025 - Artificial-Intelligence-AI-Learning-To]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: critical analysis, framework development*
-- [[Bender 2021 - On-the-Dangers-of-Stochastic-Parrots-Ca]] — *same subdomain | shared methodology: critical analysis, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Chun 2023 - The-Crisis-of-Artificial-Intelligence-A]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: framework development*
+- [[McIntosh 2023 - From-Google-Gemini-to-OpenAI-Q-Q-Star]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: framework development*
+- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development | cites Hara*
+
+</details>

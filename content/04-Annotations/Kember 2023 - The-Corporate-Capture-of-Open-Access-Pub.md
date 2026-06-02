@@ -1,47 +1,15 @@
 ---
-
 title: The Corporate Capture of Open-Access Publishing
-authors:
-- Kember, Sarah
-- Amy Brand
-year: '2023'
 domain: AI and Open
-subdomain: Open Access
-tensions: []
-concepts:
-- scholarly communication
-- open access
-- accessibility
-- infrastructure
-methodologies:
-- framework development
-stakeholders:
-- researchers
-- institutions
-- publishers
-- communities
-- industry
-source: The Review
-url: "https://www.chronicle.com/article/the-corporate-capture-of-open-access-publishing"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension: []
 tags:
   - annotation
-  - ai-and-open
-  - open-access
-  - method-framework-development
-  - topic-scholarly-communication
-  - topic-open-access
-  - topic-accessibility
-  - topic-infrastructure
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-publishers
-  - stakeholder-communities
-  - stakeholder-industry
-  - region-global
   - cited-in-introduction
+  - open-access
+  - topic-open-access
+  - stakeholder-publishers
+type: annotation
+created: 2026-05-14
 ---
 
 # The Corporate Capture of Open-Access Publishing
@@ -82,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Geographic Focus**: Global
 
-### See Also
-
-- [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *shared concepts: scholarly communication, infrastructure, open access | same subdomain | shared methodology: framework development*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared methodology: framework development | cites Shin*
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: accessibility, infrastructure, open access | shared methodology: framework development*
-- [[Nelson 2023 - No-Journal-is-an-Island-The-John-Donne]] — *cites INKE*
-- [[Winter 2020 - Foundations-for-the-Canadian-HSS-Commons]] — *cites INKE*
-- [[Arbuckle 2019 - Modelling-Open-Social-Scholarship-Within]] — *shared concepts: scholarly communication, infrastructure, open access*
-- [[El Khatib 2019 - Open-Social-Scholarship-Annotated-Biblio]] — *shared concepts: accessibility, infrastructure, open access*
-- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: accessibility, scholarly communication, infrastructure*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *shared concepts: scholarly communication, infrastructure, open access | same subdomain | shared methodology: framework development*
+- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: accessibility, infrastructure, open access | shared methodology: framework development*
+- [[Arbuckle 2019 - Modelling-Open-Social-Scholarship-Within]] — *shared concepts: scholarly communication, infrastructure, open access*
+
+</details>

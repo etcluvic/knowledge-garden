@@ -1,31 +1,14 @@
 ---
 title: "No Journal is an Island: The John Donne Journal and the Possibilities of Open Access"
-authors:
-  - "Nelson, B., Dela Pena, M., Prototyping the Digital Archive Team"
-  - "INKE"
-year: "2023"
-domain: "Essential Contexts"
-subdomain: "Knowledge Foundations"
-tensions:
-  []
-concepts:
-  - "open access"
-methodologies:
-  - "case study"
-stakeholders:
-  - "communities"
-source: "Pop! Public"
-url: "https://doi.org/10.54590/pop.2023.007"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: Essential Contexts
+tension: []
 tags:
   - annotation
-  - essential-contexts
-  - knowledge-foundations
-  - method-case-study
   - topic-open-access
-  - stakeholder-communities
+  - essential-contexts
+  - method-case-study
+type: annotation
+created: 2026-05-14
 ---
 
 # No Journal is an Island: The John Donne Journal and the Possibilities of Open Access

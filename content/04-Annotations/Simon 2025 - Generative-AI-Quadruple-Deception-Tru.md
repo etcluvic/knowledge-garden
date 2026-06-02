@@ -1,40 +1,18 @@
 ---
 title: "Generative AI, Quadruple Deception & Trust"
-authors:
-  - "Simon, Judith"
-year: "2025"
-domain: "AI and Social"
-subdomain: "Human, Labour and Environmental Costs"
-tensions:
-  - "Efficiency vs Process"
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "generative AI"
-  - "large language models"
-  - "governance"
-  - "citation"
-methodologies:
-  - "design research"
-stakeholders:
-  []
-source: "Social Epistemology 40, 1: 101-115"
-url: "https://doi.org/10.1080/02691728.2025.2491087"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Efficiency vs Process
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - human-labour-and-environmental-costs
-  - method-design-research
   - topic-generative-ai
-  - topic-large-language-models
   - topic-governance
-  - topic-citation
   - tension-efficiency-v-process
   - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Generative AI, Quadruple Deception & Trust
@@ -64,17 +42,16 @@ Simon proposes that GenAI entails four types of deception, and that this quadrup
 
 **Methodologies**: `design research`
 
-### See Also
-
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: generative AI, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: citation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | shared methodology: design research*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, large language models | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: design research*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research | cites Long*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: large language models, governance | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared concepts: generative AI, governance | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: citation, generative AI | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Sidorkin 2025 - Environmental-Impact-of-Generative-AI-C]] — *shared concepts: citation, generative AI | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: generative AI, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Sidorkin 2025 - Environmental-Impact-of-Generative-AI-C]] — *shared concepts: citation, generative AI | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain*
+- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: citation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | shared methodology: design research*
+
+</details>

@@ -1,43 +1,12 @@
 ---
-title: "Does Algorithmic Content Moderation Promote Democratic Discourse? Radical Democratic Critique of Toxic Language AI"
-authors:
-  - "Oh, Dayei"
-  - "John Downey"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Governance, Leadership and Policy"
-tensions:
-  []
-concepts:
-  - "transparency"
-  - "diversity"
-  - "equity"
-  - "participation"
-methodologies:
-  - "computational"
-  - "framework development"
-  - "critical analysis"
-stakeholders:
-  - "publishers"
-  - "communities"
-source: "Information, Communication & Society 28 (7): 1157–76"
-url: ""
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Does Algorithmic Content Moderation Promote Democratic Discourse? Radical Democratic Critique of Toxic Language AI
+domain: AI and Social
+tension: []
 tags:
   - annotation
-  - ai-and-social
-  - governance-leadership-and-policy
-  - method-computational
-  - method-framework-development
-  - method-critical-analysis
-  - topic-transparency
-  - topic-diversity
-  - topic-equity
   - topic-participation
-  - stakeholder-publishers
-  - stakeholder-communities
+type: annotation
+created: 2026-05-14
 ---
 
 # Does Algorithmic Content Moderation Promote Democratic Discourse? Radical Democratic Critique of Toxic Language AI
@@ -45,7 +14,6 @@ tags:
 **Oh, Dayei; John Downey** (2024)
 
 *Information, Communication & Society 28 (7): 1157–76*
-
 
 
 ---
@@ -69,17 +37,16 @@ Oh and Downey critically examine how algorithmic content moderation shapes publi
 
 **Stakeholders**: publishers, communities
 
-### See Also
-
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: transparency, equity, diversity | shared methodology: computational, critical analysis, framework development*
-- [[Daniel Delmonaco 2024 - What-are-you-doing-TikTok]] — *content similarity (0.25) | shared methodology: computational, framework development*
-- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared concepts: participation, transparency, diversity | same subdomain | shared methodology: framework development*
-- [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *content similarity (0.28) | shared methodology: computational*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: participation, transparency, diversity | shared methodology: computational, framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: equity, diversity | shared methodology: computational, critical analysis, framework development*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *shared concepts: participation, diversity | same subdomain | shared methodology: framework development*
-- [[Gasser 2017 - A-Layered-Model-for-AI-Governance]] — *shared concepts: transparency, diversity | same subdomain | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *content similarity (0.28) | shared methodology: computational*
+- [[Daniel Delmonaco 2024 - What-are-you-doing-TikTok]] — *content similarity (0.25) | shared methodology: computational, framework development*
+- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared concepts: participation, transparency, diversity | same subdomain | shared methodology: framework development*
+
+</details>

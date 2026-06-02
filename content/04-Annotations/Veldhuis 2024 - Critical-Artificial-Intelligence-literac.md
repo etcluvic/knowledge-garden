@@ -1,50 +1,16 @@
 ---
 title: "Critical Artificial Intelligence literacy: A scoping review and framework synthesis"
-authors:
-  - "Veldhuis, Annemiek M., Phoebe W. K. Lo, Iain E. G. Kenny"
-  - "Alissa N. Antle"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Critical Literacies"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "algorithmic bias"
-  - "accountability"
-  - "bias"
-  - "peer review"
-  - "generative AI"
-  - "surveillance"
-  - "diversity"
-  - "provenance"
-methodologies:
-  - "computational"
-  - "framework development"
-  - "theoretical"
-  - "empirical"
-stakeholders:
-  - "students"
-source: "International Journal of Child-Computer Interaction 43: 100708"
-url: "https://doi.org/10.1016/j.ijcci.2024.100708"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - critical-literacies
-  - method-computational
-  - method-framework-development
-  - method-theoretical
+  - topic-bias
   - method-empirical
   - topic-algorithmic-bias
   - topic-accountability
-  - topic-bias
-  - topic-peer-review
-  - topic-generative-ai
-  - topic-surveillance
-  - stakeholder-students
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Critical Artificial Intelligence literacy: A scoping review and framework synthesis
@@ -76,17 +42,16 @@ Veldhuis and colleagues present a review of literature and framework synthesis t
 
 **Stakeholders**: students
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *content similarity (0.29) | shared concepts: generative AI, accountability | shared tension: Technical Capability vs Organizational Capacity*
 - [[Ng 2021 - Conceptualizing-AI-Literacy-An-Explorat]] — *content similarity (0.33) | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: algorithmic bias, generative AI, bias, peer review | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development, empirical*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: algorithmic bias, bias, accountability, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development, theoretical*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: algorithmic bias, generative AI, bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: generative AI, bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development, theoretical*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: peer review, generative AI, surveillance, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development, empirical, theoretical*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

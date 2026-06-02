@@ -1,52 +1,17 @@
 ---
 title: "Critical GenAI Literacy: Postdigital Configurations"
-authors:
-  - "Rapanta, Chrysi, Anna Åkerfeldt, Mark Vanderbeeken, Diane Lison, Khadija Mohammed, Amanda Gibbs, Helder Coelho, Pinar Seda Celik, Carola Bruna, Ingrid Helleve, Chrysoula Vassilakopoulou, Pieter Swart, Ana Lúcia Marques"
-  - "Dirk Ifenthaler"
-year: "2025"
-domain: "AI and Social"
-subdomain: "Critical Literacies"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "generative AI"
-  - "large language models"
-  - "epistemic authority"
-  - "hallucination"
-  - "explainability"
-  - "accountability"
-  - "participation"
-methodologies:
-  - "computational"
-  - "framework development"
-  - "theoretical"
-stakeholders:
-  - "researchers"
-  - "students"
-source: "Postdigital Science and Education 17, no"
-url: "https://doi.org/10.1007/s42438-025-00573-w"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - critical-literacies
-  - method-computational
-  - method-framework-development
-  - method-theoretical
-  - topic-generative-ai
+  - tension-operational-assistance-v-epistemic-authority
   - topic-large-language-models
   - topic-epistemic-authority
-  - topic-hallucination
   - topic-explainability
-  - topic-accountability
-  - stakeholder-researchers
-  - stakeholder-students
-  - region-global-north
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Critical GenAI Literacy: Postdigital Configurations
@@ -80,17 +45,16 @@ Rapanta et al. develop a comprehensive and pluralistic account of what critical 
 
 **Geographic Focus**: Global North
 
-### See Also
-
-- [[Veldhuis 2024 - Critical-Artificial-Intelligence-literac]] — *content similarity (0.29) | shared concepts: generative AI, accountability | shared tension: Technical Capability vs Organizational Capacity*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: participation, large language models, accountability, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Zeffiro 2024 - -EASST4S]] — *shared concepts: generative AI, participation, accountability, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *content similarity (0.26) | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: hallucination, generative AI, large language models, accountability | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: hallucination, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, large language models, accountability | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: generative AI, accountability, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Veldhuis 2024 - Critical-Artificial-Intelligence-literac]] — *content similarity (0.29) | shared concepts: generative AI, accountability | shared tension: Technical Capability vs Organizational Capacity*
+- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *content similarity (0.26) | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: participation, large language models, accountability, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
+
+</details>

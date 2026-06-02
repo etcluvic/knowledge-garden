@@ -1,47 +1,16 @@
 ---
 title: "AI Governance: A Systematic Literature Review"
-authors:
-  - "Batool, Amna, Didar Zowghi"
-  - "Muneera Bano"
-year: "2025"
-domain: "AI and Scholarship"
-subdomain: "Infrastructures"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "governance"
-  - "infrastructure"
-  - "AI governance"
-methodologies:
-  - "literature review"
-  - "computational"
-  - "framework development"
-  - "design research"
-stakeholders:
-  - "researchers"
-  - "institutions"
-  - "industry"
-source: "AI and Ethics 5: 3265–3279"
-url: "https://doi.org/10.1007/s43681-024-00653-w"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-literature-review
-  - method-computational
-  - method-framework-development
-  - method-design-research
   - topic-governance
-  - topic-infrastructure
+  - method-literature-review
   - topic-ai-governance
-  - stakeholder-researchers
   - stakeholder-institutions
-  - stakeholder-industry
-  - region-global
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # AI Governance: A Systematic Literature Review
@@ -75,17 +44,16 @@ Batool and colleagues' (2025) systematic literature review offers a comprehensiv
 
 **Geographic Focus**: Global
 
-### See Also
-
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *content similarity (0.31) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *content similarity (0.29) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *content similarity (0.31) | shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: AI governance, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development, computational, literature review*
-- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Chung 2025 - Betting-on-UnCertain-Futures-Sociotec]] — *shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development, computational*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *content similarity (0.31) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
+- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *content similarity (0.31) | shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
+- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *content similarity (0.29) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
+
+</details>

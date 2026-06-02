@@ -1,60 +1,16 @@
 ---
 title: "Integrating Artificial Intelligence-Based Technologies ‘Safely’ in Academic Libraries: An Overview through a Scoping Review"
-authors:
-  - "Ngulube, Patrick"
-  - "Neema Florence Vincent Mosha"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Infrastructures"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "algorithmic bias"
-  - "AI governance"
-  - "governance"
-  - "accountability"
-  - "transparency"
-  - "bias"
-  - "diversity"
-  - "accessibility"
-  - "interoperability"
-  - "environmental impact"
-methodologies:
-  - "literature review"
-  - "qualitative"
-  - "quantitative"
-  - "mixed methods"
-  - "computational"
-  - "framework development"
-  - "theoretical"
-stakeholders:
-  - "researchers"
-  - "institutions"
-source: "The Journal of Academic Librarianship 50(5)"
-url: "https://doi.org/10.1080/07317131.2024.2432093"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-literature-review
-  - method-qualitative
-  - method-quantitative
-  - method-mixed-methods
-  - method-computational
-  - method-framework-development
   - method-theoretical
-  - topic-algorithmic-bias
-  - topic-ai-governance
   - topic-governance
-  - topic-accountability
-  - topic-transparency
   - topic-bias
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - tension-technical-capability-v-organizational-capacity
+  - method-qualitative
+type: annotation
+created: 2026-05-14
 ---
 
 # Integrating Artificial Intelligence-Based Technologies ‘Safely’ in Academic Libraries: An Overview through a Scoping Review
@@ -86,17 +42,16 @@ Ngulube and Mosha (2025) conduct a scoping review examining the state of researc
 
 **Stakeholders**: researchers, institutions
 
-### See Also
-
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: interoperability, AI governance, accountability, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: algorithmic bias, transparency, governance, bias | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: governance, transparency, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: literature review, computational, quantitative, framework development, qualitative*
-- [[Gasser 2017 - A-Layered-Model-for-AI-Governance]] — *shared concepts: AI governance, accountability, transparency, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development, theoretical*
-- [[Veldhuis 2024 - Critical-Artificial-Intelligence-literac]] — *shared concepts: algorithmic bias, bias, accountability, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development, theoretical*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared concepts: interoperability, AI governance, accountability, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Sartori 2022 - A-sociotechnical-perspective-for-the-fut]] — *shared concepts: accountability, transparency, governance, bias | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared concepts: AI governance, accountability, transparency, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: interoperability, AI governance, accountability, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared concepts: interoperability, AI governance, accountability, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: algorithmic bias, transparency, governance, bias | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
+
+</details>

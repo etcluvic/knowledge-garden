@@ -1,39 +1,16 @@
 ---
 title: "FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian"
-authors:
-  - "Papi, Sara, Marco Gaido, Luisa Bentivogli"
-  - "Matteo Negri"
-year: "2025"
-domain: "AI and Open"
-subdomain: "Open Science"
-tensions:
-  - "Openness vs Enclosure"
-concepts:
-  - "large language models"
-  - "open science"
-  - "open source"
-  - "training data"
-methodologies:
-  - "case study"
-  - "framework development"
-stakeholders:
-  []
-source: "arXiv preprint arXiv:2505"
-url: "https://arxiv.org/abs/2505.22759"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Open
+tension:
+  - Openness vs Enclosure
 tags:
   - annotation
-  - ai-and-open
   - open-science
-  - method-case-study
-  - method-framework-development
-  - topic-large-language-models
   - topic-open-science
+  - method-case-study
   - topic-open-source
-  - topic-training-data
-  - tension-openness-v-enclosure
+type: annotation
+created: 2026-05-14
 ---
 
 # FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian
@@ -62,17 +39,16 @@ This article presents an Open Science Speech Foundation Model (SFM) called FAMA,
 
 **Methodologies**: `case study`, `framework development`
 
-### See Also
-
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *shared concepts: open source, open science, large language models | shared tension: Openness vs Enclosure | same subdomain*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: open source, training data, large language models | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[White 2024 - The-Model-Openness-Framework-Promoting]] — *shared concepts: open source, training data, open science | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Ación 2023 - Generative-AI-Poses-Ethical-Challenges-f]] — *shared concepts: open source, open science | shared tension: Openness vs Enclosure | same subdomain*
-- [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *shared concepts: open source, open science | shared tension: Openness vs Enclosure | same subdomain*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: open source, training data, large language models | shared methodology: framework development*
-- [[Baltes 2025 - Guidelines-for-Empirical-Studies-in-Soft]] — *shared concepts: open science, large language models | same subdomain | shared methodology: framework development*
-- [[Biderman 2022 - EleutherAI-Going-Beyond-Open-Science]] — *shared concepts: open science, large language models | same subdomain | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *shared concepts: open source, open science, large language models | shared tension: Openness vs Enclosure | same subdomain*
+- [[Ación 2023 - Generative-AI-Poses-Ethical-Challenges-f]] — *shared concepts: open source, open science | shared tension: Openness vs Enclosure | same subdomain*
+- [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *shared concepts: open source, open science | shared tension: Openness vs Enclosure | same subdomain*
+
+</details>

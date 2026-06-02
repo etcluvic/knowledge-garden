@@ -1,12 +1,12 @@
 ---
-title: "Data Sovereignty"
-type: concept
-mentions: 3
-created: "2026-05-14"
+title: Data Sovereignty
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 3
+created: 2026-05-14
 ---
 
 # Data Sovereignty

@@ -100,7 +100,7 @@ tags:
 - [[Ación 2023 - Generative-AI-Poses-Ethical-Challenges-f]]
 - [[Biderman 2022 - EleutherAI-Going-Beyond-Open-Science]]
 - [[Baltes 2025 - Guidelines-for-Empirical-Studies-in-Soft]]
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]]
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]]
 - [[Papi 2025 - FAMA-The-First-Large-Scale-Open-Science]]
 - [[Gundersen 2024 - The-Unreasonable-Effectiveness-of-Open-S]]
 
@@ -127,7 +127,7 @@ tags:
 - [[Sposato 2025 - Artificial-Intelligence-in-Educational-L]]
 - [[Balendra 2025 - Metas-AI-Moderation-and-Free-Speech-On]]
 - [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]]
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]]
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]]
 - [[Seger et al Democratising AI Multiple Meanings 2023 - Democratising-AI-Multiple-Meanings-Goa]]
 - [[Oh 2024 - Does-Algorithmic-Content-Moderation-Prom]]
 - [[Floridi 2018 - Soft-Ethics-and-the-Governance-of-the-Di]]

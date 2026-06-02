@@ -1,41 +1,13 @@
 ---
-title: "A Justice-Based Framework for the Analysis of Algorithmic Fairness-Utility Trade-Offs"
-authors:
-  - "Hertweck, Corinna, Joachim Baumann, Michele Loi, Eleonora Viganò"
-  - "Christoph Heitz"
-year: "2022"
-domain: "AI and Social"
-subdomain: "Diversity, Determinism, Bias and Justice"
-tensions:
-  []
-concepts:
-  - "evaluation"
-  - "automation"
-  - "citation"
-  - "transparency"
-methodologies:
-  - "framework development"
-  - "empirical"
-stakeholders:
-  - "publishers"
-  - "industry"
-source: "ArXiv"
-url: "https://arxiv.org/abs/2206.02891"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: A Justice-Based Framework for the Analysis of Algorithmic Fairness-Utility Trade-Offs
+domain: AI and Social
+tension: []
 tags:
   - annotation
-  - ai-and-social
-  - diversity-determinism-bias-and-justice
-  - method-framework-development
   - method-empirical
   - topic-evaluation
-  - topic-automation
-  - topic-citation
-  - topic-transparency
-  - stakeholder-publishers
-  - stakeholder-industry
+type: annotation
+created: 2026-05-14
 ---
 
 # A Justice-Based Framework for the Analysis of Algorithmic Fairness-Utility Trade-Offs
@@ -69,17 +41,16 @@ The authors argue for a utility-based evaluation of fairness, determining the va
 
 **Stakeholders**: publishers, industry
 
-### See Also
-
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: citation, automation, evaluation, transparency | shared methodology: framework development, empirical*
-- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared methodology: empirical | cites Wong*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: automation, evaluation, transparency | shared methodology: framework development*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: automation, evaluation, transparency | shared methodology: framework development*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: automation, evaluation, transparency | shared methodology: framework development*
-- [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] — *shared concepts: citation, evaluation, transparency | shared methodology: empirical*
-- [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *shared concepts: citation, evaluation, transparency | shared methodology: framework development*
-- [[El Khatib 2019 - Open-Social-Scholarship-Annotated-Biblio]] — *cites Groups*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: citation, automation, evaluation, transparency | shared methodology: framework development, empirical*
+- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: automation, evaluation, transparency | shared methodology: framework development*
+- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: automation, evaluation, transparency | shared methodology: framework development*
+
+</details>

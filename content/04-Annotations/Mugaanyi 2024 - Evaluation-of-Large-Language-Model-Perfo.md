@@ -1,44 +1,16 @@
 ---
-title: "Evaluation of Large Language Model Performance and Reliability for Citation Generation Across Scientific Disciplines"
-authors:
-  - "Mugaanyi, Joseph, Christoph Lehner"
-  - "Lia M. Bally"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Research Methods and Practices"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "large language models"
-  - "trust"
-  - "citation"
-  - "hallucination"
-  - "curation"
-  - "scholarly communication"
-methodologies:
-  - "framework development"
-stakeholders:
-  - "researchers"
-  - "industry"
-source: "Journal of Medical Internet Research 26: e52935"
-url: "https://doi.org/10.2196/52935"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Evaluation of Large Language Model Performance and Reliability for Citation Generation Across Scientific Disciplines
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - research-methods-and-practices
-  - method-framework-development
-  - topic-large-language-models
-  - topic-trust
   - topic-citation
-  - topic-hallucination
-  - topic-curation
-  - topic-scholarly-communication
   - stakeholder-researchers
-  - stakeholder-industry
+  - topic-scholarly-communication
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Evaluation of Large Language Model Performance and Reliability for Citation Generation Across Scientific Disciplines
@@ -70,17 +42,16 @@ Mugaanyi, Lehner, and Bally perform a study aimed at gauging the accuracy and re
 
 **Stakeholders**: researchers, industry
 
-### See Also
-
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: citation, hallucination, curation, large language models | shared tension: Technical Capability vs Organizational Capacity*
-- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *shared concepts: curation, hallucination, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: hallucination, large language models, trust | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: citation, trust, scholarly communication | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: hallucination, trust, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: citation, curation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: curation, trust, scholarly communication | same subdomain | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *shared concepts: curation, hallucination, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: citation, hallucination, curation, large language models | shared tension: Technical Capability vs Organizational Capacity*
+
+</details>

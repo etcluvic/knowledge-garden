@@ -1,12 +1,12 @@
 ---
-title: "Trust"
-type: concept
-mentions: 18
-created: "2026-05-14"
+title: Trust
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 18
+created: 2026-05-14
 ---
 
 # Trust

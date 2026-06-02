@@ -1,53 +1,18 @@
 ---
 title: "Open Science at the generative AI turn: An exploratory analysis of challenges and opportunities"
-authors:
-  - "Hosseini,Mohammad,  Serge P. J. M. Horbach, Kristi Holmes, Tony Ross-Hellauer"
-year: "2025"
-domain: "AI and Open"
-subdomain: "Open Science"
-tensions:
-  - "Openness vs Enclosure"
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "generative AI"
-  - "open science"
-  - "evaluation"
-  - "infrastructure"
-  - "open access"
-  - "open source"
-  - "open data"
-  - "surveillance"
-  - "participation"
-  - "misinformation"
-  - "environmental impact"
-methodologies:
-  []
-stakeholders:
-  - "researchers"
-  - "institutions"
-  - "publishers"
-source: "Quantitative Science Studies 6 22–45"
-url: "https://doi.org/10.1162/qss_a_00337"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Open
+tension:
+  - Openness vs Enclosure
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-open
   - open-science
   - topic-generative-ai
   - topic-open-science
   - topic-evaluation
-  - topic-infrastructure
-  - topic-open-access
-  - topic-open-source
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-publishers
-  - tension-openness-v-enclosure
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Open Science at the generative AI turn: An exploratory analysis of challenges and opportunities
@@ -79,17 +44,16 @@ Hosseini et al. provide an overview of the potential benefits and downsides of i
 
 **Stakeholders**: researchers, institutions, publishers
 
-### See Also
-
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *content similarity (0.25) | shared concepts: open source, evaluation, open science, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure*
-- [[Ación 2023 - Generative-AI-Poses-Ethical-Challenges-f]] — *content similarity (0.25) | shared concepts: open source, open science | shared tension: Openness vs Enclosure, Operational Assistance vs Epistemic Authority*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: participation, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | cites Hosseini*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: generative AI, evaluation, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Openness vs Enclosure*
-- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: generative AI, surveillance, infrastructure, misinformation | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared concepts: generative AI, participation, evaluation, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: evaluation, open science, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: evaluation, open science, infrastructure, open access | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *content similarity (0.25) | shared concepts: open source, evaluation, open science, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure*
+- [[Ación 2023 - Generative-AI-Poses-Ethical-Challenges-f]] — *content similarity (0.25) | shared concepts: open source, open science | shared tension: Openness vs Enclosure, Operational Assistance vs Epistemic Authority*
+- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: evaluation, open science, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
+
+</details>

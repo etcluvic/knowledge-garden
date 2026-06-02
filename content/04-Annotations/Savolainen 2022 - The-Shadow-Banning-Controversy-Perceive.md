@@ -1,38 +1,14 @@
 ---
 title: "The Shadow Banning Controversy: Perceived Governance and Algorithmic Folklore"
-authors:
-  - "Savolainen, Lotta"
-year: "2022"
-domain: "AI and Social"
-subdomain: "Platforms"
-tensions:
-  []
-concepts:
-  - "governance"
-  - "infrastructure"
-  - "automation"
-  - "transparency"
-methodologies:
-  - "quantitative"
-  - "computational"
-stakeholders:
-  - "publishers"
-source: "Media, Culture & Society 44, no"
-url: "https://doi.org/10.1177/01634437221077174"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension: []
 tags:
   - annotation
-  - ai-and-social
-  - platforms
-  - method-quantitative
-  - method-computational
   - topic-governance
-  - topic-infrastructure
-  - topic-automation
+  - platforms
   - topic-transparency
-  - stakeholder-publishers
+type: annotation
+created: 2026-05-14
 ---
 
 # The Shadow Banning Controversy: Perceived Governance and Algorithmic Folklore
@@ -64,17 +40,16 @@ Savolainen studies shadowbanning as a lens for understanding current algorithmic
 
 **Stakeholders**: publishers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Daniel Delmonaco 2024 - What-are-you-doing-TikTok]] — *content similarity (0.39) | shared concepts: governance, infrastructure, transparency | same subdomain*
 - [[Reynolds 2024 - User-Generated-Accountability-Public-Pa]] — *content similarity (0.28) | shared concepts: automation, governance, infrastructure, transparency | same subdomain*
 - [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *content similarity (0.26) | shared concepts: automation, governance, infrastructure, transparency | same subdomain*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: governance, infrastructure, transparency | shared methodology: quantitative, computational*
-- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: governance, infrastructure, transparency | same subdomain*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: automation, infrastructure, transparency | shared methodology: computational*
-- [[Chung 2025 - Betting-on-UnCertain-Futures-Sociotec]] — *shared concepts: automation, governance, infrastructure | shared methodology: computational*
-- [[Jarrahi 2021 - Algorithmic-management-in-a-work-context]] — *shared concepts: automation, governance, transparency | shared methodology: computational*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

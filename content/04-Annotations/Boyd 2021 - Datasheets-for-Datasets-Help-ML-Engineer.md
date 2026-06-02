@@ -1,50 +1,17 @@
 ---
-
-title: Datasheets for Datasets Help ML Engineers Notice and Understand Ethical Issues
-  in Training Data
-authors:
-- Boyd, Karen
-year: '2021'
+title: Datasheets for Datasets Help ML Engineers Notice and Understand Ethical Issues in Training Data
 domain: AI and Open
-subdomain: Open Data
-tensions:
-- Openness vs Enclosure
-- Technical Capability vs Organizational Capacity
-concepts:
-- machine learning
-- infrastructure
-- AI ethics
-- open access
-- open data
-- diversity
-- provenance
-- training data
-methodologies:
-- framework development
-- empirical
-stakeholders:
-- developers
-source: Proceedings of the ACM on Human-Computer Interaction 5, no
-url: "https://doi.org/10.1145/3479582"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Openness vs Enclosure
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-open
-  - open-data
-  - method-framework-development
-  - method-empirical
-  - topic-machine-learning
-  - topic-infrastructure
-  - topic-ai-ethics
-  - topic-open-access
-  - topic-open-data
-  - topic-diversity
-  - stakeholder-developers
-  - tension-openness-v-enclosure
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - open-data
+  - topic-open-data
+  - topic-machine-learning
+type: annotation
+created: 2026-05-14
 ---
 
 # Datasheets for Datasets Help ML Engineers Notice and Understand Ethical Issues in Training Data
@@ -83,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Heger 2022 - Understanding-Machine-Learning-Practitio]] — *content similarity (0.35) | shared concepts: training data, machine learning, AI ethics | shared tension: Technical Capability vs Organizational Capacity*
 - [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: machine learning, infrastructure, open data | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | same subdomain*
 - [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: infrastructure, open access, AI ethics | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | same subdomain*
-- [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: training data, infrastructure, machine learning, provenance | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *shared concepts: training data, infrastructure, machine learning, open access | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *shared concepts: AI ethics, diversity, infrastructure, provenance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *shared concepts: infrastructure, open data, open access | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: training data, open data | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+</details>

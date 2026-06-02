@@ -1,45 +1,16 @@
 ---
-title: "Establishing Data Provenance for Responsible Artificial Intelligence Systems"
-authors:
-  - "Werder, Karl, Balasubramaniam Ramesh"
-  - "Rongen (Sophia) Zhang"
-year: "2022"
-domain: "AI and Scholarship"
-subdomain: "Infrastructures"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "infrastructure"
-  - "provenance"
-  - "governance"
-  - "accountability"
-  - "AI ethics"
-  - "surveillance"
-  - "bias"
-methodologies:
-  - "framework development"
-stakeholders:
-  - "institutions"
-  - "policymakers"
-source: "ACM Transactions on Management Information Systems 13 (4): 1–25"
-url: "https://doi.org/10.1145/3503488"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Establishing Data Provenance for Responsible Artificial Intelligence Systems
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-framework-development
-  - topic-infrastructure
   - topic-provenance
-  - topic-governance
   - topic-accountability
-  - topic-ai-ethics
-  - topic-surveillance
-  - stakeholder-institutions
-  - stakeholder-policymakers
-  - tension-technical-capability-v-organizational-capacity
+  - infrastructures
+  - topic-infrastructure
+type: annotation
+created: 2026-05-14
 ---
 
 # Establishing Data Provenance for Responsible Artificial Intelligence Systems
@@ -71,17 +42,16 @@ Werder et al. provide a framework for understanding audit trails in the context 
 
 **Stakeholders**: institutions, policymakers
 
-### See Also
-
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: accountability, infrastructure, surveillance, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *shared concepts: AI ethics, infrastructure, governance, provenance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Veldhuis 2024 - Critical-Artificial-Intelligence-literac]] — *shared concepts: bias, surveillance, accountability, provenance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: bias, accountability, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: infrastructure, governance, AI ethics | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared concepts: governance, accountability, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Realising Potential 2025 - Realising-Potential-Supporting-Users-I]] — *shared concepts: bias, surveillance, AI ethics | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: accountability, infrastructure, surveillance, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *shared concepts: AI ethics, infrastructure, governance, provenance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: bias, accountability, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

@@ -1,43 +1,16 @@
 ---
 title: "‘Any Means Necessary to Refuse Erasure by Algorithm:’ Lillian-Yvonne Bertram’s Travesty Generator"
-authors:
-  - "Whalen, Zach"
-year: "2023"
-domain: "AI and Social"
-subdomain: "Community, Connection and the Human"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "transparency"
-  - "infrastructure"
-  - "provenance"
-methodologies:
-  - "computational"
-  - "framework development"
-stakeholders:
-  - "researchers"
-  - "institutions"
-  - "publishers"
-  - "developers"
-source: "Digital Humanities Quarterly 17 (2)"
-url: "https://www.digitalhumanities.org/dhq/vol/17/2/000707/000707.html"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - community-connection-and-the-human
   - method-computational
-  - method-framework-development
   - topic-transparency
-  - topic-infrastructure
   - topic-provenance
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-publishers
-  - stakeholder-developers
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # ‘Any Means Necessary to Refuse Erasure by Algorithm:’ Lillian-Yvonne Bertram’s Travesty Generator
@@ -69,17 +42,16 @@ Whalen treats Bertram’s Travesty Generator as a refunctioning of code-poetry l
 
 **Stakeholders**: researchers, institutions, publishers, developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: infrastructure, transparency, provenance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
 - [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Reynolds 2024 - User-Generated-Accountability-Public-Pa]] — *shared concepts: infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *shared concepts: infrastructure, provenance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: transparency, provenance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Boyd 2021 - Datasheets-for-Datasets-Help-ML-Engineer]] — *shared concepts: infrastructure, provenance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

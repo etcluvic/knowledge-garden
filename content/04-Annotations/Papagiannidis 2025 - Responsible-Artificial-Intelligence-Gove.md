@@ -1,60 +1,18 @@
 ---
-
-title: 'Responsible Artificial Intelligence Governance: A Review and Research Framework'
-authors:
-- Papagiannidis, Emmanouil, Patrick Mikalef
-- Kieran Conboy
-year: '2025'
+title: "Responsible Artificial Intelligence Governance: A Review and Research Framework"
 domain: AI and Scholarship
-subdomain: Infrastructures
-tensions:
-- Technical Capability vs Organizational Capacity
-- Operational Assistance vs Epistemic Authority
-- Efficiency vs Process
-concepts:
-- governance
-- interoperability
-- AI ethics
-- infrastructure
-- AI governance
-- accountability
-- surveillance
-- trust
-methodologies:
-- literature review
-- framework development
-- theoretical
-- design research
-stakeholders:
-- institutions
-- publishers
-- policymakers
-source: 'The Journal of Strategic Information Systems 34 (2): 101885'
-url: "https://doi.org/10.1016/j.jsis.2024.101885"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-literature-review
-  - method-framework-development
-  - method-theoretical
-  - method-design-research
-  - topic-governance
-  - topic-interoperability
-  - topic-ai-ethics
-  - topic-infrastructure
-  - topic-ai-governance
-  - topic-accountability
-  - stakeholder-institutions
-  - stakeholder-publishers
-  - stakeholder-policymakers
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
-  - tension-efficiency-v-process
   - cited-in-introduction
+  - topic-governance
+  - infrastructures
+  - method-theoretical
+type: annotation
+created: 2026-05-14
 ---
 
 # Responsible Artificial Intelligence Governance: A Review and Research Framework
@@ -93,17 +51,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: institutions, publishers, policymakers
 
-### See Also
-
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *content similarity (0.33) | shared concepts: interoperability, infrastructure, governance, AI ethics | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *content similarity (0.28) | shared concepts: AI governance, accountability, infrastructure, interoperability | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *content similarity (0.31) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
-- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *content similarity (0.26) | shared concepts: infrastructure, governance, AI ethics | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Wu 2024 - AI-Governance-in-Higher-Education-Case]] — *content similarity (0.27) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: trust, surveillance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: interoperability, AI governance, accountability, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: interoperability, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | shared methodology: design research, framework development, theoretical*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *content similarity (0.33) | shared concepts: interoperability, infrastructure, governance, AI ethics | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
+- [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *content similarity (0.31) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
+- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *content similarity (0.28) | shared concepts: AI governance, accountability, infrastructure, interoperability | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
+
+</details>

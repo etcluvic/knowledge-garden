@@ -1,12 +1,12 @@
 ---
-title: "Peer Review"
-type: concept
-mentions: 11
-created: "2026-05-14"
+title: Peer Review
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 11
+created: 2026-05-14
 ---
 
 # Peer Review

@@ -1,43 +1,13 @@
 ---
 title: "RESEARCH GENAI: SITUATING GENERATIVE AI IN THE SCHOLARLY ECONOMY"
-authors:
-  - "Mitchell, Peta, Michelle Riedlinger, Jake Goldenfein, Aaron Snoswell, Jean Burgess"
-  - "Kevin Witzenberger"
-year: "2025"
-domain: "AI and Scholarship"
-subdomain: "Infrastructures"
-tensions:
-  []
-concepts:
-  - "large language models"
-  - "generative AI"
-  - "open scholarship"
-  - "infrastructure"
-methodologies:
-  - "case study"
-  - "framework development"
-  - "design research"
-stakeholders:
-  - "researchers"
-  - "industry"
-source: "AoIR Selected Papers of Internet Research"
-url: "https://doi.org/10.5210/spir.v2024i0.14006"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension: []
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-case-study
-  - method-framework-development
-  - method-design-research
-  - topic-large-language-models
   - topic-generative-ai
   - topic-open-scholarship
-  - topic-infrastructure
-  - stakeholder-researchers
-  - stakeholder-industry
+type: annotation
+created: 2026-05-14
 ---
 
 # RESEARCH GENAI: SITUATING GENERATIVE AI IN THE SCHOLARLY ECONOMY
@@ -69,17 +39,16 @@ Mitchell et al. focus upon the oft-overlooked subfield of Generative AI tools kn
 
 **Stakeholders**: researchers, industry
 
-### See Also
-
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: generative AI, open scholarship, infrastructure | same subdomain | shared methodology: framework development, case study*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, large language models | shared methodology: design research, framework development, case study*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: generative AI, large language models, infrastructure | shared methodology: framework development*
-- [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *shared concepts: large language models, infrastructure | shared methodology: design research, framework development*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: large language models, infrastructure | shared methodology: design research, framework development*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: large language models, infrastructure | shared methodology: design research, framework development*
-- [[Pividori 2024 - A-Publishing-Infrastructure-for-Artifici]] — *same subdomain | shared methodology: design research, framework development, case study*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared concepts: generative AI, infrastructure | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: generative AI, open scholarship, infrastructure | same subdomain | shared methodology: framework development, case study*
+- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared concepts: generative AI, infrastructure | same subdomain*
+- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, large language models | shared methodology: design research, framework development, case study*
+
+</details>

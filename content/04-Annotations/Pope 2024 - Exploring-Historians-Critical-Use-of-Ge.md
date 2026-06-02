@@ -1,42 +1,16 @@
 ---
-title: "Exploring Historians’ Critical Use of Generative AI Technologies for History Education"
-authors:
-  - "Pope, Andrew"
-  - "Rongqian Ma"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Teaching and Pedagogy"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "research integrity"
-  - "generative AI"
-  - "scholarly communication"
-  - "evaluation"
-methodologies:
-  - "qualitative"
-  - "quantitative"
-stakeholders:
-  - "researchers"
-  - "students"
-source: "Proceedings of the Association for Information Science and Technology 61 (1): 1071–73"
-url: "https://doi.org/10.1002/pra2.1188"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Exploring Historians’ Critical Use of Generative AI Technologies for History Education
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - teaching-and-pedagogy
-  - method-qualitative
-  - method-quantitative
-  - topic-research-integrity
   - topic-generative-ai
   - topic-scholarly-communication
-  - topic-evaluation
-  - stakeholder-researchers
   - stakeholder-students
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Exploring Historians’ Critical Use of Generative AI Technologies for History Education
@@ -68,17 +42,16 @@ Pope and Ma conducted semi-structured interviews of seven history professors to 
 
 **Stakeholders**: researchers, students
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, evaluation, research integrity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *shared concepts: generative AI, evaluation, research integrity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: evaluation, research integrity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: qualitative*
-- [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *shared concepts: generative AI, scholarly communication | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: generative AI, evaluation | shared tension: Technical Capability vs Organizational Capacity*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: generative AI, evaluation | shared tension: Technical Capability vs Organizational Capacity*
-- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared concepts: generative AI, evaluation | shared tension: Technical Capability vs Organizational Capacity*
-- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: scholarly communication, evaluation | shared tension: Technical Capability vs Organizational Capacity*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

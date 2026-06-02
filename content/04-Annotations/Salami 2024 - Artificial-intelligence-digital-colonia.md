@@ -1,43 +1,16 @@
 ---
-title: "Artificial intelligence, digital colonialism, and the implications for Africa's future development"
-authors:
-  - "Salami, Aishat Oyenike"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Globalism, Colonialism and Influence"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "infrastructure"
-  - "decolonization"
-  - "governance"
-  - "labour"
-  - "data sovereignty"
-methodologies:
-  - "computational"
-  - "framework development"
-stakeholders:
-  - "policymakers"
-source: "Data & Policy 6"
-url: "https://doi.org/10.1017/dap.2024.75"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Artificial intelligence, digital colonialism, and the implications for Africa's future development
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - globalism-colonialism-and-influence
-  - method-computational
-  - method-framework-development
   - topic-infrastructure
-  - topic-decolonization
-  - topic-governance
   - topic-labour
+  - topic-governance
   - topic-data-sovereignty
-  - stakeholder-policymakers
-  - region-global-south
-  - region-africa
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Artificial intelligence, digital colonialism, and the implications for Africa's future development
@@ -71,17 +44,16 @@ Salami (2024) studies how artificial intelligence operates within broader dynami
 
 **Geographic Focus**: Global South, Africa
 
-### See Also
-
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, labour, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: decolonization, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: data sovereignty, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Chung 2025 - Betting-on-UnCertain-Futures-Sociotec]] — *shared concepts: decolonization, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Muldoon 2023 - Artificial-Intelligence-in-the-Colonial]] — *shared concepts: decolonization, labour | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Reynolds 2024 - User-Generated-Accountability-Public-Pa]] — *shared concepts: infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, labour, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: decolonization, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Muldoon 2023 - Artificial-Intelligence-in-the-Colonial]] — *shared concepts: decolonization, labour | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

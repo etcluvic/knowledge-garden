@@ -1,56 +1,16 @@
 ---
-title: "Decolonial Artificial Intelligence; Algorithmic Fairness in Alignment with Turkish and Islamic Values"
-authors:
-  - "Fırıncı, Yusuf"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Globalism, Colonialism and Influence"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "decolonization"
-  - "bias"
-  - "infrastructure"
-  - "knowledge production"
-  - "algorithmic bias"
-  - "governance"
-  - "reproducibility"
-  - "evaluation"
-  - "misinformation"
-methodologies:
-  - "quantitative"
-  - "computational"
-  - "framework development"
-  - "theoretical"
-  - "design research"
-stakeholders:
-  - "publishers"
-  - "communities"
-source: "Marmara Üniversitesi İlahiyat Fakültesi Dergisi 67, no"
-url: "https://doi.org/10.15370/maruifd.1565884"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Decolonial Artificial Intelligence; Algorithmic Fairness in Alignment with Turkish and Islamic Values
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - globalism-colonialism-and-influence
-  - method-quantitative
-  - method-computational
-  - method-framework-development
-  - method-theoretical
-  - method-design-research
-  - topic-decolonization
   - topic-bias
-  - topic-infrastructure
+  - method-quantitative
   - topic-knowledge-production
   - topic-algorithmic-bias
-  - topic-governance
-  - stakeholder-publishers
-  - stakeholder-communities
-  - region-global-north
-  - region-global
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Decolonial Artificial Intelligence; Algorithmic Fairness in Alignment with Turkish and Islamic Values
@@ -84,17 +44,16 @@ Fırıncı argues that artificial intelligence development should be guided by e
 
 **Geographic Focus**: Global North, Global
 
-### See Also
-
-- [[Varshney 2024 - Decolonial-AI-Alignment-Openness-Vises]] — *content similarity (0.31) | shared concepts: decolonization, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: governance, infrastructure, reproducibility, misinformation | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, design research, framework development, computational*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, bias, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: algorithmic bias, bias, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development, computational, theoretical*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: bias, evaluation, infrastructure | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, design research, framework development, theoretical*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: algorithmic bias, bias, governance, misinformation | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, evaluation, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: bias, evaluation, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Varshney 2024 - Decolonial-AI-Alignment-Openness-Vises]] — *content similarity (0.31) | shared concepts: decolonization, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
+- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, bias, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: governance, infrastructure, reproducibility, misinformation | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, design research, framework development, computational*
+
+</details>

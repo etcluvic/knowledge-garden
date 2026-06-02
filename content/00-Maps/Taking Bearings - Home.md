@@ -33,7 +33,7 @@ This is a **knowledge garden** — an interconnected web of notes, concepts, and
 | 💡 Concept Hubs | 55 | Key ideas linking related annotations together |
 | ⚡ Tensions | 4 | Cross-cutting debates that run through the literature |
 | 🌐 Domains | 4 | Major thematic areas organizing the research |
-| 🔗 Internal Links | 1,339 | Connections between notes (avg. 7.4 per annotation) |
+| 🔗 Cross-References | 593 | Curated connections between notes (top 3 per annotation) |
 
 ---
 

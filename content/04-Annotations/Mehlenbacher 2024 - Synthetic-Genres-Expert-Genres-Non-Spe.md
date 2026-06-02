@@ -1,49 +1,17 @@
 ---
-
 title: "Synthetic Genres: Expert Genres, Non-Specialist Audiences, and Misinformation' in the Artificial Intelligence Age"
-authors:
-- Mehlenbacher, Brad, Ana Patricia Balbon
-- Ashley Rose Mehlenbacher
-year: '2024'
 domain: AI and Scholarship
-subdomain: Forms of Research Output
-tensions:
-- Operational Assistance vs Epistemic Authority
-- Technical Capability vs Organizational Capacity
-concepts:
-- misinformation
-- epistemic authority
-- large language models
-- diversity
-- interoperability
-- curation
-- peer review
-methodologies:
-- quantitative
-- theoretical
-stakeholders:
-- researchers
-source: Journal of Technical Writing and Communication, January 31, 00472816231226249
-url: "https://doi.org/10.1177/00472816231226249"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Operational Assistance vs Epistemic Authority
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - forms-of-research-output
-  - method-quantitative
-  - method-theoretical
-  - topic-misinformation
-  - topic-epistemic-authority
-  - topic-large-language-models
-  - topic-diversity
-  - topic-interoperability
-  - topic-curation
-  - stakeholder-researchers
-  - tension-operational-assistance-v-epistemic-authority
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - topic-misinformation
+  - tension-operational-assistance-v-epistemic-authority
+  - method-theoretical
+type: annotation
+created: 2026-05-14
 ---
 
 # Synthetic Genres: Expert Genres, Non-Specialist Audiences, and Misinformation in the Artificial Intelligence Age
@@ -82,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers
 
-### See Also
-
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: peer review, interoperability, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: quantitative, theoretical*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: peer review, curation, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: quantitative*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: theoretical | cites Long*
-- [[Drolsbach 2025 - Characterizing-AI-Generated-Misinformati]] — *content similarity (0.33) | shared tension: Technical Capability vs Organizational Capacity*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: peer review, interoperability, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: peer review, interoperability, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: misinformation, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: peer review, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Drolsbach 2025 - Characterizing-AI-Generated-Misinformati]] — *content similarity (0.33) | shared tension: Technical Capability vs Organizational Capacity*
+- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: peer review, interoperability, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: quantitative, theoretical*
+- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: peer review, curation, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: quantitative*
+
+</details>

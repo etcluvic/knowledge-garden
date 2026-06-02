@@ -1,12 +1,12 @@
 ---
-title: "Accountability"
-type: concept
-mentions: 25
-created: "2026-05-14"
+title: Accountability
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 25
+created: 2026-05-14
 ---
 
 # Accountability

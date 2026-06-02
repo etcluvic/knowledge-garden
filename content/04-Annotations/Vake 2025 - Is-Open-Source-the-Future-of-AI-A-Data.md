@@ -1,36 +1,15 @@
 ---
-
 title: Is Open Source the Future of AI? A Data‑Driven Approach
-authors:
-- Vake, D., Šinik, B., Vičič, J
-- Tošić, A
-year: '2025'
 domain: Essential Contexts
-subdomain: Past Relation to OSS-Aligned Communities
-tensions: []
-concepts:
-- open source
-- large language models
-- intellectual property
-methodologies:
-- framework development
-stakeholders:
-- communities
-source: Preprint
-url: "https://arxiv.org/abs/2501.16403"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension: []
 tags:
   - annotation
-  - essential-contexts
-  - past-relation-to-oss-aligned-communities
-  - method-framework-development
+  - cited-in-introduction
   - topic-open-source
   - topic-large-language-models
   - topic-intellectual-property
-  - stakeholder-communities
-  - cited-in-introduction
+type: annotation
+created: 2026-05-14
 ---
 
 # Is Open Source the Future of AI? A Data‑Driven Approach
@@ -69,17 +48,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: communities
 
-### See Also
-
-- [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *content similarity (0.42) | shared concepts: open source, intellectual property | shared methodology: framework development*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *content similarity (0.26) | shared concepts: open source, large language models | shared methodology: framework development*
-- [[White 2024 - The-Model-Openness-Framework-Promoting]] — *content similarity (0.31) | same subdomain | shared methodology: framework development*
-- [[Widder 2022 - Limits-and-possibilities-for-ethical-AI]] — *content similarity (0.37) | shared methodology: framework development*
-- [[Cooper 2023 - Open-Source-is-Good-for-AI-But-Is-AI-Go]] — *content similarity (0.37)*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: open source, large language models | shared methodology: framework development*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: open source, large language models | shared methodology: framework development*
-- [[Guo 2024 - Copyleft-for-Alleviating-AIGC-Copyright]] — *shared concepts: large language models, intellectual property | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *content similarity (0.42) | shared concepts: open source, intellectual property | shared methodology: framework development*
+- [[Widder 2022 - Limits-and-possibilities-for-ethical-AI]] — *content similarity (0.37) | shared methodology: framework development*
+- [[Cooper 2023 - Open-Source-is-Good-for-AI-But-Is-AI-Go]] — *content similarity (0.37)*
+
+</details>

@@ -1,12 +1,12 @@
 ---
-title: "Technical Capability vs Organizational Capacity"
-type: "tension"
-annotation_count: 119
-created: "2026-05-14"
+title: Technical Capability vs Organizational Capacity
 tags:
-  - "tension"
-  - "cross-cutting"
-  - "hub-note"
+  - tension
+  - cross-cutting
+  - hub-note
+type: tension
+annotation_count: 119
+created: 2026-05-14
 ---
 
 # Technical Capability vs Organizational Capacity
@@ -34,7 +34,7 @@ This tension captures the fundamental challenge of balancing **Technical Capabil
 
 - [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *AI and Open Science: Implications and Library Practice Recommendations* (2025)
 - [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *Open Science at the generative AI turn: An exploratory analysis of challenges an* (2025)
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *A Cartography of Open ation in Open Source AI: Mapping Practices, Motivations, a* (2025)
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *A Cartography of Open Collaboration in Open Source AI: Mapping Practices, Motivations, a* (2025)
 - [[Luth 2025 - The-Use-of-Wikipedia-Wikimedia-and-Ope]] — *The Use of Wikipedia, Wikimedia, and Open Access Content for Artificial Intellig* (2025)
 - [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *Licensing of Text for Generative AI: Learnings from Non-AI Licensing Practices* (2025)
 - [[Taeihagh 2025 - Governance-of-Generative-AI]] — *Governance of Generative AI* (2025)
@@ -116,7 +116,7 @@ This tension captures the fundamental challenge of balancing **Technical Capabil
 - [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *Creative data justice: a decolonial and indigenous framework to assess creativit* (2024)
 - [[Boer 2024 - Hybrid-Intelligence-for-Digital-Humaniti]] — *Hybrid Intelligence for Digital Humanities* (2024)
 - [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *How Large Language Models Can Reshape Collective Intelligence* (2024)
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *ative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models* (2024)
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] — *Collaborative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models* (2024)
 - [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *The spread of synthetic media on X* (2024)
 - [[Eloundou 2024 - GPTs-are-GPTs-market-impact-potential]] — *GPTs are GPTs:  market impact potential of LLMs* (2024)
 - [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *Decolonial Artificial Intelligence; Algorithmic Fairness in Alignment with Turki* (2024)

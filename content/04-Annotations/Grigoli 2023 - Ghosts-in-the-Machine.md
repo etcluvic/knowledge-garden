@@ -1,42 +1,13 @@
 ---
-title: "Ghosts in the Machine"
-authors:
-  - "Grigoli, L. Renato"
-year: "2023"
-domain: "AI and Scholarship"
-subdomain: "Teaching and Pedagogy"
-tensions:
-  []
-concepts:
-  - "large language models"
-  - "trust"
-  - "research integrity"
-  - "evaluation"
-methodologies:
-  - "critical analysis"
-  - "design research"
-stakeholders:
-  - "researchers"
-  - "students"
-  - "developers"
-source: "American Historical Association 61:3"
-url: "https://www.historians.org/wp-content/uploads/2024/07/Perspectives_61N3.pdf"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Ghosts in the Machine
+domain: AI and Scholarship
+tension: []
 tags:
   - annotation
-  - ai-and-scholarship
-  - teaching-and-pedagogy
   - method-critical-analysis
-  - method-design-research
-  - topic-large-language-models
-  - topic-trust
-  - topic-research-integrity
-  - topic-evaluation
-  - stakeholder-researchers
   - stakeholder-students
-  - stakeholder-developers
+type: annotation
+created: 2026-05-14
 ---
 
 # Ghosts in the Machine
@@ -68,17 +39,16 @@ Grigoli dismisses fears of AI generated essays threatening academic integrity by
 
 **Stakeholders**: researchers, students, developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *shared concepts: trust, evaluation, large language models | same subdomain | shared methodology: design research*
 - [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: evaluation, research integrity, large language models | same subdomain | shared methodology: design research*
 - [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] — *shared concepts: evaluation, large language models | same subdomain | shared methodology: design research, critical analysis*
-- [[Deng 2025 - Does-ChatGPT-Enhance-Student-Learning-A]] — *shared concepts: evaluation, large language models | same subdomain | shared methodology: critical analysis*
-- [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *shared concepts: evaluation, research integrity | same subdomain | shared methodology: design research*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: evaluation, research integrity, large language models*
-- [[Bozkurt 2024 - GenAI-et-al-Cocreation-Authorship-Ow]] — *shared concepts: evaluation, research integrity, large language models*
-- [[Pope 2024 - Exploring-Historians-Critical-Use-of-Ge]] — *shared concepts: evaluation, research integrity | same subdomain*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

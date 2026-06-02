@@ -1,12 +1,12 @@
 ---
-title: "Epistemic Authority"
-type: concept
-mentions: 23
-created: "2026-05-14"
+title: Epistemic Authority
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 23
+created: 2026-05-14
 ---
 
 # Epistemic Authority

@@ -1,12 +1,12 @@
 ---
-title: "Open Access"
-type: concept
-mentions: 11
-created: "2026-05-14"
+title: Open Access
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 11
+created: 2026-05-14
 ---
 
 # Open Access

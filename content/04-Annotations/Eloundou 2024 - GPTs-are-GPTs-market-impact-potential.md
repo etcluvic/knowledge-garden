@@ -1,41 +1,16 @@
 ---
 title: "GPTs are GPTs:  market impact potential of LLMs"
-authors:
-  - "Eloundou, Tyna, Sam Manning, Pamela Mishkin"
-  - "Daniel Rock"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Human, Labour and Environmental Costs"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "large language models"
-  - "automation"
-  - "labour"
-  - "evaluation"
-  - "bias"
-methodologies:
-  - "quantitative"
-  - "framework development"
-stakeholders:
-  []
-source: "Science 384, no"
-url: "https://doi.org/10.1126/science.adj0998"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - human-labour-and-environmental-costs
-  - method-quantitative
-  - method-framework-development
-  - topic-large-language-models
-  - topic-automation
   - topic-labour
+  - method-quantitative
+  - topic-large-language-models
   - topic-evaluation
-  - topic-bias
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # GPTs are GPTs:  market impact potential of LLMs
@@ -65,17 +40,16 @@ Eloundou, Manning, and Mishkin present an estimate of Large Language Models’ i
 
 **Methodologies**: `quantitative`, `framework development`
 
-### See Also
-
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, automation, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: bias, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared concepts: bias, automation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: bias, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
-- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development | cites Hara*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: automation, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: bias, automation, evaluation | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: bias, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, automation, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
+- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
+
+</details>

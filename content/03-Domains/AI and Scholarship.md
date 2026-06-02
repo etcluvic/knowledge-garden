@@ -1,11 +1,11 @@
 ---
-title: "AI and Scholarship"
-type: "domain"
-annotation_count: 56
-created: "2026-05-14"
+title: AI and Scholarship
 tags:
-  - "domain"
-  - "hub-note"
+  - domain
+  - hub-note
+type: domain
+annotation_count: 56
+created: 2026-05-14
 ---
 
 # AI and Scholarship

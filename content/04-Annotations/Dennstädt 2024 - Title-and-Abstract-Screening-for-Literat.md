@@ -1,44 +1,16 @@
 ---
 title: "Title and Abstract Screening for Literature Reviews Using Large Language Models: An Exploratory Study in the Biomedical Domain"
-authors:
-  - "Dennstädt, Fabio, Cedric Sivert Möller, Tim Fellerhoff, Felix Busch, Oke Gerke, André Karch"
-  - "Oliver Krause"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Research Methods and Practices"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "large language models"
-  - "automation"
-  - "diversity"
-  - "evaluation"
-  - "training data"
-methodologies:
-  - "literature review"
-  - "quantitative"
-stakeholders:
-  - "researchers"
-  - "communities"
-source: "Systematic Reviews 13(1): 158"
-url: "https://doi.org/10.1186/s13643-024-02575-4"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - research-methods-and-practices
   - method-literature-review
-  - method-quantitative
   - topic-large-language-models
-  - topic-automation
-  - topic-diversity
-  - topic-evaluation
-  - topic-training-data
   - stakeholder-researchers
-  - stakeholder-communities
-  - tension-technical-capability-v-organizational-capacity
+  - topic-evaluation
+type: annotation
+created: 2026-05-14
 ---
 
 # Title and Abstract Screening for Literature Reviews Using Large Language Models: An Exploratory Study in the Biomedical Domain
@@ -70,17 +42,16 @@ Dennstädt et al. perform a study in which they attempt to determine the viabili
 
 **Stakeholders**: researchers, communities
 
-### See Also
-
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *content similarity (0.31) | shared concepts: automation, large language models | shared tension: Technical Capability vs Organizational Capacity*
-- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared concepts: evaluation, diversity | shared tension: Technical Capability vs Organizational Capacity | cites Hara*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: evaluation, automation, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: evaluation, training data, large language models, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
-- [[Eloundou 2024 - GPTs-are-GPTs-market-impact-potential]] — *shared concepts: automation, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
-- [[Deng 2025 - Does-ChatGPT-Enhance-Student-Learning-A]] — *shared concepts: evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, literature review*
-- [[Shams 2023 - AI-and-the-Quest-for-Diversity-and-Inclu]] — *shared concepts: evaluation, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, literature review*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: training data, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *content similarity (0.31) | shared concepts: automation, large language models | shared tension: Technical Capability vs Organizational Capacity*
+- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: evaluation, automation, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: training data, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

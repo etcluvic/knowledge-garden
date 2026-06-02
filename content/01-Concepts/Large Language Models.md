@@ -1,12 +1,12 @@
 ---
-title: "Large Language Models"
-type: concept
-mentions: 47
-created: "2026-05-14"
+title: Large Language Models
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 47
+created: 2026-05-14
 ---
 
 # Large Language Models
@@ -34,7 +34,7 @@ This concept appears in **47 annotations** across the knowledge garden, spanning
 - [[Baltes 2025 - Guidelines-for-Empirical-Studies-in-Soft]] — *Guidelines for Empirical Studies in Software Engineering Involving Large Language Models*
 - [[Biderman 2022 - EleutherAI-Going-Beyond-Open-Science]] — *EleutherAI: Going Beyond 'Open Science' to 'Science in the Open.'*
 - [[Guo 2024 - Copyleft-for-Alleviating-AIGC-Copyright]] — *Copyleft for Alleviating AIGC Copyright Dilemma: What-if Analysis, Public Perception and Implications*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *A Cartography of Open ation in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects*
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *A Cartography of Open Collaboration in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects*
 - [[Papi 2025 - FAMA-The-First-Large-Scale-Open-Science]] — *FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian*
 
 ### AI and Scholarship

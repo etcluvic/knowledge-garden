@@ -1,37 +1,17 @@
 ---
 title: "Democratising AI: Multiple Meanings, Goals, and Methods"
-authors:
-  - "Seger et al. "
-  - "Methods."
-year: "2023"
-domain: "AI and Social"
-subdomain: "Governance, Leadership and Policy"
-tensions:
-  - "Efficiency vs Process"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "governance"
-  - "diversity"
-  - "accessibility"
-methodologies:
-  - "design research"
-stakeholders:
-  []
-source: "Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society"
-url: "https://dl.acm.org/doi/10.1145/3600211.3604693"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Efficiency vs Process
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - governance-leadership-and-policy
-  - method-design-research
   - topic-governance
+  - tension-efficiency-v-process
   - topic-diversity
   - topic-accessibility
-  - tension-efficiency-v-process
-  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Democratising AI: Multiple Meanings, Goals, and Methods
@@ -61,17 +41,16 @@ Aiming to “provide a foundation for more productive conversations”, Seger et
 
 **Methodologies**: `design research`
 
-### See Also
-
-- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared concepts: governance, diversity | shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: governance, diversity | shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: design research*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *shared concepts: governance, diversity | shared tension: Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Boer 2024 - Hybrid-Intelligence-for-Digital-Humaniti]] — *shared concepts: accessibility, diversity | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: design research*
-- [[Osborne 2024 - Why-Companies]] — *content similarity (0.27)*
-- [[Ación 2023 - Generative-AI-Poses-Ethical-Challenges-f]] — *shared concepts: accessibility, governance | shared tension: Operational Assistance vs Epistemic Authority*
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: accessibility, governance | shared tension: Operational Assistance vs Epistemic Authority*
-- [[Carroll 2021 - Operationalizing-the-CARE-and-FAIR-Princ]] — *shared concepts: accessibility, governance | shared tension: Operational Assistance vs Epistemic Authority*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared concepts: governance, diversity | shared tension: Efficiency vs Process, Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] — *shared concepts: governance, diversity | shared tension: Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Osborne 2024 - Why-Companies]] — *content similarity (0.27)*
+
+</details>

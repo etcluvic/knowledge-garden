@@ -1,46 +1,17 @@
 ---
-title: "Why Companies"
-authors:
-  - "Osborne, Cailean"
-year: "2024"
-domain: "AI and Open"
-subdomain: "Open Source"
-tensions:
-  - "Openness vs Enclosure"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "open source"
-  - "governance"
-  - "participation"
-  - "open science"
-  - "open scholarship"
-  - "intellectual property"
-methodologies:
-  []
-stakeholders:
-  - "researchers"
-  - "industry"
-  - "developers"
-source: "Democratise"
-url: ""
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Why Companies
+domain: AI and Open
+tension:
+  - Openness vs Enclosure
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-open
   - open-source
   - topic-open-source
   - topic-governance
   - topic-participation
-  - topic-open-science
-  - topic-open-scholarship
-  - topic-intellectual-property
-  - stakeholder-researchers
-  - stakeholder-industry
-  - stakeholder-developers
-  - tension-openness-v-enclosure
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Why Companies
@@ -48,7 +19,6 @@ tags:
 **Osborne, Cailean** (2024)
 
 *Democratise\*
-
 
 
 ---
@@ -72,17 +42,16 @@ Osborne aims to advance the ‘nascent research agenda on the political economy 
 
 **Stakeholders**: researchers, industry, developers
 
-### See Also
-
-- [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *shared concepts: open source, participation, open science | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *shared concepts: open source, open science, governance | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure*
-- [[White 2024 - The-Model-Openness-Framework-Promoting]] — *shared concepts: open source, open science, governance | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure*
-- [[Widder 2022 - Limits-and-possibilities-for-ethical-AI]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | cites Widder*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared tension: Technical Capability vs Organizational Capacity | cites Shin*
-- [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *shared concepts: open source, intellectual property | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Ación 2023 - Generative-AI-Poses-Ethical-Challenges-f]] — *shared concepts: open source, open science, governance | shared tension: Openness vs Enclosure*
-- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *shared concepts: open source, intellectual property | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *shared concepts: open source, participation, open science | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure*
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *shared concepts: open source, open science, governance | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure*
+
+</details>

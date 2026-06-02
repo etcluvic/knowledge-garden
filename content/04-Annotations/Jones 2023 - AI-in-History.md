@@ -1,37 +1,15 @@
 ---
-
 title: AI in History,
-authors:
-- Jones, Matthew L., “AI in History,” The American Historical Review, Volume 128,
-  Issue 3, September
-year: '2023'
 domain: Essential Contexts
-subdomain: "Histories & Theories of AI"
-tensions: []
-concepts:
-- machine learning
-- bias
-- labour
-methodologies:
-- computational
-- comparative
-stakeholders: []
-source: The American Historical Review, Volume 128, Issue 3, September 2023, pages
-  1360-1367
-url: "https://doi.org/10.1093/ahr/rhad361"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension: []
 tags:
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-computational
-  - method-comparative
+  - cited-in-introduction
   - topic-machine-learning
   - topic-bias
   - topic-labour
-  - cited-in-introduction
+type: annotation
+created: 2026-05-14
 ---
 
 # AI in History,
@@ -69,15 +47,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Methodologies**: `computational`, `comparative`
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: bias, labour | shared methodology: computational*
 - [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: bias, machine learning | shared methodology: computational*
 - [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: bias, machine learning | shared methodology: computational*
-- [[Duricic 2023 - Beyond-Accuracy-A-Review-on-Diversity]] — *shared concepts: bias, machine learning | shared methodology: computational*
-- [[Mohamed 2020 - Decolonial-AI-Decolonial-Theory-as-Soci]] — *shared concepts: bias, labour | shared methodology: computational*
-- [[Chung 2025 - Betting-on-UnCertain-Futures-Sociotec]] — *same subdomain | shared methodology: comparative, computational*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+</details>

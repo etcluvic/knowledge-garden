@@ -1,41 +1,15 @@
 ---
 title: "Realising Potential, Supporting Users: IFLA Statement on Copyright and Artificial Intelligence"
-authors:
-  - "“Realising Potential, Supporting Users: IFLA Statement on Copyright"
-  - "Artificial Intelligence.” n.d. IFLA. Accessed May 1"
-year: "2025"
-domain: "AI and Scholarship"
-subdomain: "Infrastructures"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "intellectual property"
-  - "AI ethics"
-  - "surveillance"
-  - "bias"
-  - "interoperability"
-  - "training data"
-methodologies:
-  []
-stakeholders:
-  - "policymakers"
-source: "IFLA"
-url: "https://www.ifla.org/news/realising-potential-supporting-users-ifla-statement-on-copyright-and-artificial-intelligence/"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - topic-intellectual-property
-  - topic-ai-ethics
-  - topic-surveillance
   - topic-bias
-  - topic-interoperability
   - topic-training-data
-  - stakeholder-policymakers
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Realising Potential, Supporting Users: IFLA Statement on Copyright and Artificial Intelligence
@@ -67,17 +41,16 @@ This statement aims to help IFLA member libraries in navigating copyright issues
 
 **Stakeholders**: policymakers
 
-### See Also
-
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: surveillance, interoperability, AI ethics | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Werder 2022 - Establishing-Data-Provenance-for-Respons]] — *shared concepts: bias, surveillance, AI ethics | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity | cites Long*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: interoperability, AI ethics | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: training data, surveillance | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: bias, interoperability | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: bias, training data, interoperability | shared tension: Technical Capability vs Organizational Capacity*
-- [[Heger 2022 - Understanding-Machine-Learning-Practitio]] — *shared concepts: training data, interoperability, AI ethics | shared tension: Technical Capability vs Organizational Capacity*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: surveillance, interoperability, AI ethics | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Werder 2022 - Establishing-Data-Provenance-for-Respons]] — *shared concepts: bias, surveillance, AI ethics | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: interoperability, AI ethics | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

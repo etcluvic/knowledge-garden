@@ -1,12 +1,12 @@
 ---
-title: "Ai Governance"
-type: concept
-mentions: 12
-created: "2026-05-14"
+title: Ai Governance
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 12
+created: 2026-05-14
 ---
 
 # Ai Governance
@@ -40,7 +40,7 @@ This concept appears in **12 annotations** across the knowledge garden, spanning
 ### AI and Social
 
 - [[Birkstedt 2023 - AI-Governance-Themes-Knowledge-Gaps-an]] — *AI Governance: Themes, Knowledge Gaps and Future Agendas*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *ative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] — *Collaborative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
 - [[Gasser 2017 - A-Layered-Model-for-AI-Governance]] — *A Layered Model for AI Governance*
 - [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *Algorithmic Content Moderation: Technical and Political Challenges in the Automation of Platform Governance*
 - [[Rughiniș 2025 - AI-at-the-Knowledge-Gates-Institutional]] — *AI at the Knowledge Gates: Institutional Policies and Hybrid Configurations in Universities and Publishers*

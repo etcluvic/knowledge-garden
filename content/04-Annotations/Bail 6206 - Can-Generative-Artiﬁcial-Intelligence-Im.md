@@ -1,52 +1,16 @@
 ---
-title: "Can Generative Artiﬁcial Intelligence Improve Social Science?"
-authors:
-  - "Bail, Christopher A. “Can Generative Artiﬁcial Intelligence Improve Social Science?” https://www.semanticscholar.org/paper/Can-Generative-Artiﬁcial-Intelligence-Improve-Bail/6206cc77bb3a3c0b6b9fce1ad68a8b1786a56941"
-year: "6206"
-domain: "AI and Scholarship"
-subdomain: "Research Methods and Practices"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "large language models"
-  - "generative AI"
-  - "automation"
-  - "infrastructure"
-  - "open source"
-  - "transparency"
-  - "bias"
-  - "accessibility"
-  - "reproducibility"
-  - "evaluation"
-  - "training data"
-methodologies:
-  - "computational"
-  - "framework development"
-stakeholders:
-  - "researchers"
-  - "industry"
-  - "developers"
-source: ""
-url: "https://www.semanticscholar.org/paper/Can-Generative-Artiﬁcial-Intelligence-Improve-Bail/6206cc77bb3a3c0b6b9fce1ad68a8b1786a56941"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Can Generative Artiﬁcial Intelligence Improve Social Science?
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - research-methods-and-practices
   - method-computational
-  - method-framework-development
   - topic-large-language-models
   - topic-generative-ai
-  - topic-automation
-  - topic-infrastructure
-  - topic-open-source
-  - topic-transparency
-  - stakeholder-researchers
-  - stakeholder-industry
-  - stakeholder-developers
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Can Generative Artiﬁcial Intelligence Improve Social Science?
@@ -78,17 +42,16 @@ Bail (2023) provides a critical evaluation of how Generative Artificial Intellig
 
 **Stakeholders**: researchers, industry, developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: training data, reproducibility, open source, bias | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: automation, evaluation, generative AI, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
 - [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: evaluation, reproducibility, infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Yim 2025 - Artificial-Intelligence-AI-Learning-To]] — *shared concepts: automation, training data, bias, infrastructure | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: automation, evaluation, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: evaluation, reproducibility, infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: automation, evaluation, generative AI, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: evaluation, reproducibility, generative AI, infrastructure | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

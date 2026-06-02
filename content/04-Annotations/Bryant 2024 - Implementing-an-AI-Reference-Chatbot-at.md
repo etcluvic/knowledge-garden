@@ -1,32 +1,16 @@
 ---
-title: "Implementing an AI Reference Chatbot at the University of Calgary Library"
-authors:
-  - "Bryant, Rebecca"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Audience"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "automation"
-methodologies:
-  []
-stakeholders:
-  - "institutions"
-  - "developers"
-source: "Hanging Together, December 12"
-url: "https://hangingtogether.org/implementing-an-ai-reference-chatbot-at-the-university-of-calgary-library/"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Implementing an AI Reference Chatbot at the University of Calgary Library
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - audience
   - topic-automation
   - stakeholder-institutions
   - stakeholder-developers
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Implementing an AI Reference Chatbot at the University of Calgary Library
@@ -58,14 +42,16 @@ Bryant (2024) details the development and implementation of "T-Rex," an AI-power
 
 **Stakeholders**: institutions, developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Jaillant 2025 - How-Can-We-Improve-the-Diversity-of-Arch]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Peters 2025 - Generalization-Bias-in-Large-Language-Mo]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Taneja 2020 - AI-Powered-Recommender-Systems-Personal]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

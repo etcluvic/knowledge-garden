@@ -1,40 +1,15 @@
 ---
-title: "What is AI Literacy? Competencies and Design Considerations"
-authors:
-  - "Long, Duri"
-  - "Brian Magerko"
-year: "2020"
-domain: "AI and Social"
-subdomain: "Critical Literacies"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "explainability"
-methodologies:
-  - "computational"
-  - "framework development"
-  - "theoretical"
-  - "design research"
-stakeholders:
-  - "communities"
-source: "In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1–13"
-url: "https://doi.org/10.1145/3313831.3376727"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: What is AI Literacy? Competencies and Design Considerations
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - critical-literacies
-  - method-computational
-  - method-framework-development
-  - method-theoretical
-  - method-design-research
-  - topic-explainability
-  - stakeholder-communities
   - tension-technical-capability-v-organizational-capacity
   - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # What is AI Literacy? Competencies and Design Considerations
@@ -66,17 +41,16 @@ The authors present an exploratory review of interdisciplinary literature, aimin
 
 **Stakeholders**: communities
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Ng 2021 - Conceptualizing-AI-Literacy-An-Explorat]] — *content similarity (0.38) | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: computational, framework development, theoretical*
 - [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, computational, theoretical*
-- [[Akter 2021 - Algorithmic-bias-in-data-driven-innovati]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, computational*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, computational*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, theoretical*
-- [[Chun 2023 - The-Crisis-of-Artificial-Intelligence-A]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, computational*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, theoretical*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

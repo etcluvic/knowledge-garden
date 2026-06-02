@@ -1,12 +1,12 @@
 ---
-title: "Transparency"
-type: concept
-mentions: 44
-created: "2026-05-14"
+title: Transparency
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 44
+created: 2026-05-14
 ---
 
 # Transparency

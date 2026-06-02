@@ -1,35 +1,15 @@
 ---
-
 title: "Introduction: Digital Knowledge Commons, Scholarly Connection, and the Evolution' of Open Scholarship"
-authors:
-- Jensen, G
-year: '2023'
 domain: Essential Contexts
-subdomain: Knowledge Foundations
-tensions: []
-concepts:
-- infrastructure
-- interoperability
-- commons
-methodologies: []
-stakeholders:
-- researchers
-- communities
-source: 'Open Scholarship Press Curated Volume: Connection'
-url: "https://doi.org/10.21428/47bc126e.0ca461a4"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension: []
 tags:
   - annotation
-  - essential-contexts
-  - knowledge-foundations
-  - topic-infrastructure
-  - topic-interoperability
-  - topic-commons
-  - stakeholder-researchers
-  - stakeholder-communities
   - cited-in-introduction
+  - topic-commons
+  - knowledge-foundations
+  - topic-interoperability
+type: annotation
+created: 2026-05-14
 ---
 
 # Introduction: Digital Knowledge Commons, Scholarly Connection, and the Evolution of Open Scholarship
@@ -68,14 +48,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, communities
 
-### See Also
-
-- [[Bullard 2023 - Describing-the-HSS-Commons-The-View-fro]] — *shared concepts: interoperability, infrastructure | same subdomain*
-- [[Goddard 2021 - Persistent-Identifiers-as-Open-Research]] — *shared concepts: interoperability, infrastructure | same subdomain*
-- [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *shared concepts: commons, interoperability, infrastructure*
-- [[Turin 2021 - From-Orality-to-Open-Innovations-in-Mul]] — *shared concepts: interoperability, infrastructure | same subdomain*
-- [[Winter 2020 - Foundations-for-the-Canadian-HSS-Commons]] — *shared concepts: commons, infrastructure | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Bullard 2023 - Describing-the-HSS-Commons-The-View-fro]] — *shared concepts: interoperability, infrastructure | same subdomain*
+- [[Goddard 2021 - Persistent-Identifiers-as-Open-Research]] — *shared concepts: interoperability, infrastructure | same subdomain*
+- [[Turin 2021 - From-Orality-to-Open-Innovations-in-Mul]] — *shared concepts: interoperability, infrastructure | same subdomain*
+
+</details>

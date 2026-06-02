@@ -1,36 +1,13 @@
 ---
 title: "Bridging the AI Gap: Comparative Analysis of AI Integration, Education, and Outreach in Academic Libraries"
-authors:
-  - "Buitrago-Ciro, Jairo, Marta Samokishyn, Rachel Moylan, Jonathan Hernández Pérez, Oluwabunmi Bakare-Fatungase"
-  - "Carmel Firdawsi"
-year: "2025"
-domain: "AI and Scholarship"
-subdomain: "Infrastructures"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  []
-methodologies:
-  []
-stakeholders:
-  - "institutions"
-source: "IFLA Journal 51 (3): 682–702"
-url: "https://doi.org/10.1177/03400352251325274"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - stakeholder-institutions
-  - region-global-south
-  - region-global-north
-  - region-europe
-  - region-north-america
-  - region-africa
-  - region-latin-america
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Bridging the AI Gap: Comparative Analysis of AI Integration, Education, and Outreach in Academic Libraries
@@ -64,17 +41,16 @@ Buitrago-Ciro et al. examine the websites of 40 libraries in North America, West
 
 **Geographic Focus**: Global South, Global North, Europe, North America, Africa, Latin America
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Gulson 2023 - Steering-the-Mind-Share-Technology-Comp]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

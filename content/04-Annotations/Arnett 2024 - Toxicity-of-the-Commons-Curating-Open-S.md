@@ -1,49 +1,17 @@
 ---
 title: "Toxicity of the Commons: Curating Open-Source Pre-Training Data"
-authors:
-  - "Arnett, Catherine, Eliot Jones, Ivan P. Yamshchikov"
-  - "Pierre-Carl Langlais"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Research Methods and Practices"
-tensions:
-  - "Openness vs Enclosure"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "open source"
-  - "curation"
-  - "large language models"
-  - "open data"
-  - "bias"
-  - "interoperability"
-  - "reproducibility"
-  - "training data"
-  - "commons"
-methodologies:
-  - "framework development"
-  - "design research"
-stakeholders:
-  - "communities"
-source: "arXiv:2410"
-url: "https://doi.org/10.48550/arXiv.2410.22587"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Openness vs Enclosure
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - research-methods-and-practices
-  - method-framework-development
-  - method-design-research
-  - topic-open-source
   - topic-curation
-  - topic-large-language-models
-  - topic-open-data
-  - topic-bias
-  - topic-interoperability
-  - stakeholder-communities
   - tension-openness-v-enclosure
+  - topic-open-data
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Toxicity of the Commons: Curating Open-Source Pre-Training Data
@@ -75,17 +43,16 @@ Open-source pre-training data is increasingly treated as a shared resource for b
 
 **Stakeholders**: communities
 
-### See Also
-
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: training data, reproducibility, open source, bias | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[White 2024 - The-Model-Openness-Framework-Promoting]] — *shared concepts: open source, training data, interoperability, reproducibility | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: curation, bias, commons | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
-- [[Bender 2021 - On-the-Dangers-of-Stochastic-Parrots-Ca]] — *shared concepts: curation, training data, large language models, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: curation, bias, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: curation, commons, training data | shared tension: Openness vs Enclosure | same subdomain*
-- [[Varshney 2024 - Decolonial-AI-Alignment-Openness-Vises]] — *shared concepts: large language models, reproducibility | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: design research, framework development*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared concepts: bias, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: training data, reproducibility, open source, bias | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: curation, commons, training data | shared tension: Openness vs Enclosure | same subdomain*
+- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared concepts: bias, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

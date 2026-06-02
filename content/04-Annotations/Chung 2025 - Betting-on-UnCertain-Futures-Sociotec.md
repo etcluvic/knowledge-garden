@@ -1,53 +1,16 @@
 ---
-
 title: "Betting on (Un)Certain Futures: Sociotechnical Imaginaries of AI and Varieties' of Techno-Developmentalism in Asia"
-authors:
-- Chung, Hiu-Fung
-year: '2025'
 domain: Essential Contexts
-subdomain: "Histories & Theories of AI"
-tensions:
-- Technical Capability vs Organizational Capacity
-concepts:
-- governance
-- infrastructure
-- automation
-- AI governance
-- decolonization
-methodologies:
-- qualitative
-- computational
-- framework development
-- comparative
-stakeholders:
-- researchers
-- institutions
-source: "Information, Communication & Society, July, 1–18"
-url: "https://doi.org/10.1080/1369118X.2025.2535427"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-qualitative
-  - method-computational
-  - method-framework-development
-  - method-comparative
-  - topic-governance
-  - topic-infrastructure
-  - topic-automation
-  - topic-ai-governance
-  - topic-decolonization
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - region-global-north
-  - region-north-america
-  - region-asia
-  - region-global
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - topic-governance
+  - method-computational
+  - method-comparative
+type: annotation
+created: 2026-05-14
 ---
 
 # Betting on (Un)Certain Futures: Sociotechnical Imaginaries of AI and Varieties of Techno-Developmentalism in Asia
@@ -90,17 +53,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Geographic Focus**: Global North, North America, Asia, Global
 
-### See Also
-
-- [[Richter 2025 - Imaginaries-of-Artificial-Intelligence]] — *content similarity (0.27) | shared concepts: automation, governance | shared tension: Technical Capability vs Organizational Capacity*
-- [[Chun 2023 - The-Crisis-of-Artificial-Intelligence-A]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: computational, framework development*
-- [[Reynolds 2024 - User-Generated-Accountability-Public-Pa]] — *shared concepts: automation, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: comparative, computational, framework development*
-- [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *shared concepts: automation, AI governance, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Berry 2025 - Synthetic-Media-and-Computational-Capita]] — *shared concepts: automation, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: decolonization, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Salami 2024 - Artificial-intelligence-digital-colonia]] — *shared concepts: decolonization, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Richter 2025 - Imaginaries-of-Artificial-Intelligence]] — *content similarity (0.27) | shared concepts: automation, governance | shared tension: Technical Capability vs Organizational Capacity*
+- [[Berry 2025 - Synthetic-Media-and-Computational-Capita]] — *shared concepts: automation, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Reynolds 2024 - User-Generated-Accountability-Public-Pa]] — *shared concepts: automation, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: comparative, computational, framework development*
+
+</details>

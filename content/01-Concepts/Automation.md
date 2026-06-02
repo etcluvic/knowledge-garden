@@ -1,12 +1,12 @@
 ---
-title: "Automation"
-type: concept
-mentions: 23
-created: "2026-05-14"
+title: Automation
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 23
+created: 2026-05-14
 ---
 
 # Automation
@@ -45,7 +45,7 @@ This concept appears in **23 annotations** across the knowledge garden, spanning
 
 ### AI and Social
 
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *ative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] — *Collaborative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
 - [[Eloundou 2024 - GPTs-are-GPTs-market-impact-potential]] — *GPTs are GPTs:  market impact potential of LLMs*
 - [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *Algorithmic Content Moderation: Technical and Political Challenges in the Automation of Platform Governance*
 - [[Hertweck 2022 - A-Justice-Based-Framework-for-the-Analys]] — *A Justice-Based Framework for the Analysis of Algorithmic Fairness-Utility Trade-Offs*

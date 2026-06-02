@@ -1,63 +1,18 @@
 ---
-
-title: Sociotechnical Implications of Generative Artificial Intelligence for Information
-  Access
-authors:
-- Mitra, Bhaskar, Henriette Cramer
-- Olya Gurevich
-year: '2024'
+title: Sociotechnical Implications of Generative Artificial Intelligence for Information Access
 domain: Essential Contexts
-subdomain: Past Relation to OSS-Aligned Communities
-tensions:
-- Operational Assistance vs Epistemic Authority
-- Openness vs Enclosure
-- Technical Capability vs Organizational Capacity
-concepts:
-- infrastructure
-- trust
-- epistemic authority
-- evaluation
-- generative AI
-- accountability
-- transparency
-- metadata
-- provenance
-- curation
-- reproducibility
-- enclosure
-methodologies:
-- framework development
-stakeholders:
-- researchers
-- institutions
-- publishers
-- communities
-- industry
-source: arXiv (July 16, 2024)
-url: "https://doi.org/10.48550/arXiv.2405.11612"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Operational Assistance vs Epistemic Authority
+  - Openness vs Enclosure
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - essential-contexts
-  - past-relation-to-oss-aligned-communities
-  - method-framework-development
-  - topic-infrastructure
-  - topic-trust
-  - topic-epistemic-authority
-  - topic-evaluation
-  - topic-generative-ai
-  - topic-accountability
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-publishers
-  - stakeholder-communities
-  - stakeholder-industry
-  - tension-operational-assistance-v-epistemic-authority
-  - tension-openness-v-enclosure
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - tension-operational-assistance-v-epistemic-authority
+  - topic-epistemic-authority
+  - stakeholder-communities
+type: annotation
+created: 2026-05-14
 ---
 
 # Sociotechnical Implications of Generative Artificial Intelligence for Information Access
@@ -96,17 +51,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, institutions, publishers, communities, industry
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: metadata, evaluation, reproducibility, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
 - [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared concepts: reproducibility, accountability, transparency, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
 - [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: evaluation, reproducibility, infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: metadata, generative AI, infrastructure, curation | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: reproducibility, generative AI, infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Zeffiro 2024 - -EASST4S]] — *shared concepts: evaluation, generative AI, accountability, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: evaluation, provenance, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: generative AI, evaluation, transparency, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+</details>

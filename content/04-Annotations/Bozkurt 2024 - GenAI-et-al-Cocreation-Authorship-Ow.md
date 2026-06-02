@@ -1,43 +1,15 @@
 ---
-
 title: "GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity' in a Time of Generative AI"
-authors:
-- Bozkurt, Aras
-year: '2024'
 domain: AI and Scholarship
-subdomain: Forms of Research Output
-tensions: []
-concepts:
-- generative AI
-- evaluation
-- large language models
-- transparency
-- AI ethics
-- research integrity
-methodologies:
-- framework development
-stakeholders:
-- researchers
-- developers
-source: 'Open Praxis 16 (1): 1–10'
-url: "https://doi.org/10.55982/openpraxis.16.1.654"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension: []
 tags:
   - annotation
-  - ai-and-scholarship
-  - forms-of-research-output
-  - method-framework-development
-  - topic-generative-ai
-  - topic-evaluation
-  - topic-large-language-models
-  - topic-transparency
-  - topic-ai-ethics
-  - topic-research-integrity
-  - stakeholder-researchers
-  - stakeholder-developers
   - cited-in-introduction
+  - topic-generative-ai
+  - topic-transparency
+  - topic-evaluation
+type: annotation
+created: 2026-05-14
 ---
 
 # GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity in a Time of Generative AI
@@ -76,17 +48,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: evaluation, research integrity, generative AI, transparency | shared methodology: framework development*
 - [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: generative AI, evaluation, large language models, transparency | shared methodology: framework development*
 - [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: evaluation, research integrity, large language models, transparency | shared methodology: framework development*
-- [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *shared concepts: generative AI, evaluation, research integrity, transparency | shared methodology: framework development*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared methodology: framework development | cites Long*
-- [[Biderman 2022 - EleutherAI-Going-Beyond-Open-Science]] — *shared concepts: generative AI, large language models, transparency | shared methodology: framework development*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: generative AI, evaluation, transparency | shared methodology: framework development*
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: AI ethics, evaluation, transparency | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

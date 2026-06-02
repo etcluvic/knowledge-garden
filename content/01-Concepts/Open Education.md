@@ -1,12 +1,12 @@
 ---
-title: "Open Education"
-type: concept
-mentions: 3
-created: "2026-05-14"
+title: Open Education
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 3
+created: 2026-05-14
 ---
 
 # Open Education

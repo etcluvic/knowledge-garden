@@ -1,35 +1,11 @@
 ---
 title: "Rhetoric of/with AI: An Introduction"
-authors:
-  - "Majdik, Zoltan P"
-  - "S. Scott Graham"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Critical Literacies"
-tensions:
-  []
-concepts:
-  - "infrastructure"
-methodologies:
-  - "computational"
-  - "framework development"
-  - "theoretical"
-stakeholders:
-  - "communities"
-source: "Rhetoric Society Quarterly 54 (3): 222–31"
-url: "https://doi.org/10.1080/02773945.2024.2343264"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension: []
 tags:
   - annotation
-  - ai-and-social
-  - critical-literacies
-  - method-computational
-  - method-framework-development
-  - method-theoretical
-  - topic-infrastructure
-  - stakeholder-communities
+type: annotation
+created: 2026-05-14
 ---
 
 # Rhetoric of/with AI: An Introduction
@@ -61,17 +37,16 @@ Majdik and Graham propose a field-organizing distinction that functions as a met
 
 **Stakeholders**: communities
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *same subdomain | shared methodology: computational, framework development, theoretical*
 - [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *same subdomain | shared methodology: computational, framework development, theoretical*
 - [[Veldhuis 2024 - Critical-Artificial-Intelligence-literac]] — *same subdomain | shared methodology: computational, framework development, theoretical*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *same subdomain | shared methodology: computational, framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared methodology: computational, framework development, theoretical*
-- [[Daniel Delmonaco 2024 - What-are-you-doing-TikTok]] — *shared methodology: computational, framework development, theoretical*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared methodology: computational, framework development, theoretical*
-- [[Mohamed 2020 - Decolonial-AI-Decolonial-Theory-as-Soci]] — *shared methodology: computational, framework development, theoretical*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

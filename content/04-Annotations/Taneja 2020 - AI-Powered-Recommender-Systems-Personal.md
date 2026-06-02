@@ -1,48 +1,17 @@
 ---
-
-title: 'AI-Powered Recommender Systems: Personalization and Bias'
-authors:
-- Taneja, Ankit Kumar
-- 'Chandra Tripathi. '
-- Bias.
-- Mathematics Education (TURCOMAT) 11, no. 1
-year: '2020'
+title: "AI-Powered Recommender Systems: Personalization and Bias"
 domain: AI and Scholarship
-subdomain: Audience
-tensions:
-- Technical Capability vs Organizational Capacity
-- Operational Assistance vs Epistemic Authority
-concepts:
-- generative AI
-- algorithmic bias
-- bias
-- epistemic authority
-- diversity
-methodologies:
-- computational
-- design research
-stakeholders:
-- researchers
-source: Turkish Journal of Computer and Mathematics Education (TURCOMAT) 11, no
-url: "https://doi.org/10.61841/turcomat.v11i1.14406"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-scholarship
-  - audience
-  - method-computational
-  - method-design-research
+  - cited-in-introduction
+  - topic-bias
   - topic-generative-ai
   - topic-algorithmic-bias
-  - topic-bias
-  - topic-epistemic-authority
-  - topic-diversity
-  - stakeholder-researchers
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
-  - cited-in-introduction
+type: annotation
+created: 2026-05-14
 ---
 
 # AI-Powered Recommender Systems: Personalization and Bias
@@ -81,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers
 
-### See Also
-
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: algorithmic bias, generative AI, bias, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, computational*
-- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared concepts: generative AI, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Jaillant 2025 - How-Can-We-Improve-the-Diversity-of-Arch]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Zeffiro 2024 - -EASST4S]] — *shared concepts: generative AI, bias, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: algorithmic bias, generative AI, bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Veldhuis 2024 - Critical-Artificial-Intelligence-literac]] — *shared concepts: algorithmic bias, generative AI, bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Akter 2021 - Algorithmic-bias-in-data-driven-innovati]] — *shared concepts: algorithmic bias, bias | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, computational*
-- [[Chun 2023 - The-Crisis-of-Artificial-Intelligence-A]] — *shared concepts: diversity, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, computational*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared concepts: generative AI, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Jaillant 2025 - How-Can-We-Improve-the-Diversity-of-Arch]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: algorithmic bias, generative AI, bias, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, computational*
+
+</details>

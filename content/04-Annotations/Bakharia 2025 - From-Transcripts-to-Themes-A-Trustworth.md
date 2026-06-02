@@ -1,46 +1,17 @@
 ---
 title: "From Transcripts to Themes: A Trustworthy Workflow for Qualitative Analysis Using Large Language Models"
-authors:
-  - "Bakharia, Aneesha, Antonette Shibani, Lisa-Angelique Lim, Trish McCluskey"
-  - "Simon Buckingham Shum"
-year: "2025"
-domain: "AI and Scholarship"
-subdomain: "Research Methods and Practices"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Efficiency vs Process"
-concepts:
-  - "large language models"
-  - "transparency"
-  - "hallucination"
-  - "explainability"
-  - "bias"
-  - "curation"
-methodologies:
-  - "qualitative"
-  - "quantitative"
-stakeholders:
-  - "researchers"
-source: "In Joint Proceedings of LAK 2025 Workshops, co-located with the 15th International Conference on Learning Analytics and Knowledge (LAK 2025)"
-url: "https://ceur-ws.org/Vol-3995/LLMQUAL_paper1.pdf"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-scholarship
-  - research-methods-and-practices
   - method-qualitative
-  - method-quantitative
   - topic-large-language-models
   - topic-transparency
-  - topic-hallucination
-  - topic-explainability
-  - topic-bias
-  - topic-curation
-  - stakeholder-researchers
-  - tension-technical-capability-v-organizational-capacity
-  - tension-efficiency-v-process
+  - method-quantitative
+type: annotation
+created: 2026-05-14
 ---
 
 # From Transcripts to Themes: A Trustworthy Workflow for Qualitative Analysis Using Large Language Models
@@ -72,17 +43,16 @@ Bakharia et al. explore the use of AI in qualitative, rather than quantitative, 
 
 **Stakeholders**: researchers
 
-### See Also
-
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *content similarity (0.28) | shared concepts: bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process*
-- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: transparency, curation, explainability, bias | shared tension: Technical Capability vs Organizational Capacity | shared methodology: qualitative*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: curation, hallucination, large language models | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: hallucination, bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
-- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *shared concepts: hallucination, bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, bias, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: large language models, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: qualitative*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *content similarity (0.28) | shared concepts: bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process*
+- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, bias, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

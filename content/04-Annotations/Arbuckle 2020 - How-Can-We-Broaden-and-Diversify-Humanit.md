@@ -1,33 +1,15 @@
 ---
-
 title: How Can We Broaden and Diversify Humanities Knowledge Translation?
-authors:
-- Arbuckle, A
-year: '2020'
 domain: Essential Contexts
-subdomain: Knowledge Foundations
-tensions: []
-concepts:
-- diversity
-- participation
-methodologies: []
-stakeholders:
-- researchers
-- communities
-source: "Pop! Public"
-url: "https://doi.org/10.48404/pop.2020.12"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension: []
 tags:
   - annotation
+  - cited-in-introduction
   - essential-contexts
   - knowledge-foundations
   - topic-diversity
-  - topic-participation
-  - stakeholder-researchers
-  - stakeholder-communities
-  - cited-in-introduction
+type: annotation
+created: 2026-05-14
 ---
 
 # How Can We Broaden and Diversify Humanities Knowledge Translation?

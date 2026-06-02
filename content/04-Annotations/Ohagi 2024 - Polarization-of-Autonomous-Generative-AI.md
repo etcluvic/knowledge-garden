@@ -1,32 +1,13 @@
 ---
-title: "Polarization of Autonomous Generative AI Agents Under Echo Chambers"
-authors:
-  - "Ohagi, Masaya"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Community, Connection and the Human"
-tensions:
-  []
-concepts:
-  - "interoperability"
-methodologies:
-  - "quantitative"
-stakeholders:
-  - "researchers"
-  - "industry"
-source: "arXiv preprint arXiv:2402"
-url: "https://arxiv.org/abs/2402.12212"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Polarization of Autonomous Generative AI Agents Under Echo Chambers
+domain: AI and Social
+tension: []
 tags:
   - annotation
   - ai-and-social
-  - community-connection-and-the-human
-  - method-quantitative
-  - topic-interoperability
   - stakeholder-researchers
-  - stakeholder-industry
+type: annotation
+created: 2026-05-14
 ---
 
 # Polarization of Autonomous Generative AI Agents Under Echo Chambers

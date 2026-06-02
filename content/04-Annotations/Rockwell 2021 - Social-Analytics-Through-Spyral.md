@@ -1,34 +1,13 @@
 ---
-title: "Social Analytics Through Spyral"
-authors:
-  - "Rockwell, G., Land, K"
-  - "MacDonald, A"
-year: "2021"
-domain: "Essential Contexts"
-subdomain: "Knowledge Foundations"
-tensions:
-  []
-concepts:
-  - "diversity"
-  - "evaluation"
-methodologies:
-  []
-stakeholders:
-  - "researchers"
-  - "communities"
-source: "Pop! Public"
-url: "https://doi.org/10.54590/pop.2021.004"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Social Analytics Through Spyral
+domain: Essential Contexts
+tension: []
 tags:
   - annotation
   - essential-contexts
-  - knowledge-foundations
-  - topic-diversity
-  - topic-evaluation
-  - stakeholder-researchers
   - stakeholder-communities
+type: annotation
+created: 2026-05-14
 ---
 
 # Social Analytics Through Spyral

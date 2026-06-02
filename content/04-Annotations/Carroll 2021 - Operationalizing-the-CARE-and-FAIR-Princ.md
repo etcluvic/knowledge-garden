@@ -1,45 +1,16 @@
 ---
-
 title: Operationalizing the CARE and FAIR Principles for Indigenous Data Futures
-authors:
-- Carroll, Stephanie Russo, Edit Herczog, Māui Hudson, Keith Russell
-- Shelley Stall
-year: '2021'
 domain: AI and Open
-subdomain: Open Data
-tensions:
-- Operational Assistance vs Epistemic Authority
-concepts:
-- FAIR principles
-- governance
-- accessibility
-- interoperability
-- indigenous knowledge
-- open data
-- provenance
-methodologies:
-- framework development
-stakeholders:
-- communities
-source: 'Scientific Data 8: 108'
-url: "https://doi.org/10.1038/s41597-021-00892-0"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-open
-  - open-data
-  - method-framework-development
-  - topic-fair-principles
-  - topic-governance
-  - topic-accessibility
-  - topic-interoperability
-  - topic-indigenous-knowledge
-  - topic-open-data
-  - stakeholder-communities
-  - tension-operational-assistance-v-epistemic-authority
   - cited-in-introduction
+  - topic-fair-principles
+  - open-data
+  - topic-open-data
+type: annotation
+created: 2026-05-14
 ---
 
 # Operationalizing the CARE and FAIR Principles for Indigenous Data Futures
@@ -79,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: communities
 
-### See Also
-
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *content similarity (0.57) | shared concepts: accessibility, governance, open data, indigenous knowledge | shared tension: Operational Assistance vs Epistemic Authority*
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: FAIR principles, accessibility, interoperability | same subdomain | shared methodology: framework development*
-- [[Wu 2024 - AI-Governance-in-Higher-Education-Case]] — *shared tension: Operational Assistance vs Epistemic Authority | cites Carroll*
-- [[Tonia Sutherland 2023 - The-Feminist-Data-Manifest-NO-An-Introd]] — *content similarity (0.26) | shared methodology: framework development*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: interoperability, provenance | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: interoperability, governance | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *shared concepts: governance, provenance | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Boyd 2021 - Datasheets-for-Datasets-Help-ML-Engineer]] — *shared concepts: open data, provenance | same subdomain | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *content similarity (0.57) | shared concepts: accessibility, governance, open data, indigenous knowledge | shared tension: Operational Assistance vs Epistemic Authority*
+- [[Tonia Sutherland 2023 - The-Feminist-Data-Manifest-NO-An-Introd]] — *content similarity (0.26) | shared methodology: framework development*
+- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: interoperability, provenance | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development*
+
+</details>

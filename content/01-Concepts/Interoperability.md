@@ -1,12 +1,12 @@
 ---
-title: "Interoperability"
-type: concept
-mentions: 27
-created: "2026-05-14"
+title: Interoperability
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 27
+created: 2026-05-14
 ---
 
 # Interoperability

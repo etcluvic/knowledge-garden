@@ -1,50 +1,16 @@
 ---
-
 title: "Data Statements for Natural Language Processing: Toward Mitigating System' Bias and Enabling Better Science"
-authors:
-- Bender, Emily M
-- Batya Friedman
-year: '2018'
 domain: AI and Open
-subdomain: Open Data
-tensions:
-- Technical Capability vs Organizational Capacity
-concepts:
-- bias
-- diversity
-- infrastructure
-- metadata
-- curation
-- natural language processing
-methodologies:
-- case study
-- design research
-stakeholders:
-- communities
-- industry
-- developers
-source: 'Transactions of the Association for Computational Linguistics 6: 587–604'
-url: "https://doi.org/10.1162/tacl_a_00041"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-open
-  - open-data
-  - method-case-study
-  - method-design-research
-  - topic-bias
-  - topic-diversity
-  - topic-infrastructure
-  - topic-metadata
-  - topic-curation
-  - topic-natural-language-processing
-  - stakeholder-communities
-  - stakeholder-industry
-  - stakeholder-developers
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - topic-bias
+  - topic-natural-language-processing
+  - open-data
+type: annotation
+created: 2026-05-14
 ---
 
 # Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science
@@ -83,17 +49,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: communities, industry, developers
 
-### See Also
-
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: curation, bias, infrastructure, diversity | shared tension: Technical Capability vs Organizational Capacity*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research | cites Long*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, natural language processing, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research*
-- [[Jaillant 2025 - How-Can-We-Improve-the-Diversity-of-Arch]] — *shared concepts: metadata, bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research*
-- [[Boyd 2021 - Datasheets-for-Datasets-Help-ML-Engineer]] — *shared concepts: infrastructure, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: bias, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: metadata, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: curation, metadata, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Boyd 2021 - Datasheets-for-Datasets-Help-ML-Engineer]] — *shared concepts: infrastructure, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: bias, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: metadata, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

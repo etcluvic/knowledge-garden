@@ -1,39 +1,17 @@
 ---
 title: "Artificial Intelligence in Educational Leadership: A Comprehensive Taxonomy and Future Directions"
-authors:
-  - "Sposato, Martin"
-year: "2025"
-domain: "AI and Social"
-subdomain: "Governance, Leadership and Policy"
-tensions:
-  - "Efficiency vs Process"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "governance"
-  - "equity"
-methodologies:
-  - "framework development"
-stakeholders:
-  - "researchers"
-  - "policymakers"
-  - "communities"
-source: "International Journal of Educational Technology in Higher Education 22, no"
-url: "https://doi.org/10.1186/s41239-025-00517-1"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Efficiency vs Process
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - governance-leadership-and-policy
-  - method-framework-development
+  - tension-efficiency-v-process
   - topic-governance
   - topic-equity
   - stakeholder-researchers
-  - stakeholder-policymakers
-  - stakeholder-communities
-  - tension-efficiency-v-process
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Artificial Intelligence in Educational Leadership: A Comprehensive Taxonomy and Future Directions
@@ -65,17 +43,16 @@ This article performs an analysis and review of published works on AI in educati
 
 **Stakeholders**: researchers, policymakers, communities
 
-### See Also
-
-- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain | shared methodology: framework development*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: governance, equity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: governance, equity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: framework development*
-- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: framework development*
-- [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: framework development*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: framework development*
-- [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: governance, equity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
+- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: governance, equity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
+- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain | shared methodology: framework development*
+
+</details>

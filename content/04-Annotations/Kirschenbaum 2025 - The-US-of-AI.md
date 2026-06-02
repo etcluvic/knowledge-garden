@@ -1,47 +1,17 @@
 ---
-title: "The US of AI,"
-authors:
-  - "Kirschenbaum, Matthew"
-year: "2025"
-domain: "AI and Social"
-subdomain: "Governance, Leadership and Policy"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "large language models"
-  - "infrastructure"
-  - "governance"
-  - "bias"
-  - "training data"
-methodologies:
-  - "theoretical"
-stakeholders:
-  - "policymakers"
-  - "communities"
-  - "industry"
-  - "developers"
-source: "Public Draft, February 25, 2025"
-url: "https://drive.google.com/file/d/1O2qkjhg7Ei5zZWmBraNwXq4V0lTauspN/view"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: The US of AI,
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - governance-leadership-and-policy
-  - method-theoretical
-  - topic-large-language-models
-  - topic-infrastructure
   - topic-governance
+  - topic-infrastructure
   - topic-bias
   - topic-training-data
-  - stakeholder-policymakers
-  - stakeholder-communities
-  - stakeholder-industry
-  - stakeholder-developers
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # The US of AI,
@@ -73,17 +43,16 @@ This set of notes from Kirschenbaum represents his “near real-time attempt to 
 
 **Stakeholders**: policymakers, communities, industry, developers
 
-### See Also
-
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: bias, training data, large language models, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: theoretical | cites Long*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: bias, large language models, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: theoretical*
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: bias, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Rughiniș 2025 - AI-at-the-Knowledge-Gates-Institutional]] — *shared concepts: training data, governance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Yim 2025 - Artificial-Intelligence-AI-Learning-To]] — *shared concepts: bias, training data, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, training data, large language models, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: theoretical*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Rughiniș 2025 - AI-at-the-Knowledge-Gates-Institutional]] — *shared concepts: training data, governance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: bias, training data, large language models, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: bias, large language models, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: theoretical*
+
+</details>

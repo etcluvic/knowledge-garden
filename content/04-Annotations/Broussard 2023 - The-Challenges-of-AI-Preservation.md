@@ -1,31 +1,12 @@
 ---
-title: "The Challenges of AI Preservation"
-authors:
-  - "Broussard, Meredith, “The Challenges of AI Preservation.” The American Historical Review, Volume 128, Issue 3, September"
-year: "2023"
-domain: "AI and Scholarship"
-subdomain: "Infrastructures"
-tensions:
-  []
-concepts:
-  - "infrastructure"
-methodologies:
-  []
-stakeholders:
-  - "institutions"
-  - "publishers"
-source: "The American Historical Review, Volume 128, Issue 3, September 2023, Pages 1378-1381"
-url: "https://doi.org/10.1093/ahr/rhad366"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: The Challenges of AI Preservation
+domain: AI and Scholarship
+tension: []
 tags:
   - annotation
   - ai-and-scholarship
-  - infrastructures
-  - topic-infrastructure
-  - stakeholder-institutions
-  - stakeholder-publishers
+type: annotation
+created: 2026-05-14
 ---
 
 # The Challenges of AI Preservation

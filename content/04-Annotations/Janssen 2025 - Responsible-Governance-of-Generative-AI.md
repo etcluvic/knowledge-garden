@@ -1,50 +1,18 @@
 ---
-
 title: "Responsible Governance of Generative AI: Conceptualizing GenAI as Complex' Adaptive Systems"
-authors:
-- Janssen, Marijn
-year: '2025'
 domain: AI and Scholarship
-subdomain: Infrastructures
-tensions:
-- Technical Capability vs Organizational Capacity
-- Efficiency vs Process
-- Operational Assistance vs Epistemic Authority
-concepts:
-- governance
-- AI governance
-- infrastructure
-- generative AI
-- accountability
-- interoperability
-- metadata
-methodologies:
-- computational
-stakeholders:
-- institutions
-- communities
-source: 'Policy and Society 44 (1): 38–51'
-url: "https://doi.org/10.1093/polsoc/puae040"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Efficiency vs Process
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-computational
-  - topic-governance
-  - topic-ai-governance
-  - topic-infrastructure
-  - topic-generative-ai
-  - topic-accountability
-  - topic-interoperability
-  - stakeholder-institutions
-  - stakeholder-communities
-  - tension-technical-capability-v-organizational-capacity
-  - tension-efficiency-v-process
-  - tension-operational-assistance-v-epistemic-authority
   - cited-in-introduction
+  - topic-governance
+  - topic-generative-ai
+  - topic-ai-governance
+type: annotation
+created: 2026-05-14
 ---
 
 # Responsible Governance of Generative AI: Conceptualizing GenAI as Complex Adaptive Systems
@@ -83,17 +51,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: institutions, communities
 
-### See Also
-
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *content similarity (0.28) | shared concepts: AI governance, accountability, infrastructure, interoperability | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *content similarity (0.31) | shared concepts: interoperability, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *content similarity (0.38) | shared concepts: metadata, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Wu 2024 - AI-Governance-in-Higher-Education-Case]] — *content similarity (0.32) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *content similarity (0.29) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity*
-- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared concepts: generative AI, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational*
-- [[Zeffiro 2024 - -EASST4S]] — *shared concepts: generative AI, accountability, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | shared methodology: computational*
-- [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *shared concepts: governance, AI governance, accountability, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *content similarity (0.38) | shared concepts: metadata, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+- [[Wu 2024 - AI-Governance-in-Higher-Education-Case]] — *content similarity (0.32) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *content similarity (0.31) | shared concepts: interoperability, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
+
+</details>

@@ -1,12 +1,12 @@
 ---
-title: "Metadata"
-type: concept
-mentions: 9
-created: "2026-05-14"
+title: Metadata
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 9
+created: 2026-05-14
 ---
 
 # Metadata

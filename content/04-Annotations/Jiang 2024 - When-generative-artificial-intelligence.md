@@ -1,41 +1,17 @@
 ---
 title: "When generative artificial intelligence meets multimodal composition: Rethinking the composition process through an AI-assisted design project"
-authors:
-  - "Jiang, Jialei"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Forms of Research Output"
-tensions:
-  - "Efficiency vs Process"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "generative AI"
-methodologies:
-  - "case study"
-  - "qualitative"
-  - "theoretical"
-  - "design research"
-stakeholders:
-  - "researchers"
-  - "students"
-source: "Computers and Composition 74: 102883"
-url: "https://doi.org/10.1016/j.compcom.2024.102883"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Efficiency vs Process
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - forms-of-research-output
-  - method-case-study
-  - method-qualitative
-  - method-theoretical
-  - method-design-research
-  - topic-generative-ai
-  - stakeholder-researchers
-  - stakeholder-students
   - tension-efficiency-v-process
+  - stakeholder-students
+  - stakeholder-researchers
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # When generative artificial intelligence meets multimodal composition: Rethinking the composition process through an AI-assisted design project
@@ -67,17 +43,16 @@ Jiang conducts a study in which is integrated into students’ composition of mu
 
 **Stakeholders**: researchers, students
 
-### See Also
-
-- [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] — *content similarity (0.30) | shared tension: Efficiency vs Process | shared methodology: design research*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: design research, qualitative*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: design research, case study*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: design research, theoretical*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: design research, qualitative*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: design research, theoretical*
-- [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain*
-- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: qualitative*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] — *content similarity (0.30) | shared tension: Efficiency vs Process | shared methodology: design research*
+- [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain*
+- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: design research, qualitative*
+
+</details>

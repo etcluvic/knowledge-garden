@@ -1,51 +1,16 @@
 ---
 title: "Empowering Knowledge through AI: Open Scholarship Proactively Supporting Well Trained Generative AI"
-authors:
-  - "Montague-Hellen, Beth"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Research Methods and Practices"
-tensions:
-  - "Openness vs Enclosure"
-concepts:
-  - "generative AI"
-  - "consent"
-  - "machine learning"
-  - "creative commons"
-  - "intellectual property"
-  - "diversity"
-  - "trust"
-  - "infrastructure"
-  - "metadata"
-  - "provenance"
-  - "curation"
-  - "scholarly communication"
-  - "training data"
-  - "commons"
-methodologies:
-  - "framework development"
-stakeholders:
-  - "researchers"
-  - "publishers"
-source: "Insights 37 (1)"
-url: "https://doi.org/10.1629/uksg.649"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Openness vs Enclosure
 tags:
   - annotation
-  - ai-and-scholarship
-  - research-methods-and-practices
-  - method-framework-development
   - topic-generative-ai
   - topic-consent
-  - topic-machine-learning
   - topic-creative-commons
-  - topic-intellectual-property
-  - topic-diversity
-  - stakeholder-researchers
   - stakeholder-publishers
-  - tension-openness-v-enclosure
+type: annotation
+created: 2026-05-14
 ---
 
 # Empowering Knowledge through AI: Open Scholarship Proactively Supporting Well Trained Generative AI
@@ -77,17 +42,16 @@ Generative AI is becoming a dominant interface for finding, summarizing, and pro
 
 **Stakeholders**: researchers, publishers
 
-### See Also
-
-- [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *shared concepts: training data, generative AI, infrastructure, creative commons | shared methodology: framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: generative AI, infrastructure, creative commons, curation | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: metadata, generative AI, infrastructure, curation | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Boyd 2021 - Datasheets-for-Datasets-Help-ML-Engineer]] — *shared concepts: training data, infrastructure, machine learning, provenance | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: training data, generative AI, infrastructure, trust | shared methodology: framework development*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, commons, training data | shared tension: Openness vs Enclosure | same subdomain*
-- [[Tumadóttir 2024 - Questions-for-Consideration-on-AI-the]] — *shared concepts: commons, creative commons | shared tension: Openness vs Enclosure | same subdomain*
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: infrastructure, machine learning, consent | shared tension: Openness vs Enclosure | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, commons, training data | shared tension: Openness vs Enclosure | same subdomain*
+- [[Tumadóttir 2024 - Questions-for-Consideration-on-AI-the]] — *shared concepts: commons, creative commons | shared tension: Openness vs Enclosure | same subdomain*
+- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: generative AI, infrastructure, creative commons, curation | shared tension: Openness vs Enclosure | shared methodology: framework development*
+
+</details>

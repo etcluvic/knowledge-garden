@@ -1,12 +1,12 @@
 ---
-title: "Decolonization"
-type: concept
-mentions: 11
-created: "2026-05-14"
+title: Decolonization
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 11
+created: 2026-05-14
 ---
 
 # Decolonization

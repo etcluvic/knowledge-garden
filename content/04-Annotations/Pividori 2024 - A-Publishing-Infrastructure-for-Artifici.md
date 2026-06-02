@@ -1,46 +1,17 @@
 ---
-title: "A Publishing Infrastructure for Artificial Intelligence (AI)-Assisted Academic Authoring"
-authors:
-  - "Pividori, Milton"
-  - "Casey S. Greene"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Infrastructures"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "evaluation"
-  - "automation"
-  - "provenance"
-  - "large language models"
-methodologies:
-  - "case study"
-  - "framework development"
-  - "design research"
-stakeholders:
-  - "researchers"
-  - "institutions"
-source: "Journal of the American Medical Informatics Association 31 (9): 2103–13 DOI:"
-url: "https://doi.org/10.1093/jamia/ocae139"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: A Publishing Infrastructure for Artificial Intelligence (AI)-Assisted Academic Authoring
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-case-study
-  - method-framework-development
-  - method-design-research
-  - topic-evaluation
-  - topic-automation
   - topic-provenance
-  - topic-large-language-models
-  - stakeholder-researchers
-  - stakeholder-institutions
+  - topic-evaluation
   - tension-technical-capability-v-organizational-capacity
   - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # A Publishing Infrastructure for Artificial Intelligence (AI)-Assisted Academic Authoring
@@ -72,17 +43,16 @@ The Manubot AI Editor implements a concrete technical solution to the provenance
 
 **Stakeholders**: researchers, institutions
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: automation, evaluation, large language models, provenance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
 - [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: automation, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, case study*
 - [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: automation, evaluation | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared concepts: automation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development | cites Shin*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: evaluation, provenance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

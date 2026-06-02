@@ -1,54 +1,17 @@
 ---
-
 title: "The Model Openness Framework: Promoting Completeness and Openness for Reproducibility,' Transparency, and Usability in AI. arXiv preprint arXiv:2403.13784"
-authors:
-- White, M., Haddad, I., Osborne, C., Liu, X., Abdelmonsef, A., Varghese, S
-- Le Hors, A
-year: '2024'
 domain: Essential Contexts
-subdomain: Past Relation to OSS-Aligned Communities
-tensions:
-- Openness vs Enclosure
-- Technical Capability vs Organizational Capacity
-concepts:
-- open science
-- open source
-- reproducibility
-- training data
-- AI ethics
-- FAIR principles
-- governance
-- transparency
-- interoperability
-- evaluation
-methodologies:
-- framework development
-stakeholders:
-- policymakers
-- communities
-- industry
-source: ''
-url: ''
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Openness vs Enclosure
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - essential-contexts
-  - past-relation-to-oss-aligned-communities
-  - method-framework-development
-  - topic-open-science
-  - topic-open-source
-  - topic-reproducibility
-  - topic-training-data
-  - topic-ai-ethics
-  - topic-fair-principles
-  - stakeholder-policymakers
-  - stakeholder-communities
-  - stakeholder-industry
-  - tension-openness-v-enclosure
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - tension-openness-v-enclosure
+  - topic-reproducibility
+  - topic-open-science
+type: annotation
+created: 2026-05-14
 ---
 
 # The Model Openness Framework: Promoting Completeness and Openness for Reproducibility, Transparency, and Usability in AI. arXiv preprint arXiv:2403.13784
@@ -56,7 +19,6 @@ tags:
 **White, M., Haddad, I., Osborne, C., Liu, X., Abdelmonsef, A., Varghese, S; Le Hors, A** (2024)
 
 **
-
 
 
 ---
@@ -89,17 +51,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: policymakers, communities, industry
 
-### See Also
-
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: FAIR principles, evaluation, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
-- [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *content similarity (0.31) | shared concepts: open source, training data | shared tension: Technical Capability vs Organizational Capacity*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: open source, training data, interoperability, reproducibility | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *shared concepts: open source, evaluation, open science, governance | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: evaluation, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | same subdomain*
-- [[Open Source Initiative The Open Source AI Definition 10 2024 - 2025]] — *shared concepts: interoperability, governance, transparency | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | same subdomain*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: evaluation, training data, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: evaluation, interoperability, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *content similarity (0.31) | shared concepts: open source, training data | shared tension: Technical Capability vs Organizational Capacity*
+- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: evaluation, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | same subdomain*
+- [[Open Source Initiative The Open Source AI Definition 10 2024 - 2025]] — *shared concepts: interoperability, governance, transparency | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | same subdomain*
+
+</details>

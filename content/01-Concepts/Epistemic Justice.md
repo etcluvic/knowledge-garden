@@ -1,12 +1,12 @@
 ---
-title: "Epistemic Justice"
-type: concept
-mentions: 2
-created: "2026-05-14"
+title: Epistemic Justice
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 2
+created: 2026-05-14
 ---
 
 # Epistemic Justice

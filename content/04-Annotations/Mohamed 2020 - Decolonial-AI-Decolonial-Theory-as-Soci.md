@@ -1,51 +1,15 @@
 ---
 title: "Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence"
-authors:
-  - "Mohamed, Shakir, Marie-Therese Png"
-  - "William Isaac. “Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence.” Philosophy"
-  - "Technology 33, no. 4 (December 1"
-year: "2020"
-domain: "AI and Social"
-subdomain: "Globalism, Colonialism and Influence"
-tensions:
-  []
-concepts:
-  - "decolonization"
-  - "diversity"
-  - "labour"
-  - "evaluation"
-  - "bias"
-  - "citation"
-methodologies:
-  - "computational"
-  - "framework development"
-  - "theoretical"
-  - "empirical"
-stakeholders:
-  - "publishers"
-  - "communities"
-source: "Philosophy & Technology 33, no"
-url: "https://doi.org/10.1007/s13347-020-00405-8"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension: []
 tags:
   - annotation
-  - ai-and-social
-  - globalism-colonialism-and-influence
-  - method-computational
-  - method-framework-development
-  - method-theoretical
   - method-empirical
+  - method-theoretical
   - topic-decolonization
-  - topic-diversity
-  - topic-labour
-  - topic-evaluation
-  - topic-bias
-  - topic-citation
-  - stakeholder-publishers
   - stakeholder-communities
-  - region-global
+type: annotation
+created: 2026-05-14
 ---
 
 # Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence
@@ -79,17 +43,16 @@ Mohamed et al. explore the role of post-colonial and decolonial critical science
 
 **Geographic Focus**: Global
 
-### See Also
-
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, diversity, labour, bias | same subdomain | shared methodology: computational, framework development, theoretical*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: decolonization, evaluation, bias | same subdomain | shared methodology: computational, framework development, theoretical*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: citation, bias, evaluation | shared methodology: computational, framework development, empirical*
-- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared concepts: bias, diversity | shared methodology: computational, framework development, empirical, theoretical*
-- [[Veldhuis 2024 - Critical-Artificial-Intelligence-literac]] — *shared concepts: bias, diversity | shared methodology: computational, framework development, empirical, theoretical*
-- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: citation, bias, labour, diversity | shared methodology: framework development*
-- [[Duricic 2023 - Beyond-Accuracy-A-Review-on-Diversity]] — *shared concepts: bias, evaluation, diversity | shared methodology: computational, framework development*
-- [[Salami 2024 - Artificial-intelligence-digital-colonia]] — *shared concepts: decolonization, labour | same subdomain | shared methodology: computational, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, diversity, labour, bias | same subdomain | shared methodology: computational, framework development, theoretical*
+- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: decolonization, evaluation, bias | same subdomain | shared methodology: computational, framework development, theoretical*
+- [[Salami 2024 - Artificial-intelligence-digital-colonia]] — *shared concepts: decolonization, labour | same subdomain | shared methodology: computational, framework development*
+
+</details>

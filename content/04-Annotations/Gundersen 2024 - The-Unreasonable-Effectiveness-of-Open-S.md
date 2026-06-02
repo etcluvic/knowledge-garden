@@ -1,35 +1,16 @@
 ---
 title: "The Unreasonable Effectiveness of Open Science in AI: A Replication Study"
-authors:
-  - "Gundersen, Odd Erik, Odd Cappelen, Martin Mølnå"
-  - "Nicklas Grimstad Nilsen"
-year: "2024"
-domain: "AI and Open"
-subdomain: "Open Science"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "reproducibility"
-  - "curation"
-  - "transparency"
-methodologies:
-  - "empirical"
-stakeholders:
-  []
-source: "Version 1"
-url: "https://doi.org/10.48550/ARXIV.2412.17859"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Open
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-open
   - open-science
-  - method-empirical
   - topic-reproducibility
-  - topic-curation
   - topic-transparency
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # The Unreasonable Effectiveness of Open Science in AI: A Replication Study
@@ -59,17 +40,16 @@ Gundersen et al. examine the extent to which a widely accepted crisis in researc
 
 **Methodologies**: `empirical`
 
-### See Also
-
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity | cites Long*
-- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: curation, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity*
-- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: empirical*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: curation, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: empirical*
-- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *shared concepts: reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: curation, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity*
+- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: empirical*
+
+</details>

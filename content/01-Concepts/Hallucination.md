@@ -1,12 +1,12 @@
 ---
-title: "Hallucination"
-type: concept
-mentions: 13
-created: "2026-05-14"
+title: Hallucination
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 13
+created: 2026-05-14
 ---
 
 # Hallucination

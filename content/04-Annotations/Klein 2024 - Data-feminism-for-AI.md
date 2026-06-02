@@ -1,43 +1,14 @@
 ---
-title: "Data feminism for AI"
-authors:
-  - "Klein, L"
-  - "D'Ignazio, C"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Diversity, Determinism, Bias and Justice"
-tensions:
-  []
-concepts:
-  - "environmental impact"
-  - "generative AI"
-  - "consent"
-  - "equity"
-  - "decolonization"
-  - "evaluation"
-methodologies:
-  - "framework development"
-  - "critical analysis"
-stakeholders:
-  - "industry"
-source: "In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency"
-url: "https://doi.org/10.1145/3630106.3658543"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Data feminism for AI
+domain: AI and Social
+tension: []
 tags:
   - annotation
-  - ai-and-social
-  - diversity-determinism-bias-and-justice
-  - method-framework-development
-  - method-critical-analysis
   - topic-environmental-impact
   - topic-generative-ai
   - topic-consent
-  - topic-equity
-  - topic-decolonization
-  - topic-evaluation
-  - stakeholder-industry
+type: annotation
+created: 2026-05-14
 ---
 
 # Data feminism for AI
@@ -69,17 +40,16 @@ Klein and D'Ignazio (2024) adapt their foundational concept of "data feminism" t
 
 **Stakeholders**: industry
 
-### See Also
-
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: generative AI, equity | same subdomain | shared methodology: critical analysis, framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, generative AI, equity | shared methodology: critical analysis, framework development*
-- [[Klein 2025 - Provocations-from-the-Humanities-for-Gen]] — *shared methodology: framework development | cites Klein*
-- [[Tonia Sutherland 2023 - The-Feminist-Data-Manifest-NO-An-Introd]] — *shared concepts: decolonization, consent | same subdomain | shared methodology: framework development*
-- [[Bender 2021 - On-the-Dangers-of-Stochastic-Parrots-Ca]] — *shared concepts: environmental impact, equity | shared methodology: critical analysis, framework development*
-- [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *shared concepts: generative AI, environmental impact, evaluation*
-- [[Kay 2024 - Epistemic-Injustice-in-Generative-AI]] — *shared concepts: generative AI, equity | same subdomain*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: generative AI, evaluation | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: generative AI, equity | same subdomain | shared methodology: critical analysis, framework development*
+- [[Tonia Sutherland 2023 - The-Feminist-Data-Manifest-NO-An-Introd]] — *shared concepts: decolonization, consent | same subdomain | shared methodology: framework development*
+- [[Kay 2024 - Epistemic-Injustice-in-Generative-AI]] — *shared concepts: generative AI, equity | same subdomain*
+
+</details>

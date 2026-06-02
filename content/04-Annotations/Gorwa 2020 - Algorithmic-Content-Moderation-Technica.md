@@ -1,46 +1,17 @@
 ---
 title: "Algorithmic Content Moderation: Technical and Political Challenges in the Automation of Platform Governance"
-authors:
-  - "Gorwa, Robert, Reuben Binns"
-  - "Christian Katzenbach"
-year: "2020"
-domain: "AI and Social"
-subdomain: "Platforms"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "governance"
-  - "infrastructure"
-  - "automation"
-  - "transparency"
-  - "intellectual property"
-  - "misinformation"
-  - "AI governance"
-  - "accountability"
-methodologies:
-  - "computational"
-stakeholders:
-  - "communities"
-source: "Big Data & Society 7, no"
-url: "https://doi.org/10.1177/2053951719897945"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - platforms
-  - method-computational
   - topic-governance
-  - topic-infrastructure
   - topic-automation
-  - topic-transparency
-  - topic-intellectual-property
   - topic-misinformation
-  - stakeholder-communities
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
+  - platforms
+type: annotation
+created: 2026-05-14
 ---
 
 # Algorithmic Content Moderation: Technical and Political Challenges in the Automation of Platform Governance
@@ -72,17 +43,16 @@ Gorwa et al unfold what "Algorithmic moderation systems” are perceived as esse
 
 **Stakeholders**: communities
 
-### See Also
-
-- [[Savolainen 2022 - The-Shadow-Banning-Controversy-Perceive]] — *content similarity (0.26) | shared concepts: automation, governance, infrastructure, transparency | same subdomain*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: misinformation, accountability, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Reynolds 2024 - User-Generated-Accountability-Public-Pa]] — *shared concepts: automation, accountability, infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: misinformation, infrastructure, governance, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared concepts: AI governance, accountability, transparency, governance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared concepts: governance, AI governance, accountability, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational | cites Long*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: accountability, AI governance, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Savolainen 2022 - The-Shadow-Banning-Controversy-Perceive]] — *content similarity (0.26) | shared concepts: automation, governance, infrastructure, transparency | same subdomain*
+- [[Reynolds 2024 - User-Generated-Accountability-Public-Pa]] — *shared concepts: automation, accountability, infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: misinformation, infrastructure, governance, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
+
+</details>

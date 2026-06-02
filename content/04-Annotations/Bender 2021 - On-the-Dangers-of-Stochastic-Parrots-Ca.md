@@ -1,48 +1,16 @@
 ---
-
-title: 'On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜'
-authors:
-- Bender, Emily M., Timnit Gebru, Angelina McMillan-Major
-- Shmargaret Shmitchell
-year: '2021'
+title: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜"
 domain: Essential Contexts
-subdomain: "Histories & Theories of AI"
-tensions:
-- Technical Capability vs Organizational Capacity
-concepts:
-- training data
-- large language models
-- environmental impact
-- curation
-- diversity
-- equity
-- reproducibility
-methodologies:
-- framework development
-- critical analysis
-stakeholders:
-- developers
-source: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
-  (New York, NY, USA), FAccT ’21, March 1, 610–23
-url: "https://doi.org/10.1145/3442188.3445922"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-framework-development
-  - method-critical-analysis
-  - topic-training-data
-  - topic-large-language-models
-  - topic-environmental-impact
-  - topic-curation
-  - topic-diversity
-  - topic-equity
-  - stakeholder-developers
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - topic-training-data
+  - topic-diversity
+  - stakeholder-developers
+type: annotation
+created: 2026-05-14
 ---
 
 # On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜
@@ -84,17 +52,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: developers
 
-### See Also
-
-- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: environmental impact, training data, curation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Bender 2018 - Data-Statements-for-Natural-Language-Pro]] — *shared concepts: curation, diversity | shared tension: Technical Capability vs Organizational Capacity | cites Bender*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, training data, large language models, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: curation, equity, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: critical analysis, framework development*
-- [[Klein 2025 - Provocations-from-the-Humanities-for-Gen]] — *shared concepts: curation, training data | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: training data, large language models, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: training data, large language models, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Varshney 2024 - Decolonial-AI-Alignment-Openness-Vises]] — *shared concepts: large language models, reproducibility, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Klein 2025 - Provocations-from-the-Humanities-for-Gen]] — *shared concepts: curation, training data | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: environmental impact, training data, curation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
+- [[Bender 2018 - Data-Statements-for-Natural-Language-Pro]] — *shared concepts: curation, diversity | shared tension: Technical Capability vs Organizational Capacity | cites Bender*
+
+</details>

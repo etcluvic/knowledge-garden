@@ -1,12 +1,12 @@
 ---
-title: "Openness vs Enclosure"
-type: "tension"
-annotation_count: 20
-created: "2026-05-14"
+title: Openness vs Enclosure
 tags:
-  - "tension"
-  - "cross-cutting"
-  - "hub-note"
+  - tension
+  - cross-cutting
+  - hub-note
+type: tension
+annotation_count: 20
+created: 2026-05-14
 ---
 
 # Openness vs Enclosure
@@ -33,7 +33,7 @@ This tension captures the fundamental challenge of balancing **Openness** agains
 ### AI and Open
 
 - [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *Open Science at the generative AI turn: An exploratory analysis of challenges an* (2025)
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *A Cartography of Open ation in Open Source AI: Mapping Practices, Motivations, a* (2025)
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *A Cartography of Open Collaboration in Open Source AI: Mapping Practices, Motivations, a* (2025)
 - [[Luth 2025 - The-Use-of-Wikipedia-Wikimedia-and-Ope]] — *The Use of Wikipedia, Wikimedia, and Open Access Content for Artificial Intellig* (2025)
 - [[Papi 2025 - FAMA-The-First-Large-Scale-Open-Science]] — *FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and* (2025)
 - [[Osborne 2024 - Why-Companies]] — *Why Companies* (2024)

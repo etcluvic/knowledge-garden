@@ -1,43 +1,16 @@
 ---
-title: "The Social Impact of Generative LLM-Based AI"
-authors:
-  - "Xie, Y"
-  - "Avila, S"
-year: "2025"
-domain: "AI and Social"
-subdomain: "Community, Connection and the Human"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "large language models"
-  - "generative AI"
-  - "bias"
-  - "equity"
-  - "training data"
-methodologies:
-  - "quantitative"
-stakeholders:
-  - "communities"
-source: "Chinese Journal of Sociology, 11(1), 31-57"
-url: "https://doi.org/10.1177/2057150X251315997"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: The Social Impact of Generative LLM-Based AI
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - community-connection-and-the-human
-  - method-quantitative
-  - topic-large-language-models
   - topic-generative-ai
   - topic-bias
-  - topic-equity
   - topic-training-data
   - stakeholder-communities
-  - region-north-america
-  - region-asia
-  - region-global
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # The Social Impact of Generative LLM-Based AI
@@ -71,17 +44,16 @@ Yu Xie and Sofia Avila explore the social impact of artificial intelligence thro
 
 **Geographic Focus**: North America, Asia, Global
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Taneja 2020 - AI-Powered-Recommender-Systems-Personal]] — *shared concepts: generative AI, bias | shared tension: Technical Capability vs Organizational Capacity | cites Bias.*
 - [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: generative AI, training data, bias, large language models | shared tension: Technical Capability vs Organizational Capacity*
 - [[Aguiar 2024 - Final-Thoughts-Digital-Humanities-Looki]] — *shared concepts: generative AI, bias, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: generative AI, bias, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: generative AI, bias, equity | shared tension: Technical Capability vs Organizational Capacity*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: bias, training data, large language models | shared tension: Technical Capability vs Organizational Capacity*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: generative AI, bias, equity | shared tension: Technical Capability vs Organizational Capacity*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

@@ -24,7 +24,7 @@ tags:
 - [[Balendra 2025 - Metas-AI-Moderation-and-Free-Speech-On]] (2025) — *AI and Social*
 - [[Mitchell 2025 - RESEARCH-GENAI-SITUATING-GENERATIVE-AI]] (2025) — *AI and Scholarship*
 - [[Papi 2025 - FAMA-The-First-Large-Scale-Open-Science]] (2025) — *AI and Open*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
 - [[Jiang 2024 - When-generative-artificial-intelligence]] (2024) — *AI and Scholarship*
 - [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] (2024) — *AI and Scholarship*
 - [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] (2024) — *AI and Scholarship*
@@ -140,7 +140,7 @@ tags:
 - [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] (2024) — *AI and Scholarship*
 - [[Boer 2024 - Hybrid-Intelligence-for-Digital-Humaniti]] (2024) — *AI and Social*
 - [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] (2024) — *AI and Social*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
 - [[Colbert-Lewis 2024 - The-Citation-Economy-as-a-Site-of-Extrac]] (2024) — *AI and Scholarship*
 - [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] (2024) — *AI and Social*
 - [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] (2024) — *AI and Social*
@@ -184,7 +184,7 @@ tags:
 - [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] (2025) — *AI and Scholarship*
 - [[Park 2025 - Generative-AI-and-misinformation-a-scop]] (2025) — *AI and Social*
 - [[Peters 2025 - Generalization-Bias-in-Large-Language-Mo]] (2025) — *AI and Scholarship*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
 - [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] (2024) — *AI and Social*
 - [[Gundersen 2024 - The-Unreasonable-Effectiveness-of-Open-S]] (2024) — *AI and Open*
 - [[Liang 2024 - Evaluating-Science-A-Comparison-of-Huma]] (2024) — *AI and Scholarship*
@@ -211,7 +211,7 @@ tags:
 - [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] (2025) — *AI and Scholarship*
 - [[Klein 2025 - Provocations-from-the-Humanities-for-Gen]] (2025) — *Essential Contexts*
 - [[Lee 2025 - Prompt-Engineering-in-Higher-Education]] (2025) — *AI and Scholarship*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] (2025) — *AI and Open*
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] (2025) — *AI and Open*
 - [[Luth 2025 - The-Use-of-Wikipedia-Wikimedia-and-Ope]] (2025) — *AI and Open*
 - [[Mitchell 2025 - RESEARCH-GENAI-SITUATING-GENERATIVE-AI]] (2025) — *AI and Scholarship*
 - [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] (2025) — *AI and Scholarship*
@@ -238,7 +238,7 @@ tags:
 - [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] (2024) — *AI and Scholarship*
 - [[Bozkurt 2024 - GenAI-et-al-Cocreation-Authorship-Ow]] (2024) — *AI and Scholarship*
 - [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] (2024) — *AI and Social*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
 - [[Daniel Delmonaco 2024 - What-are-you-doing-TikTok]] (2024) — *AI and Social*
 - [[Eloundou 2024 - GPTs-are-GPTs-market-impact-potential]] (2024) — *AI and Social*
 - [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] (2024) — *AI and Social*
@@ -334,7 +334,7 @@ tags:
 - [[Chung 2025 - Betting-on-UnCertain-Futures-Sociotec]] (2025) — *Essential Contexts*
 - [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] (2025) — *AI and Scholarship*
 - [[Jaillant 2025 - How-Can-We-Improve-the-Diversity-of-Arch]] (2025) — *AI and Scholarship*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] (2025) — *AI and Open*
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] (2025) — *AI and Open*
 - [[Richter 2025 - Imaginaries-of-Artificial-Intelligence]] (2025) — *Essential Contexts*
 - [[Rughiniș 2025 - AI-at-the-Knowledge-Gates-Institutional]] (2025) — *AI and Social*
 - [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] (2025) — *AI and Social*
@@ -361,7 +361,7 @@ tags:
 - [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] (2025) — *AI and Scholarship*
 - [[Gruzd 2025 - The-State-of-Generative-AI-Use-in-Canada]] (2025) — *AI and Social*
 - [[Klein 2025 - Provocations-from-the-Humanities-for-Gen]] (2025) — *Essential Contexts*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] (2025) — *AI and Open*
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] (2025) — *AI and Open*
 - [[Park 2025 - Generative-AI-and-misinformation-a-scop]] (2025) — *AI and Social*
 - [[Sidorkin 2025 - Environmental-Impact-of-Generative-AI-C]] (2025) — *AI and Social*
 - [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] (2025) — *AI and Open*
@@ -408,7 +408,7 @@ tags:
 - [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] (2025) — *AI and Scholarship*
 - [[Yue 2025 - A-Practical-Guide-and-Assessment-on-Usin]] (2025) — *AI and Scholarship*
 - [[Arora 2024 - Creative-data-justice-a-decolonial-and]] (2024) — *AI and Social*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] (2024) — *AI and Social*
 - [[Daniel Delmonaco 2024 - What-are-you-doing-TikTok]] (2024) — *AI and Social*
 - [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] (2024) — *AI and Social*
 - [[Jiang 2024 - When-generative-artificial-intelligence]] (2024) — *AI and Scholarship*

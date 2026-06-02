@@ -1,33 +1,14 @@
 ---
 title: "The AI Generation: How universities Can Prepare Students for the Changing World"
-authors:
-  - "Brown, Richard, November"
-year: "2023"
-domain: "AI and Scholarship"
-subdomain: "Teaching and Pedagogy"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  []
-methodologies:
-  []
-stakeholders:
-  - "researchers"
-  - "institutions"
-  - "students"
-source: "DEMOS and University of London Report"
-url: "https://demos.co.uk/wp-content/uploads/2023/11/The-AI-Generation-2.pdf"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - teaching-and-pedagogy
-  - stakeholder-researchers
-  - stakeholder-institutions
   - stakeholder-students
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # The AI Generation: How universities Can Prepare Students for the Changing World
@@ -59,17 +40,16 @@ Brown argues AI will inevitably and dramatically impact all fields of education,
 
 **Stakeholders**: researchers, institutions, students
 
-### See Also
-
-- [[Radu 2021 - Steering-the-Governance-of-Artificial-In]] — *shared tension: Technical Capability vs Organizational Capacity | cites Radu*
-- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Deng 2025 - Does-ChatGPT-Enhance-Student-Learning-A]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Lee 2025 - Prompt-Engineering-in-Higher-Education]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Pope 2024 - Exploring-Historians-Critical-Use-of-Ge]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Yim 2025 - Artificial-Intelligence-AI-Learning-To]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Deng 2025 - Does-ChatGPT-Enhance-Student-Learning-A]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Lee 2025 - Prompt-Engineering-in-Higher-Education]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

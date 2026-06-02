@@ -1,39 +1,13 @@
 ---
-
 title: "Histories of artificial intelligence: a genealogy of power"
-authors:
-  - "Syed Mustafa Ali, Stephanie Dick, Sarah Dillon, Matthew L. Jones, Jonnie Penn"
-  - "Richard Staley"
-year: "2023"
-domain: "Essential Contexts"
-subdomain: "Histories & Theories of AI"
-tensions:
-  []
-concepts:
-  - "diversity"
-  - "decolonization"
-  - "labour"
-methodologies:
-  - "critical analysis"
-stakeholders:
-  - "researchers"
-  - "publishers"
-source: "BJHS Themes 8, 1-18, doi:10"
-url: ""
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: Essential Contexts
+tension: []
 tags:
   - cited-in-introduction
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-critical-analysis
-  - topic-diversity
-  - topic-decolonization
   - topic-labour
-  - stakeholder-researchers
-  - stakeholder-publishers
+type: annotation
+created: 2026-05-14
 ---
 
 # Histories of artificial intelligence: a genealogy of power
@@ -43,7 +17,6 @@ tags:
 *BJHS Themes 8, 1-18, doi:10*
 
 
-
 ---
 
 ## Annotation
@@ -51,8 +24,6 @@ tags:
 The work of these authors seeks to move beyond “conventional origin myths” of AI by contextualizing the academic historical approach within their interdisciplinary backgrounds. As a result, Ali et al. argue that histories of broader processes (like industrialization, colonialism, and social science) can represent the “genealogy” of AI, which is not identified as a specific object but as a grouping of diverse technologies under a loose banner, requiring an equally diverse approach. Although AI is the “flagship of the Information Age”, it was clearly conditioned by the “Management Age”, as these “genealogies” feature four common thematic threads of “hidden labour”, “encoded behaviour”, “disingenuous rhetoric” and “cognitive injustice”. AI is therefore not only situated within the history of computing, but the history of control, the product of the interacting formalist and empiricist views of “intelligence” within Cold War epistemology. In many ways, AI’s refinement of formal abstraction reinforces and impresses Western systems and structures, so these authors do not critique AI with the goal of improvement, but to clarify what AI “is”, “is not”, and perhaps “should not” be.
 
 ---
-
-
 
 
 ## 📖 Appears in Introduction
@@ -78,11 +49,15 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Geographic Focus**: Global North
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (2)</summary>
 
 - [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: decolonization, labour, diversity | shared methodology: critical analysis*
 - [[Mohamed 2020 - Decolonial-AI-Decolonial-Theory-as-Soci]] — *shared concepts: decolonization, labour, diversity*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+</details>

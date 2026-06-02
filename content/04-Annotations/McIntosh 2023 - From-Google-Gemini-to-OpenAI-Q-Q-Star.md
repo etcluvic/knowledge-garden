@@ -1,40 +1,14 @@
 ---
 title: "From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape"
-authors:
-  - "McIntosh, Timothy R., Susnjak, Teo, Liu, Tong, Watters, Paul"
-  - "Halgamuge, Malka N"
-year: "2023"
-domain: "Essential Contexts"
-subdomain: "Histories & Theories of AI"
-tensions:
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "large language models"
-  - "research integrity"
-methodologies:
-  - "case study"
-  - "quantitative"
-  - "framework development"
-  - "theoretical"
-stakeholders:
-  - "researchers"
-source: "Technologies"
-url: "https://doi.org/10.3390/technologies13020051"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: Essential Contexts
+tension:
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-case-study
-  - method-quantitative
-  - method-framework-development
   - method-theoretical
-  - topic-large-language-models
-  - topic-research-integrity
-  - stakeholder-researchers
   - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape
@@ -66,17 +40,16 @@ McIntosh et al. offer a survey of AI development’s frontiers targeted at fello
 
 **Stakeholders**: researchers
 
-### See Also
-
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development, theoretical | cites Long*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: research integrity, large language models | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development, case study*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: research integrity, large language models | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: theoretical, framework development, case study*
-- [[Cooper 2023 - Open-Source-is-Good-for-AI-But-Is-AI-Go]] — *cites Cooper*
-- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: quantitative, framework development, theoretical*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: quantitative, framework development, theoretical*
-- [[Anderson 2024 - AI-as-Philosophical-Ideology-A-Critical]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: research integrity, large language models | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development, case study*
+- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: research integrity, large language models | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: framework development*
+- [[Anderson 2024 - AI-as-Philosophical-Ideology-A-Critical]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: framework development*
+
+</details>

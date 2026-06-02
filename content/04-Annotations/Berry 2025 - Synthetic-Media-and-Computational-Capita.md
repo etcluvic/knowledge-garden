@@ -1,45 +1,16 @@
 ---
-
 title: "Synthetic Media and Computational Capitalism: Towards a Critical Theory of' Artificial Intelligence"
-authors:
-- Berry, David M
-year: '2025'
 domain: Essential Contexts
-subdomain: "Histories & Theories of AI"
-tensions:
-- Technical Capability vs Organizational Capacity
-concepts:
-- infrastructure
-- reproducibility
-- epistemic authority
-- automation
-- explainability
-- bias
-methodologies:
-- qualitative
-- computational
-- theoretical
-stakeholders: []
-source: 'AI & Society 40: 5257–5269'
-url: "https://doi.org/10.1007/s00146-025-02265-2"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-qualitative
-  - method-computational
-  - method-theoretical
-  - topic-infrastructure
-  - topic-reproducibility
-  - topic-epistemic-authority
-  - topic-automation
-  - topic-explainability
-  - topic-bias
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - method-computational
+  - method-qualitative
+  - topic-infrastructure
+type: annotation
+created: 2026-05-14
 ---
 
 # Synthetic Media and Computational Capitalism: Towards a Critical Theory of Artificial Intelligence
@@ -76,17 +47,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Methodologies**: `qualitative`, `computational`, `theoretical`
 
-### See Also
-
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: reproducibility, infrastructure, epistemic authority, explainability | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Zeffiro 2024 - -EASST4S]] — *shared concepts: bias, automation, infrastructure, epistemic authority | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, automation, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Sartori 2022 - A-sociotechnical-perspective-for-the-fut]] — *shared concepts: bias, automation, explainability, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Yim 2025 - Artificial-Intelligence-AI-Learning-To]] — *shared concepts: bias, automation, infrastructure, epistemic authority | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Chung 2025 - Betting-on-UnCertain-Futures-Sociotec]] — *shared concepts: automation, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: bias, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, theoretical*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: bias, infrastructure | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, qualitative, theoretical*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Zeffiro 2024 - -EASST4S]] — *shared concepts: bias, automation, infrastructure, epistemic authority | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Chung 2025 - Betting-on-UnCertain-Futures-Sociotec]] — *shared concepts: automation, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: reproducibility, infrastructure, epistemic authority, explainability | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
+
+</details>

@@ -1,39 +1,17 @@
 ---
-title: "Generalization Bias in Large Language Model Summarization of Scientific Research"
-authors:
-  - "Peters, Uwe"
-  - "Benjamin Chin-Yee. "
-year: "2025"
-domain: "AI and Scholarship"
-subdomain: "Audience"
-tensions:
-  - "Operational Assistance vs Epistemic Authority"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "large language models"
-  - "epistemic authority"
-  - "evaluation"
-methodologies:
-  - "framework development"
-  - "empirical"
-stakeholders:
-  []
-source: "Royal Society Open Science 12, no"
-url: "https://doi.org/10.1098/rsos.241776"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Generalization Bias in Large Language Model Summarization of Scientific Research
+domain: AI and Scholarship
+tension:
+  - Operational Assistance vs Epistemic Authority
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - audience
-  - method-framework-development
-  - method-empirical
-  - topic-large-language-models
-  - topic-epistemic-authority
-  - topic-evaluation
   - tension-operational-assistance-v-epistemic-authority
+  - method-empirical
+  - topic-epistemic-authority
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Generalization Bias in Large Language Model Summarization of Scientific Research
@@ -63,17 +41,16 @@ Peters and Chin-Yee provide rigorous, large-scale empirical evidence of a system
 
 **Methodologies**: `framework development`, `empirical`
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
 - [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: evaluation, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: empirical*
 - [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: evaluation, large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: evaluation, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development, empirical*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Liang 2024 - Evaluating-Science-A-Comparison-of-Huma]] — *shared concepts: evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: empirical*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

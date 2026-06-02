@@ -1,43 +1,18 @@
 ---
 title: "Evaluating Science: A Comparison of Human and AI Reviewers"
-authors:
-  - "Liang, Weixin, Tara Iyer, Marianna Zhang, Zachary Lipton"
-  - "James Zou"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Service and Peer Review"
-tensions:
-  - "Operational Assistance vs Epistemic Authority"
-  - "Efficiency vs Process"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "large language models"
-  - "evaluation"
-  - "peer review"
-methodologies:
-  - "quantitative"
-  - "comparative"
-  - "empirical"
-stakeholders:
-  []
-source: "and Decision Making 19: e24"
-url: "https://doi.org/10.1017/jdm.2024.24"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Operational Assistance vs Epistemic Authority
+  - Efficiency vs Process
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - service-and-peer-review
-  - method-quantitative
-  - method-comparative
-  - method-empirical
-  - topic-large-language-models
-  - topic-evaluation
   - topic-peer-review
   - tension-operational-assistance-v-epistemic-authority
+  - method-empirical
   - tension-efficiency-v-process
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Evaluating Science: A Comparison of Human and AI Reviewers
@@ -67,17 +42,16 @@ Liang and colleagues' large-scale field experiment comparing GPT-4 with human re
 
 **Methodologies**: `quantitative`, `comparative`, `empirical`
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *content similarity (0.43) | shared concepts: peer review, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process*
 - [[Checco 2021 - AI-Assisted-Peer-Review]] — *content similarity (0.25) | shared concepts: peer review, evaluation | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
 - [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: peer review, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | same subdomain*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: peer review, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority*
-- [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] — *shared concepts: evaluation, large language models | shared tension: Operational Assistance vs Epistemic Authority, Efficiency vs Process | shared methodology: comparative, empirical*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: peer review, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Mehlenbacher 2024 - Synthetic-Genres-Expert-Genres-Non-Spe]] — *shared concepts: peer review, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: quantitative*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

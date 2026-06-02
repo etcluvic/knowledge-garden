@@ -1,12 +1,12 @@
 ---
-title: "Participation"
-type: concept
-mentions: 18
-created: "2026-05-14"
+title: Participation
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 18
+created: 2026-05-14
 ---
 
 # Participation
@@ -44,7 +44,7 @@ This concept appears in **18 annotations** across the knowledge garden, spanning
 
 - [[Alvarez 2024 - Policy-Advice-and-Best-Practices-on-Bias]] — *Policy Advice and Best Practices on Bias and Fairness in AI*
 - [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *Data Citizenship: Rethinking Data Literacy in the Age of Disinformation, Misinformation, and Malinformation*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *ative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] — *Collaborative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
 - [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *Bias and Fairness in Large Language Models: A Survey*
 - [[Oh 2024 - Does-Algorithmic-Content-Moderation-Prom]] — *Does Algorithmic Content Moderation Promote Democratic Discourse? Radical Democratic Critique of Toxic Language AI*
 - [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *Critical GenAI Literacy: Postdigital Configurations*

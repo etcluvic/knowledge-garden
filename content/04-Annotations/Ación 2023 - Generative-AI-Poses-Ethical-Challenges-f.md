@@ -1,44 +1,17 @@
 ---
-title: "Generative AI Poses Ethical Challenges for Open Science"
-authors:
-  - "Ación, Laura, Mariela Rajngewerc, Gregory Randall"
-  - "Lorena Etcheverry"
-year: "2023"
-domain: "AI and Open"
-subdomain: "Open Science"
-tensions:
-  - "Openness vs Enclosure"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "open science"
-  - "open source"
-  - "governance"
-  - "accessibility"
-methodologies:
-  - "computational"
-stakeholders:
-  - "institutions"
-  - "policymakers"
-  - "communities"
-source: "Nature Human Behaviour 7, no"
-url: "https://doi.org/10.1038/s41562-023-01740-4"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Generative AI Poses Ethical Challenges for Open Science
+domain: AI and Open
+tension:
+  - Openness vs Enclosure
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-open
   - open-science
-  - method-computational
   - topic-open-science
-  - topic-open-source
   - topic-governance
-  - topic-accessibility
-  - stakeholder-institutions
-  - stakeholder-policymakers
-  - stakeholder-communities
   - tension-openness-v-enclosure
-  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Generative AI Poses Ethical Challenges for Open Science
@@ -70,17 +43,16 @@ This article explores the tension between Open Science’s need to make knowledg
 
 **Stakeholders**: institutions, policymakers, communities
 
-### See Also
-
-- [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *content similarity (0.25) | shared concepts: open source, open science | shared tension: Openness vs Enclosure, Operational Assistance vs Epistemic Authority*
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: accessibility, governance | shared tension: Openness vs Enclosure, Operational Assistance vs Epistemic Authority | shared methodology: computational*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *shared concepts: open source, open science, governance | shared tension: Openness vs Enclosure | same subdomain*
-- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: accessibility, open science | shared tension: Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Papi 2025 - FAMA-The-First-Large-Scale-Open-Science]] — *shared concepts: open source, open science | shared tension: Openness vs Enclosure | same subdomain*
-- [[Osborne 2024 - Why-Companies]] — *shared concepts: open source, open science, governance | shared tension: Openness vs Enclosure*
-- [[White 2024 - The-Model-Openness-Framework-Promoting]] — *shared concepts: open source, open science, governance | shared tension: Openness vs Enclosure*
-- [[Boer 2024 - Hybrid-Intelligence-for-Digital-Humaniti]] — *shared concepts: open source, accessibility | shared tension: Operational Assistance vs Epistemic Authority*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *content similarity (0.25) | shared concepts: open source, open science | shared tension: Openness vs Enclosure, Operational Assistance vs Epistemic Authority*
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *shared concepts: open source, open science, governance | shared tension: Openness vs Enclosure | same subdomain*
+- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: accessibility, open science | shared tension: Operational Assistance vs Epistemic Authority | same subdomain*
+
+</details>

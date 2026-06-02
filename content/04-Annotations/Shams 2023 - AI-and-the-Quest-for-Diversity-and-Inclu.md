@@ -1,44 +1,16 @@
 ---
 title: "AI and the Quest for Diversity and Inclusion: A Systematic Literature Review"
-authors:
-  - "Shams, Rifat Ara, Didar Zowghi"
-  - "Muneera Bano"
-year: "2023"
-domain: "AI and Social"
-subdomain: "Diversity, Determinism, Bias and Justice"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "diversity"
-  - "governance"
-  - "evaluation"
-methodologies:
-  - "literature review"
-  - "qualitative"
-  - "quantitative"
-  - "framework development"
-  - "empirical"
-stakeholders:
-  - "industry"
-source: "*AI and Ethics* 3, no"
-url: "https://doi.org/10.1007/s43681-023-00362-w"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - diversity-determinism-bias-and-justice
+  - topic-diversity
   - method-literature-review
   - method-qualitative
   - method-quantitative
-  - method-framework-development
-  - method-empirical
-  - topic-diversity
-  - topic-governance
-  - topic-evaluation
-  - stakeholder-industry
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # AI and the Quest for Diversity and Inclusion: A Systematic Literature Review
@@ -70,17 +42,16 @@ Shams, Zowghi, and Bano perform a systematic literature review (SLR) that uses b
 
 **Stakeholders**: industry
 
-### See Also
-
-- [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development, literature review | cites Bano*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: governance, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development, qualitative, literature review*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: governance, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development, qualitative, literature review*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: evaluation, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: evaluation, governance, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: empirical, qualitative*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *shared concepts: evaluation, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development, qualitative*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: governance, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: quantitative, framework development, empirical, literature review*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: evaluation, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: governance, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: governance, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development, qualitative, literature review*
+
+</details>

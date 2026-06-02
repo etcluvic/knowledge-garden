@@ -1,57 +1,17 @@
 ---
-
 title: AI-Assisted Peer Review
-authors:
-- Checco, Alessandro, Lorenzo Bracciale, Pierpaolo Loreti, Stephen Pinfield
-- Giuseppe Bianchi
-year: '2021'
 domain: AI and Scholarship
-subdomain: Service and Peer Review
-tensions:
-- Operational Assistance vs Epistemic Authority
-- Technical Capability vs Organizational Capacity
-concepts:
-- automation
-- evaluation
-- peer review
-- interoperability
-- epistemic authority
-- generative AI
-- machine learning
-- algorithmic bias
-- transparency
-- bias
-- citation
-methodologies:
-- computational
-- framework development
-- empirical
-- design research
-stakeholders:
-- institutions
-source: 'Humanities and Social Sciences Communications 8: 25'
-url: "https://doi.org/10.1038/s41599-020-00703-8"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Operational Assistance vs Epistemic Authority
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - service-and-peer-review
-  - method-computational
-  - method-framework-development
-  - method-empirical
-  - method-design-research
-  - topic-automation
-  - topic-evaluation
-  - topic-peer-review
-  - topic-interoperability
-  - topic-epistemic-authority
-  - topic-generative-ai
-  - stakeholder-institutions
-  - tension-operational-assistance-v-epistemic-authority
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - topic-peer-review
+  - tension-operational-assistance-v-epistemic-authority
+  - method-empirical
+type: annotation
+created: 2026-05-14
 ---
 
 # AI-Assisted Peer Review
@@ -90,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: institutions
 
-### See Also
-
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *content similarity (0.31) | shared concepts: peer review, evaluation, citation, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *content similarity (0.28) | shared concepts: peer review, bias, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: evaluation, peer review, epistemic authority, interoperability | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Liang 2024 - Evaluating-Science-A-Comparison-of-Huma]] — *content similarity (0.25) | shared concepts: peer review, evaluation | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: evaluation, transparency, epistemic authority, interoperability | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational, framework development*
-- [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *shared concepts: evaluation, citation, generative AI, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: automation, evaluation, peer review, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: automation, peer review, generative AI, citation | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *content similarity (0.31) | shared concepts: peer review, evaluation, citation, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *content similarity (0.28) | shared concepts: peer review, bias, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+- [[Liang 2024 - Evaluating-Science-A-Comparison-of-Huma]] — *content similarity (0.25) | shared concepts: peer review, evaluation | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+
+</details>

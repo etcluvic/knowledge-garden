@@ -1,43 +1,16 @@
 ---
 title: "A Practical Guide and Assessment on Using ChatGPT to Conduct Grounded Theory Studies: Step-by-Step Reporting of the Data Analysis Process"
-authors:
-  - "Yue, Yongjie, Maosong Zheng, Jiahui Liu, Zhimin Wang"
-  - "Chenhui Mao"
-year: "2025"
-domain: "AI and Scholarship"
-subdomain: "Research Methods and Practices"
-tensions:
-  - "Efficiency vs Process"
-concepts:
-  - "large language models"
-  - "generative AI"
-  - "diversity"
-methodologies:
-  - "qualitative"
-  - "quantitative"
-  - "theoretical"
-  - "design research"
-stakeholders:
-  - "researchers"
-source: "Journal of Medical Internet Research 27: e70122"
-url: "https://doi.org/10.2196/70122"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-scholarship
-  - research-methods-and-practices
+  - tension-efficiency-v-process
   - method-qualitative
-  - method-quantitative
-  - method-theoretical
-  - method-design-research
-  - topic-large-language-models
-  - topic-generative-ai
   - topic-diversity
   - stakeholder-researchers
-  - region-asia
-  - tension-efficiency-v-process
+type: annotation
+created: 2026-05-14
 ---
 
 # A Practical Guide and Assessment on Using ChatGPT to Conduct Grounded Theory Studies: Step-by-Step Reporting of the Data Analysis Process
@@ -71,17 +44,16 @@ Yue et al. employ a study that entailed researchers using either manual coding o
 
 **Geographic Focus**: Asia
 
-### See Also
-
-- [[Jiang 2024 - When-generative-artificial-intelligence]] — *shared tension: Efficiency vs Process | shared methodology: design research, qualitative, theoretical | cites Jiang*
-- [[Seger et al Democratising AI Multiple Meanings 2023 - Democratising-AI-Multiple-Meanings-Goa]] — *shared tension: Efficiency vs Process | shared methodology: design research | cites Methods.*
-- [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *shared concepts: large language models, diversity | shared tension: Efficiency vs Process | shared methodology: quantitative, design research*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared tension: Efficiency vs Process | same subdomain | shared methodology: quantitative, design research, qualitative*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, large language models | shared tension: Efficiency vs Process | shared methodology: design research*
-- [[Simon 2025 - Generative-AI-Quadruple-Deception-Tru]] — *shared concepts: generative AI, large language models | shared tension: Efficiency vs Process | shared methodology: design research*
-- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *shared tension: Efficiency vs Process | same subdomain | shared methodology: quantitative, qualitative*
-- [[Dennstädt 2024 - Title-and-Abstract-Screening-for-Literat]] — *shared concepts: large language models, diversity | same subdomain | shared methodology: quantitative*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *shared concepts: large language models, diversity | shared tension: Efficiency vs Process | shared methodology: quantitative, design research*
+- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, large language models | shared tension: Efficiency vs Process | shared methodology: design research*
+- [[Simon 2025 - Generative-AI-Quadruple-Deception-Tru]] — *shared concepts: generative AI, large language models | shared tension: Efficiency vs Process | shared methodology: design research*
+
+</details>

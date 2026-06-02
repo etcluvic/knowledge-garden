@@ -1,12 +1,12 @@
 ---
-title: "Natural Language Processing"
-type: concept
-mentions: 5
-created: "2026-05-14"
+title: Natural Language Processing
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 5
+created: 2026-05-14
 ---
 
 # Natural Language Processing

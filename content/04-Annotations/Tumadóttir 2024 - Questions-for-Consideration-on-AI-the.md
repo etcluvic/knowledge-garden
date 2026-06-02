@@ -1,35 +1,17 @@
 ---
 title: "Questions for Consideration on AI & the Commons"
-authors:
-  - "Tumadóttir, Anna"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Research Methods and Practices"
-tensions:
-  - "Openness vs Enclosure"
-  - "Efficiency vs Process"
-concepts:
-  - "creative commons"
-  - "commons"
-methodologies:
-  - "framework development"
-stakeholders:
-  - "communities"
-source: "Creative Commons, July 24"
-url: "https://creativecommons.org/2024/07/24/preferencesignals/"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Openness vs Enclosure
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-scholarship
-  - research-methods-and-practices
-  - method-framework-development
-  - topic-creative-commons
   - topic-commons
-  - stakeholder-communities
-  - tension-openness-v-enclosure
+  - topic-creative-commons
   - tension-efficiency-v-process
+  - tension-openness-v-enclosure
+type: annotation
+created: 2026-05-14
 ---
 
 # Questions for Consideration on AI & the Commons
@@ -61,17 +43,16 @@ Tumadóttir talks about CC, license, tools, policy and discusses the way to fost
 
 **Stakeholders**: communities
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: commons, creative commons | shared tension: Openness vs Enclosure | same subdomain*
 - [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: commons, creative commons | shared tension: Openness vs Enclosure | shared methodology: framework development*
 - [[Luth 2025 - The-Use-of-Wikipedia-Wikimedia-and-Ope]] — *shared concepts: commons, creative commons | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Openness vs Enclosure, Efficiency vs Process | shared methodology: framework development*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared tension: Openness vs Enclosure | same subdomain | shared methodology: framework development*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared tension: Efficiency vs Process | same subdomain | shared methodology: framework development*
-- [[Smith 2025 - Licensing-of-Text-for-Generative-AI-Lea]] — *shared concepts: commons, creative commons | shared methodology: framework development*
-- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *shared tension: Efficiency vs Process | same subdomain*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

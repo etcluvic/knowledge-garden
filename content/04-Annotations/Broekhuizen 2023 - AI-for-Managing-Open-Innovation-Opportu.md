@@ -1,36 +1,14 @@
 ---
 title: "AI for Managing Open Innovation: Opportunities, Challenges, and a Research Agenda"
-authors:
-  - "Broekhuizen, Thijs, Henri Dekker, Pedro De Faria, Sebastian Firk, Dinh Khoi Nguyen"
-  - "Wolfgang Sofka"
-year: "2023"
-domain: "AI and Social"
-subdomain: "Governance, Leadership and Policy"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "intellectual property"
-  - "surveillance"
-  - "evaluation"
-methodologies:
-  - "framework development"
-stakeholders:
-  - "industry"
-source: "Journal of Business Research 167 (November 2023): 114196"
-url: "https://doi.org/10.1016/j.jbusres.2023.114196"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - governance-leadership-and-policy
-  - method-framework-development
   - topic-intellectual-property
-  - topic-surveillance
-  - topic-evaluation
-  - stakeholder-industry
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # AI for Managing Open Innovation: Opportunities, Challenges, and a Research Agenda
@@ -62,17 +40,16 @@ Broekhuizen et al. systematically analyze how AI could be applied to the complex
 
 **Stakeholders**: industry
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *shared concepts: evaluation, surveillance | shared tension: Technical Capability vs Organizational Capacity*
 - [[Realising Potential 2025 - Realising-Potential-Supporting-Users-I]] — *shared concepts: surveillance, intellectual property | shared tension: Technical Capability vs Organizational Capacity*
 - [[Birkstedt 2023 - AI-Governance-Themes-Knowledge-Gaps-an]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
-- [[Gasser 2017 - A-Layered-Model-for-AI-Governance]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
-- [[Rughiniș 2025 - AI-at-the-Knowledge-Gates-Institutional]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
-- [[Sposato 2025 - Artificial-Intelligence-in-Educational-L]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
-- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

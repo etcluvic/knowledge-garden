@@ -1,45 +1,16 @@
 ---
-title: "Guidelines for Empirical Studies in Software Engineering Involving Large Language Models"
-authors:
-  - "Baltes, Sebastian, Florian Angermeir, Chetan Arora, Preetha Chatterjee, Jens Deitenbeck, Daniel Graziotin, Christoph Treude, et al"
-year: "2025"
-domain: "AI and Open"
-subdomain: "Open Science"
-tensions:
-  - "Efficiency vs Process"
-concepts:
-  - "large language models"
-  - "open science"
-  - "trust"
-  - "accessibility"
-  - "reproducibility"
-methodologies:
-  - "framework development"
-  - "empirical"
-stakeholders:
-  - "researchers"
-  - "publishers"
-  - "developers"
-source: "arXiv preprint arXiv:2508"
-url: "https://arxiv.org/abs/2508.15503"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Guidelines for Empirical Studies in Software Engineering Involving Large Language Models
+domain: AI and Open
+tension:
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-open
-  - open-science
-  - method-framework-development
   - method-empirical
   - topic-large-language-models
+  - open-science
   - topic-open-science
-  - topic-trust
-  - topic-accessibility
-  - topic-reproducibility
-  - stakeholder-researchers
-  - stakeholder-publishers
-  - stakeholder-developers
-  - tension-efficiency-v-process
+type: annotation
+created: 2026-05-14
 ---
 
 # Guidelines for Empirical Studies in Software Engineering Involving Large Language Models
@@ -71,17 +42,16 @@ This article develops best practices and guidelines for the use of LLMs (express
 
 **Stakeholders**: researchers, publishers, developers
 
-### See Also
-
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *content similarity (0.32) | shared tension: Efficiency vs Process | shared methodology: framework development*
-- [[Biderman 2022 - EleutherAI-Going-Beyond-Open-Science]] — *shared concepts: accessibility, open science, large language models | same subdomain | shared methodology: framework development*
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: trust, accessibility, open science, reproducibility | shared methodology: framework development*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: large language models, reproducibility | shared tension: Efficiency vs Process | shared methodology: framework development*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: trust, large language models | shared tension: Efficiency vs Process | shared methodology: framework development*
-- [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared concepts: trust, reproducibility | shared tension: Efficiency vs Process | shared methodology: framework development*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: large language models, reproducibility | shared tension: Efficiency vs Process | shared methodology: empirical*
-- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: accessibility, open science, reproducibility | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *content similarity (0.32) | shared tension: Efficiency vs Process | shared methodology: framework development*
+- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: large language models, reproducibility | shared tension: Efficiency vs Process | shared methodology: framework development*
+- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: trust, large language models | shared tension: Efficiency vs Process | shared methodology: framework development*
+
+</details>

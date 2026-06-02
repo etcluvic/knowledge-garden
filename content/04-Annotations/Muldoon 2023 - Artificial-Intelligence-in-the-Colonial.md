@@ -1,49 +1,17 @@
 ---
-title: "Artificial Intelligence in the Colonial Matrix of Power"
-authors:
-  - "Muldoon, James"
-  - "Boxi A Wu"
-year: "2023"
-domain: "AI and Social"
-subdomain: "Globalism, Colonialism and Influence"
-tensions:
-  - "Operational Assistance vs Epistemic Authority"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "decolonization"
-  - "labour"
-  - "epistemic authority"
-  - "environmental impact"
-  - "knowledge production"
-  - "machine learning"
-  - "reproducibility"
-methodologies:
-  - "framework development"
-stakeholders:
-  - "researchers"
-  - "communities"
-source: "Philosophy & Technology 36, no"
-url: "https://doi.org/10.1007/s13347-023-00687-8"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Artificial Intelligence in the Colonial Matrix of Power
+domain: AI and Social
+tension:
+  - Operational Assistance vs Epistemic Authority
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - globalism-colonialism-and-influence
-  - method-framework-development
-  - topic-decolonization
   - topic-labour
-  - topic-epistemic-authority
-  - topic-environmental-impact
-  - topic-knowledge-production
-  - topic-machine-learning
-  - stakeholder-researchers
-  - stakeholder-communities
-  - region-global-north
-  - region-global
   - tension-operational-assistance-v-epistemic-authority
-  - tension-technical-capability-v-organizational-capacity
+  - topic-epistemic-authority
+  - topic-knowledge-production
+type: annotation
+created: 2026-05-14
 ---
 
 # Artificial Intelligence in the Colonial Matrix of Power
@@ -77,17 +45,16 @@ Muldoon and Wu (2023) extend decolonial AI scholarship by situating contemporary
 
 **Geographic Focus**: Global North, Global
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Varshney 2024 - Decolonial-AI-Alignment-Openness-Vises]] — *shared concepts: decolonization, reproducibility, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
 - [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: decolonization, reproducibility, knowledge production | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: machine learning, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: machine learning, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Chun 2023 - The-Crisis-of-Artificial-Intelligence-A]] — *shared concepts: knowledge production, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared concepts: reproducibility, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: knowledge production, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: reproducibility, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

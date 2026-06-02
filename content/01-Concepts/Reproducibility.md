@@ -1,12 +1,12 @@
 ---
-title: "Reproducibility"
-type: concept
-mentions: 27
-created: "2026-05-14"
+title: Reproducibility
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 27
+created: 2026-05-14
 ---
 
 # Reproducibility

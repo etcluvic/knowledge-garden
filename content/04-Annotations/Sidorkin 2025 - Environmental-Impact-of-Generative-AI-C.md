@@ -1,38 +1,17 @@
 ---
 title: "Environmental Impact of Generative AI: Carbon and Water Footprint"
-authors:
-  - "Sidorkin, Alexander"
-year: "2025"
-domain: "AI and Social"
-subdomain: "Human, Labour and Environmental Costs"
-tensions:
-  - "Efficiency vs Process"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "environmental impact"
-  - "generative AI"
-  - "citation"
-methodologies:
-  - "quantitative"
-  - "comparative"
-stakeholders:
-  []
-source: "AI-EDU Arxiv 1"
-url: "https://doi.org/10.36851/ai-edu.vi.5448"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Efficiency vs Process
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - human-labour-and-environmental-costs
-  - method-quantitative
-  - method-comparative
   - topic-environmental-impact
   - topic-generative-ai
-  - topic-citation
+  - method-quantitative
   - tension-efficiency-v-process
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Environmental Impact of Generative AI: Carbon and Water Footprint
@@ -62,17 +41,16 @@ This report from Sidorkin provides quantitative estimates and comparisons of the
 
 **Methodologies**: `quantitative`, `comparative`
 
-### See Also
-
-- [[Simon 2025 - Generative-AI-Quadruple-Deception-Tru]] — *shared concepts: citation, generative AI | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: citation, generative AI | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: comparative, quantitative*
-- [[Liang 2024 - Evaluating-Science-A-Comparison-of-Huma]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: comparative, quantitative*
-- [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *shared concepts: citation, generative AI | shared tension: Technical Capability vs Organizational Capacity | shared methodology: comparative*
-- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative*
-- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative*
-- [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Simon 2025 - Generative-AI-Quadruple-Deception-Tru]] — *shared concepts: citation, generative AI | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain*
+- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: citation, generative AI | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process*
+- [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *shared concepts: citation, generative AI | shared tension: Technical Capability vs Organizational Capacity | shared methodology: comparative*
+
+</details>

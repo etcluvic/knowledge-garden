@@ -1,54 +1,18 @@
 ---
 title: "Large Language Models in Qualitative Research: Uses, Tensions, and Intentions"
-authors:
-  - "Schroeder, Hope, Marianne Aubin Le Quéré, Casey Randazzo, David Mimno"
-  - "Sarita Schoenebeck"
-year: "2024"
-domain: "AI and Scholarship"
-subdomain: "Research Methods and Practices"
-tensions:
-  - "Efficiency vs Process"
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "large language models"
-  - "automation"
-  - "transparency"
-  - "consent"
-  - "bias"
-methodologies:
-  - "qualitative"
-  - "quantitative"
-  - "framework development"
-  - "design research"
-stakeholders:
-  - "researchers"
-  - "publishers"
-  - "communities"
-source: "arXiv preprint arXiv:2410"
-url: "https://arxiv.org/abs/2410.07362"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Efficiency vs Process
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-scholarship
-  - research-methods-and-practices
   - method-qualitative
-  - method-quantitative
-  - method-framework-development
-  - method-design-research
   - topic-large-language-models
-  - topic-automation
-  - topic-transparency
-  - topic-consent
-  - topic-bias
   - stakeholder-researchers
-  - stakeholder-publishers
-  - stakeholder-communities
-  - tension-efficiency-v-process
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
+  - topic-automation
+type: annotation
+created: 2026-05-14
 ---
 
 # Large Language Models in Qualitative Research: Uses, Tensions, and Intentions
@@ -80,17 +44,16 @@ Schroder et al. perform interviews with twenty qualitative researchers in human 
 
 **Stakeholders**: researchers, publishers, communities
 
-### See Also
-
-- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *content similarity (0.28) | shared concepts: bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process*
-- [[Dennstädt 2024 - Title-and-Abstract-Screening-for-Literat]] — *content similarity (0.31) | shared concepts: automation, large language models | shared tension: Technical Capability vs Organizational Capacity*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: automation, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: framework development, qualitative*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: automation, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: bias, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | shared methodology: quantitative, design research, framework development*
-- [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared concepts: bias, consent, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | shared methodology: framework development*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, automation, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: bias, automation, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Dennstädt 2024 - Title-and-Abstract-Screening-for-Literat]] — *content similarity (0.31) | shared concepts: automation, large language models | shared tension: Technical Capability vs Organizational Capacity*
+- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *content similarity (0.28) | shared concepts: bias, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process*
+- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, automation, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

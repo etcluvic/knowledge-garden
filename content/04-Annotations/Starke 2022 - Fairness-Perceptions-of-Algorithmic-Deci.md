@@ -1,51 +1,17 @@
 ---
 title: "Fairness Perceptions of Algorithmic Decision-Making: A Systematic Review of the Empirical Literature"
-authors:
-  - "Starke, Christopher, Janine Baleis, Birte Keller"
-  - "Frank Marcinkowski"
-year: "2022"
-domain: "AI and Social"
-subdomain: "Diversity, Determinism, Bias and Justice"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "bias"
-  - "diversity"
-methodologies:
-  - "literature review"
-  - "quantitative"
-  - "computational"
-  - "framework development"
-  - "theoretical"
-  - "empirical"
-  - "design research"
-stakeholders:
-  - "researchers"
-  - "communities"
-source: "Big Data & Society 9, no"
-url: "https://doi.org/10.1177/20539517221115189"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - diversity-determinism-bias-and-justice
-  - method-literature-review
-  - method-quantitative
-  - method-computational
-  - method-framework-development
-  - method-theoretical
   - method-empirical
-  - method-design-research
   - topic-bias
   - topic-diversity
-  - stakeholder-researchers
-  - stakeholder-communities
-  - region-global-north
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
+  - method-literature-review
+type: annotation
+created: 2026-05-14
 ---
 
 # Fairness Perceptions of Algorithmic Decision-Making: A Systematic Review of the Empirical Literature
@@ -79,17 +45,16 @@ This article provides a comprehensive, systematic literature review on the topic
 
 **Geographic Focus**: Global North
 
-### See Also
-
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, computational, theoretical | cites Long*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: literature review, theoretical, quantitative, framework development, computational*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Veldhuis 2024 - Critical-Artificial-Intelligence-literac]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development, empirical, theoretical*
-- [[Taneja 2020 - AI-Powered-Recommender-Systems-Personal]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, computational*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development, theoretical*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: design research, framework development, computational, empirical*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: literature review, theoretical, quantitative, framework development, computational*
+
+</details>

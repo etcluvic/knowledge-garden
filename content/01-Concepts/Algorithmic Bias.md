@@ -1,12 +1,12 @@
 ---
-title: "Algorithmic Bias"
-type: concept
-mentions: 8
-created: "2026-05-14"
+title: Algorithmic Bias
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 8
+created: 2026-05-14
 ---
 
 # Algorithmic Bias

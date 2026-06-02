@@ -1,36 +1,14 @@
 ---
 title: "Copyleft for Alleviating AIGC Copyright Dilemma: What-if Analysis, Public Perception and Implications"
-authors:
-  - "Guo, Xinwei, Yujun Li, Yafeng Peng"
-  - "Xuetao Wei"
-year: "2024"
-domain: "AI and Open"
-subdomain: "Open Source"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "intellectual property"
-  - "large language models"
-methodologies:
-  - "quantitative"
-  - "framework development"
-stakeholders:
-  - "institutions"
-source: "arXiv preprint arXiv:2402"
-url: "https://arxiv.org/abs/2402.12216"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Open
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-open
-  - open-source
-  - method-quantitative
-  - method-framework-development
-  - topic-intellectual-property
-  - topic-large-language-models
   - stakeholder-institutions
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Copyleft for Alleviating AIGC Copyright Dilemma: What-if Analysis, Public Perception and Implications
@@ -62,17 +40,16 @@ This article analyses and summarizes copyright disputes related to Artificial In
 
 **Stakeholders**: institutions
 
-### See Also
-
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development | cites Long*
-- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: quantitative, framework development*
-- [[Radu 2021 - Steering-the-Governance-of-Artificial-In]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: quantitative, framework development*
-- [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
-- [[Widder 2022 - Limits-and-possibilities-for-ethical-AI]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
-- [[Aguiar 2024 - Final-Thoughts-Digital-Humanities-Looki]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
-- [[Alvarez 2024 - Policy-Advice-and-Best-Practices-on-Bias]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
-- [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: quantitative, framework development*
+- [[Radu 2021 - Steering-the-Governance-of-Artificial-In]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: quantitative, framework development*
+- [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
+
+</details>

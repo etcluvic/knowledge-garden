@@ -1,54 +1,16 @@
 ---
 title: "Data Citizenship: Rethinking Data Literacy in the Age of Disinformation, Misinformation, and Malinformation"
-authors:
-  - "Carmi, Elinor, Simeon J. Yates, Eleanor Lockley"
-  - "Alicja Pawluczuk"
-year: "2020"
-domain: "AI and Social"
-subdomain: "Critical Literacies"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "infrastructure"
-  - "reproducibility"
-  - "misinformation"
-  - "governance"
-  - "transparency"
-  - "diversity"
-  - "participation"
-  - "data justice"
-methodologies:
-  - "literature review"
-  - "qualitative"
-  - "quantitative"
-  - "computational"
-  - "framework development"
-  - "design research"
-stakeholders:
-  - "communities"
-source: "Internet Policy Review 9, no"
-url: "https://doi.org/10.14763/2020.2.1481"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - critical-literacies
+  - topic-misinformation
   - method-literature-review
   - method-qualitative
-  - method-quantitative
-  - method-computational
-  - method-framework-development
-  - method-design-research
-  - topic-infrastructure
-  - topic-reproducibility
-  - topic-misinformation
   - topic-governance
-  - topic-transparency
-  - topic-diversity
-  - stakeholder-communities
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Data Citizenship: Rethinking Data Literacy in the Age of Disinformation, Misinformation, and Malinformation
@@ -80,17 +42,16 @@ This study argues that dominant understandings of digital and data literacy are 
 
 **Stakeholders**: communities
 
-### See Also
-
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: governance, infrastructure, reproducibility, misinformation | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, design research, framework development, computational*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: design research, framework development, computational*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: governance, transparency, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: literature review, computational, quantitative, framework development, qualitative*
-- [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *content similarity (0.26) | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *shared concepts: diversity, participation, transparency, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: misinformation, governance, transparency, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Sartori 2022 - A-sociotechnical-perspective-for-the-fut]] — *shared concepts: transparency, governance, reproducibility, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, computational*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: data justice, infrastructure, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development, qualitative*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *content similarity (0.26) | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: governance, infrastructure, reproducibility, misinformation | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, design research, framework development, computational*
+- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: governance, transparency, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: literature review, computational, quantitative, framework development, qualitative*
+
+</details>

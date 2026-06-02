@@ -1,49 +1,16 @@
 ---
 title: "Bias and Fairness in Large Language Models: A Survey"
-authors:
-  - "Gallegos, Isabel O., Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang"
-  - "Nesreen K. Ahmed"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Diversity, Determinism, Bias and Justice"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "bias"
-  - "large language models"
-  - "evaluation"
-  - "natural language processing"
-  - "diversity"
-  - "participation"
-  - "training data"
-methodologies:
-  - "quantitative"
-  - "framework development"
-  - "design research"
-  - "action research"
-stakeholders:
-  - "communities"
-source: "Computational Linguistics 50, no"
-url: "https://doi.org/10.1162/coli_a_00524"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - diversity-determinism-bias-and-justice
-  - method-quantitative
-  - method-framework-development
-  - method-design-research
-  - method-action-research
   - topic-bias
   - topic-large-language-models
   - topic-evaluation
-  - topic-natural-language-processing
   - topic-diversity
-  - topic-participation
-  - stakeholder-communities
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Bias and Fairness in Large Language Models: A Survey
@@ -75,17 +42,16 @@ Gallegos et al. perform an “extensive and comprehensive survey of bias and fai
 
 **Stakeholders**: communities
 
-### See Also
-
-- [[Alvarez 2024 - Policy-Advice-and-Best-Practices-on-Bias]] — *content similarity (0.27) | shared concepts: evaluation, bias, participation, training data | shared tension: Technical Capability vs Organizational Capacity*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: bias, participation, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: bias, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, design research, framework development*
-- [[Akter 2021 - Algorithmic-bias-in-data-driven-innovati]] — *content similarity (0.27) | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: training data, bias, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Dennstädt 2024 - Title-and-Abstract-Screening-for-Literat]] — *shared concepts: evaluation, training data, large language models, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
-- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: bias, training data, large language models, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Alvarez 2024 - Policy-Advice-and-Best-Practices-on-Bias]] — *content similarity (0.27) | shared concepts: evaluation, bias, participation, training data | shared tension: Technical Capability vs Organizational Capacity*
+- [[Akter 2021 - Algorithmic-bias-in-data-driven-innovati]] — *content similarity (0.27) | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
+- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

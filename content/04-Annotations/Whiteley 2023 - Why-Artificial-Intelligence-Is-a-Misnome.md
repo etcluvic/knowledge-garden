@@ -1,32 +1,12 @@
 ---
-
 title: Why Artificial Intelligence Is a Misnomer
-authors:
-- Whiteley, Paul
-year: '2023'
 domain: Essential Contexts
-subdomain: "Histories & Theories of AI"
-tensions: []
-concepts:
-- diversity
-methodologies:
-- quantitative
-- computational
-stakeholders: []
-source: London School of Economics and Political Science Politics and Policy Blog,
-  October 19
-url: "https://blogs.lse.ac.uk/politicsandpolicy/why-artificial-intelligence-is-a-misnomer/"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension: []
 tags:
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-quantitative
-  - method-computational
-  - topic-diversity
   - cited-in-introduction
+type: annotation
+created: 2026-05-14
 ---
 
 # Why Artificial Intelligence Is a Misnomer
@@ -63,10 +43,14 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Methodologies**: `quantitative`, `computational`
 
-### See Also
-
-- [[White 2024 - The-Model-Openness-Framework-Promoting]] — *cites White*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (1)</summary>
+
+- [[White 2024 - The-Model-Openness-Framework-Promoting]] — *cites White*
+
+</details>

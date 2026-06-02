@@ -1,12 +1,12 @@
 ---
-title: "Enclosure"
-type: concept
-mentions: 4
-created: "2026-05-14"
+title: Enclosure
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 4
+created: 2026-05-14
 ---
 
 # Enclosure

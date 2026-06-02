@@ -1,12 +1,12 @@
 ---
-title: "Consent"
-type: concept
-mentions: 7
-created: "2026-05-14"
+title: Consent
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 7
+created: 2026-05-14
 ---
 
 # Consent

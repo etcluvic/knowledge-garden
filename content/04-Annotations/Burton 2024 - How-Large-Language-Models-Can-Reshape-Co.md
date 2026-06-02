@@ -1,43 +1,17 @@
 ---
-title: "How Large Language Models Can Reshape Collective Intelligence"
-authors:
-  - "Burton, Jason W., Ezequiel Lopez-Lopez, Shahar Hechtlinger, et al"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Platforms"
-tensions:
-  - "Efficiency vs Process"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "large language models"
-  - "infrastructure"
-  - "epistemic authority"
-  - "diversity"
-methodologies:
-  - "quantitative"
-  - "framework development"
-  - "design research"
-stakeholders:
-  - "institutions"
-source: "Nature Human Behaviour 8 (9): 1643–55"
-url: "https://doi.org/10.1038/s41562-024-01959-9"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: How Large Language Models Can Reshape Collective Intelligence
+domain: AI and Social
+tension:
+  - Efficiency vs Process
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - platforms
-  - method-quantitative
-  - method-framework-development
-  - method-design-research
   - topic-large-language-models
+  - platforms
   - topic-infrastructure
-  - topic-epistemic-authority
   - topic-diversity
-  - stakeholder-institutions
-  - tension-efficiency-v-process
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # How Large Language Models Can Reshape Collective Intelligence
@@ -69,17 +43,16 @@ Large language models are quickly becoming infrastructure for how groups seek in
 
 **Stakeholders**: institutions
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: large language models, infrastructure, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative, design research, framework development*
 - [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: epistemic authority, infrastructure, diversity | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: framework development*
 - [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative, design research*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: large language models, infrastructure, epistemic authority | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Varshney 2024 - Decolonial-AI-Alignment-Openness-Vises]] — *shared concepts: epistemic authority, large language models, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: infrastructure, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, design research, framework development*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: large language models, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative, design research, framework development*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: large language models, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: framework development*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+</details>

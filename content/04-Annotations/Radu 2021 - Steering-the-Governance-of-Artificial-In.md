@@ -1,39 +1,17 @@
 ---
 title: "Steering the Governance of Artificial Intelligence: National Strategies in Perspective"
-authors:
-  - "Radu, Roxana"
-year: "2021"
-domain: "AI and Open"
-subdomain: "Open Source"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Efficiency vs Process"
-concepts:
-  - "governance"
-  - "surveillance"
-methodologies:
-  - "quantitative"
-  - "framework development"
-stakeholders:
-  - "policymakers"
-  - "industry"
-source: "Policy and Society 40 (2): 178-193"
-url: "https://doi.org/10.1080/14494035.2021.1929728"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Open
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-open
-  - open-source
-  - method-quantitative
-  - method-framework-development
   - topic-governance
-  - topic-surveillance
-  - stakeholder-policymakers
   - stakeholder-industry
-  - tension-technical-capability-v-organizational-capacity
   - tension-efficiency-v-process
+  - topic-surveillance
+type: annotation
+created: 2026-05-14
 ---
 
 # Steering the Governance of Artificial Intelligence: National Strategies in Perspective
@@ -65,17 +43,16 @@ This article provides a survey and analysis of the national strategies related t
 
 **Stakeholders**: policymakers, industry
 
-### See Also
-
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development | cites Long*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: surveillance, governance | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: framework development*
-- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain | shared methodology: quantitative, framework development*
-- [[Schmit 2023 - Leveraging-IP-for-AI-Governance]] — *shared concepts: surveillance, governance | shared tension: Efficiency vs Process | same subdomain*
-- [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative, framework development*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative, framework development*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative, framework development*
-- [[El Khatib 2019 - Open-Social-Scholarship-Annotated-Biblio]] — *shared methodology: quantitative | cites Groups*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Schmit 2023 - Leveraging-IP-for-AI-Governance]] — *shared concepts: surveillance, governance | shared tension: Efficiency vs Process | same subdomain*
+- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *shared concepts: surveillance, governance | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: framework development*
+- [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain | shared methodology: quantitative, framework development*
+
+</details>

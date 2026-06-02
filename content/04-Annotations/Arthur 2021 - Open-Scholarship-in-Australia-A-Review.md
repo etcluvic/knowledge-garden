@@ -1,40 +1,16 @@
 ---
-
-title: 'Open Scholarship in Australia: A Review of Needs, Barriers, and Opportunities'
-authors:
-- Arthur, P. L., Hearn, L., Montgomery, L., Craig, H., Arbuckle, A
-- Siemens, R
-year: '2021'
+title: "Open Scholarship in Australia: A Review of Needs, Barriers, and Opportunities"
 domain: Essential Contexts
-subdomain: Open Social Scholarship
-tensions:
-- Technical Capability vs Organizational Capacity
-concepts:
-- infrastructure
-- open scholarship
-- reproducibility
-- evaluation
-methodologies: []
-stakeholders:
-- researchers
-- communities
-source: Digital Scholarship in the Humanities, 36(4), 795–812
-url: "https://doi.org/10.1093/llc/fqaa063"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - essential-contexts
-  - open-social-scholarship
-  - topic-infrastructure
-  - topic-open-scholarship
-  - topic-reproducibility
-  - topic-evaluation
-  - stakeholder-researchers
-  - stakeholder-communities
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - topic-open-scholarship
+  - topic-infrastructure
+  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Open Scholarship in Australia: A Review of Needs, Barriers, and Opportunities
@@ -73,17 +49,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, communities
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Arbuckle 2022 - An-Open-Social-Scholarship-Path-for-the]] — *shared concepts: evaluation, open scholarship, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
 - [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: evaluation, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
 - [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: evaluation, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
-- [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *shared concepts: evaluation, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared concepts: evaluation, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: evaluation, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: evaluation, infrastructure, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
-- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *shared concepts: evaluation, reproducibility | shared tension: Technical Capability vs Organizational Capacity*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+</details>

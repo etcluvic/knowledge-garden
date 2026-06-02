@@ -1,33 +1,14 @@
 ---
-title: "Open Source is Good for AI But, Is AI Good for Open Source?"
-authors:
-  - "Cooper, Martin"
-year: "2023"
-domain: "AI and Open"
-subdomain: "Open Source"
-tensions:
-  []
-concepts:
-  - "open source"
-  - "provenance"
-  - "accessibility"
-methodologies:
-  []
-stakeholders:
-  - "developers"
-source: "ITNOW, Volume 65, Issue 2, Summer 2023, Pages 50–51"
-url: "https://doi.org/10.1093/combul/bwad062"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Open Source is Good for AI But, Is AI Good for Open Source?
+domain: AI and Open
+tension: []
 tags:
   - annotation
-  - ai-and-open
   - open-source
   - topic-open-source
-  - topic-provenance
-  - topic-accessibility
   - stakeholder-developers
+type: annotation
+created: 2026-05-14
 ---
 
 # Open Source is Good for AI But, Is AI Good for Open Source?
@@ -59,12 +40,16 @@ Cooper shares Terence Eden's perspectives on the evolving relationship between a
 
 **Stakeholders**: developers
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Shanklin 2024 - The-Case-for-Contextual-Copyleft-Licens]] — *content similarity (0.35) | same subdomain*
 - [[Widder 2022 - Limits-and-possibilities-for-ethical-AI]] — *content similarity (0.32) | same subdomain*
 - [[Vake 2025 - Is-Open-Source-the-Future-of-AI-A-Data]] — *content similarity (0.37)*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+</details>

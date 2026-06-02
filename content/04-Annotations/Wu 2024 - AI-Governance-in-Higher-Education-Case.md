@@ -1,46 +1,17 @@
 ---
-
-title: 'AI Governance in Higher Education: Case Studies of Guidance at Big Ten Universities'
-authors:
-- Wu, Chuhao, He Zhang
-- John M. Carroll
-year: '2024'
+title: "AI Governance in Higher Education: Case Studies of Guidance at Big Ten Universities"
 domain: AI and Scholarship
-subdomain: Infrastructures
-tensions:
-- Technical Capability vs Organizational Capacity
-- Operational Assistance vs Epistemic Authority
-concepts:
-- governance
-- infrastructure
-- AI governance
-methodologies:
-- case study
-- empirical
-stakeholders:
-- researchers
-- institutions
-- students
-source: "arXiv preprint arXiv:2409"
-url: "https://doi.org/10.48550/arXiv.2409.02017"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-case-study
-  - method-empirical
-  - topic-governance
-  - topic-infrastructure
-  - topic-ai-governance
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-students
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
   - cited-in-introduction
+  - topic-governance
+  - topic-ai-governance
+  - infrastructures
+type: annotation
+created: 2026-05-14
 ---
 
 # AI Governance in Higher Education: Case Studies of Guidance at Big Ten Universities
@@ -79,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, institutions, students
 
-### See Also
-
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *content similarity (0.32) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *content similarity (0.34) | shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Papagiannidis 2025 - Responsible-Artificial-Intelligence-Gove]] — *content similarity (0.27) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *content similarity (0.31) | shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *shared concepts: AI governance, governance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: empirical, case study*
-- [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: empirical*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *content similarity (0.34) | shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *content similarity (0.32) | shared concepts: AI governance, governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *content similarity (0.31) | shared concepts: governance, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+
+</details>

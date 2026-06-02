@@ -1,46 +1,16 @@
 ---
 title: "ProCoT: Stimulating Critical Thinking and Writing of Students through Engagement with Large Language Models (LLMs)"
-authors:
-  - "Adewumi, Tosin, Lama Alkhaled, Christopher Buck, Sergio Hernandez, Sofia Brilioth, Memoona Kekung, Yasmin Ragimov"
-  - "Emily Barney"
-year: "2023"
-domain: "AI and Scholarship"
-subdomain: "Teaching and Pedagogy"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "large language models"
-  - "hallucination"
-  - "transparency"
-  - "bias"
-  - "trust"
-  - "peer review"
-  - "reproducibility"
-  - "evaluation"
-methodologies:
-  - "design research"
-stakeholders:
-  - "researchers"
-  - "students"
-source: "arXiv 2312"
-url: "https://doi.org/10.48550/arXiv.2312.09801"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - teaching-and-pedagogy
-  - method-design-research
+  - stakeholder-students
   - topic-large-language-models
   - topic-hallucination
   - topic-transparency
-  - topic-bias
-  - topic-trust
-  - topic-peer-review
-  - stakeholder-researchers
-  - stakeholder-students
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # ProCoT: Stimulating Critical Thinking and Writing of Students through Engagement with Large Language Models (LLMs)
@@ -72,17 +42,16 @@ Adewumi et al.'s Probing Chain-of-Thought (ProCoT) methodology represents a peda
 
 **Stakeholders**: researchers, students
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] — *content similarity (0.41) | shared concepts: evaluation, large language models, reproducibility, transparency | same subdomain*
 - [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *content similarity (0.28) | shared concepts: evaluation, transparency | shared tension: Technical Capability vs Organizational Capacity*
 - [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: evaluation, reproducibility, peer review, hallucination | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: evaluation, reproducibility, transparency, bias | shared tension: Technical Capability vs Organizational Capacity*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: evaluation, reproducibility, peer review, transparency | shared tension: Technical Capability vs Organizational Capacity*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: transparency, hallucination, trust, bias | shared tension: Technical Capability vs Organizational Capacity*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: peer review, bias, evaluation, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: peer review, bias, evaluation, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+</details>

@@ -1,41 +1,15 @@
 ---
 title: "Beyond-Accuracy: A Review on Diversity, Serendipity, and Fairness in Recommender Systems Based on Graph Neural Networks"
-authors:
-  - "Duricic, Tomislav, Hussain Hussain, Emanuel Lacic, Dominik Kowald, Denis Helic"
-  - "Elisabeth Lex"
-year: "2023"
-domain: "AI and Social"
-subdomain: "Platforms"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "bias"
-  - "diversity"
-  - "machine learning"
-  - "evaluation"
-methodologies:
-  - "computational"
-  - "framework development"
-  - "design research"
-stakeholders:
-  []
-source: "Frontiers in Big Data 6: 1251072"
-url: "https://doi.org/10.3389/fdata.2023.1251072"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - platforms
-  - method-computational
-  - method-framework-development
-  - method-design-research
-  - topic-bias
   - topic-diversity
-  - topic-machine-learning
-  - topic-evaluation
+  - topic-bias
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Beyond-Accuracy: A Review on Diversity, Serendipity, and Fairness in Recommender Systems Based on Graph Neural Networks
@@ -65,17 +39,16 @@ Duricic et al. (2023) provide a comprehensive review of recommender systems base
 
 **Methodologies**: `computational`, `framework development`, `design research`
 
-### See Also
-
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: bias, evaluation, machine learning | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development, computational*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, evaluation, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: bias, evaluation | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development, computational*
-- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development, computational*
-- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-- [[Alvarez 2024 - Policy-Advice-and-Best-Practices-on-Bias]] — *shared concepts: bias, evaluation | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Arora 2024 - Creative-data-justice-a-decolonial-and]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: bias, diversity | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: bias, evaluation, machine learning | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development, computational*
+- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, evaluation, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
+
+</details>

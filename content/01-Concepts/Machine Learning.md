@@ -1,12 +1,12 @@
 ---
-title: "Machine Learning"
-type: concept
-mentions: 12
-created: "2026-05-14"
+title: Machine Learning
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 12
+created: 2026-05-14
 ---
 
 # Machine Learning

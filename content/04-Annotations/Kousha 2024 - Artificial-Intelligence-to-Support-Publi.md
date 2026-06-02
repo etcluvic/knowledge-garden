@@ -1,49 +1,16 @@
 ---
-
 title: "Artificial Intelligence to Support Publishing and Peer Review: A Summary and' Review"
-authors:
-- Kousha, Kayvan
-- Mike Thelwall
-year: '2024'
 domain: AI and Scholarship
-subdomain: Infrastructures
-tensions:
-- Efficiency vs Process
-concepts:
-- automation
-- reproducibility
-- transparency
-- diversity
-- research integrity
-- evaluation
-methodologies:
-- quantitative
-stakeholders:
-- researchers
-- publishers
-- communities
-source: 'Learned Publishing 37 (1): 4–12'
-url: "https://doi.org/10.1002/leap.1570"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Efficiency vs Process
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-quantitative
-  - topic-automation
-  - topic-reproducibility
-  - topic-transparency
-  - topic-diversity
-  - topic-research-integrity
-  - topic-evaluation
-  - stakeholder-researchers
-  - stakeholder-publishers
-  - stakeholder-communities
-  - region-asia
-  - tension-efficiency-v-process
   - cited-in-introduction
+  - tension-efficiency-v-process
+  - infrastructures
+  - topic-reproducibility
+type: annotation
+created: 2026-05-14
 ---
 
 # Artificial Intelligence to Support Publishing and Peer Review: A Summary and Review
@@ -84,17 +51,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Geographic Focus**: Asia
 
-### See Also
-
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: automation, evaluation, research integrity, reproducibility | shared tension: Efficiency vs Process | same subdomain*
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: automation, evaluation, research integrity, transparency | shared tension: Efficiency vs Process*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: evaluation, diversity | shared tension: Efficiency vs Process | same subdomain*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: automation, diversity | shared tension: Efficiency vs Process | same subdomain*
-- [[Oates 2025 - ChatGPT-in-the-Classroom-Evaluating-Its]] — *shared concepts: evaluation, reproducibility, transparency | shared tension: Efficiency vs Process*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: automation, evaluation, reproducibility, transparency*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: evaluation, reproducibility | shared tension: Efficiency vs Process | shared methodology: quantitative*
-- [[Sartori 2022 - A-sociotechnical-perspective-for-the-fut]] — *shared concepts: automation, diversity, reproducibility, transparency*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared concepts: automation, evaluation, research integrity, reproducibility | shared tension: Efficiency vs Process | same subdomain*
+- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: evaluation, diversity | shared tension: Efficiency vs Process | same subdomain*
+- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: automation, diversity | shared tension: Efficiency vs Process | same subdomain*
+
+</details>

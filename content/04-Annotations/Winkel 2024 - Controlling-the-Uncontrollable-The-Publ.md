@@ -1,35 +1,14 @@
 ---
 title: "Controlling the Uncontrollable: The Public Discourse on Artificial Intelligence between the Positions of Social and Technological Determinism"
-authors:
-  - "Winkel, Marek"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Diversity, Determinism, Bias and Justice"
-tensions:
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  []
-methodologies:
-  - "qualitative"
-  - "quantitative"
-stakeholders:
-  - "policymakers"
-  - "communities"
-source: "AI & Society 39, no"
-url: "https://doi.org/10.1007/s00146-024-01979-z"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - diversity-determinism-bias-and-justice
-  - method-qualitative
   - method-quantitative
-  - stakeholder-policymakers
-  - stakeholder-communities
-  - region-global
   - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Controlling the Uncontrollable: The Public Discourse on Artificial Intelligence between the Positions of Social and Technological Determinism
@@ -63,17 +42,16 @@ This article engages in a quantitative discourse analysis of 113 articles from t
 
 **Geographic Focus**: Global
 
-### See Also
-
-- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared tension: Operational Assistance vs Epistemic Authority | cites Hara*
-- [[Nelson 2023 - No-Journal-is-an-Island-The-John-Donne]] — *cites INKE*
-- [[Turin 2021 - From-Orality-to-Open-Innovations-in-Mul]] — *cites Turin*
-- [[Winter 2020 - Foundations-for-the-Canadian-HSS-Commons]] — *cites INKE*
-- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: quantitative*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared tension: Operational Assistance vs Epistemic Authority | shared methodology: quantitative, qualitative*
-- [[Kay 2024 - Epistemic-Injustice-in-Generative-AI]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Shams 2023 - AI-and-the-Quest-for-Diversity-and-Inclu]] — *same subdomain | shared methodology: quantitative, qualitative*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Starke 2022 - Fairness-Perceptions-of-Algorithmic-Deci]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain | shared methodology: quantitative*
+- [[Kay 2024 - Epistemic-Injustice-in-Generative-AI]] — *shared tension: Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Hara 2025 - Exploring-the-Dynamics-of-Interaction-Ab]] — *shared tension: Operational Assistance vs Epistemic Authority | cites Hara*
+
+</details>

@@ -1,12 +1,12 @@
 ---
-title: "Commons"
-type: concept
-mentions: 8
-created: "2026-05-14"
+title: Commons
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 8
+created: 2026-05-14
 ---
 
 # Commons

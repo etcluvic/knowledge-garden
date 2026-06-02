@@ -1,54 +1,18 @@
 ---
-
-title: ', EASST/4S)'
-authors:
-- 'Zeffiro, A. (McMaster University) Automating (in)securities: cybersecurity’s AI
-  imaginaries'
-year: '2024'
+title: "EASST/4S"
 domain: Essential Contexts
-subdomain: "Histories & Theories of AI"
-tensions:
-- Technical Capability vs Organizational Capacity
-- Operational Assistance vs Epistemic Authority
-- Efficiency vs Process
-concepts:
-- automation
-- infrastructure
-- epistemic authority
-- generative AI
-- accountability
-- bias
-- participation
-- evaluation
-methodologies:
-- case study
-- computational
-stakeholders:
-- institutions
-- industry
-source: 'Stable link:'
-url: "https://nomadit.co.uk/conference/easst-4s2024/p/14156"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
+  - Efficiency vs Process
 tags:
   - annotation
-  - essential-contexts
-  - histories-and-theories-of-ai
-  - method-case-study
-  - method-computational
+  - cited-in-introduction
   - topic-automation
-  - topic-infrastructure
-  - topic-epistemic-authority
-  - topic-generative-ai
-  - topic-accountability
-  - topic-bias
-  - stakeholder-institutions
-  - stakeholder-industry
-  - tension-technical-capability-v-organizational-capacity
   - tension-operational-assistance-v-epistemic-authority
   - tension-efficiency-v-process
-  - cited-in-introduction
+type: annotation
+created: 2026-05-14
 ---
 
 # , EASST/4S)
@@ -87,17 +51,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: institutions, industry
 
-### See Also
+---
+
+*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
 
 - [[Richter 2025 - Imaginaries-of-Artificial-Intelligence]] — *content similarity (0.26) | shared concepts: automation, evaluation, accountability | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process*
 - [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: generative AI, automation, infrastructure, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: case study*
 - [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: generative AI, automation, evaluation, accountability | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: case study*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: automation, evaluation, generative AI, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: computational*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: bias, evaluation, infrastructure, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared concepts: generative AI, accountability, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: computational*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: participation, accountability, infrastructure, epistemic authority | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: evaluation, generative AI, accountability, infrastructure | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
 
----
-
-*Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+</details>

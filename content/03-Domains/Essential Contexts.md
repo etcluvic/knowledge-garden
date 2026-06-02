@@ -1,11 +1,11 @@
 ---
-title: "Essential Contexts"
-type: "domain"
-annotation_count: 36
-created: "2026-05-14"
+title: Essential Contexts
 tags:
-  - "domain"
-  - "hub-note"
+  - domain
+  - hub-note
+type: domain
+annotation_count: 36
+created: 2026-05-14
 ---
 
 # Essential Contexts

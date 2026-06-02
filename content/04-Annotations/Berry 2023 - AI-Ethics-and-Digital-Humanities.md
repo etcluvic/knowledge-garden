@@ -1,43 +1,15 @@
 ---
-
 title: AI, Ethics, and Digital Humanities
-authors:
-- Berry, D. M
-year: '2023'
 domain: AI and Scholarship
-subdomain: Teaching and Pedagogy
-tensions: []
-concepts:
-- digital humanities
-- machine learning
-- explainability
-- participation
-methodologies:
-- quantitative
-- computational
-- framework development
-- comparative
-stakeholders:
-- developers
-source: In J
-url: "https://recoveryhub.siue.edu/wp-content/uploads/2024/10/AI-Ethics-and-Digital-Humanities-.pdf"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension: []
 tags:
   - annotation
-  - ai-and-scholarship
+  - cited-in-introduction
+  - topic-digital-humanities
   - teaching-and-pedagogy
   - method-quantitative
-  - method-computational
-  - method-framework-development
-  - method-comparative
-  - topic-digital-humanities
-  - topic-machine-learning
-  - topic-explainability
-  - topic-participation
-  - stakeholder-developers
-  - cited-in-introduction
+type: annotation
+created: 2026-05-14
 ---
 
 # AI, Ethics, and Digital Humanities
@@ -76,17 +48,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: developers
 
-### See Also
-
-- [[Prescott 2023 - Bias-in-Big-Data-Machine-Learning-and-A]] — *content similarity (0.33) | shared concepts: digital humanities, explainability | shared methodology: computational*
-- [[Aguiar 2024 - Final-Thoughts-Digital-Humanities-Looki]] — *content similarity (0.29) | shared methodology: quantitative, framework development*
-- [[Berry 2025 - Synthetic-Media-and-Computational-Capita]] — *shared methodology: computational | cites Berry*
-- [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *shared concepts: participation, explainability | shared methodology: computational, framework development*
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: digital humanities, explainability | shared methodology: computational, framework development*
-- [[Boer 2024 - Hybrid-Intelligence-for-Digital-Humaniti]] — *shared concepts: digital humanities, explainability, machine learning*
-- [[Tan 2024 - Shaping-Integrity-Why-Generative-Artifi]] — *same subdomain | shared methodology: comparative, framework development*
-- [[Yim 2025 - Artificial-Intelligence-AI-Learning-To]] — *same subdomain | shared methodology: computational, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Prescott 2023 - Bias-in-Big-Data-Machine-Learning-and-A]] — *content similarity (0.33) | shared concepts: digital humanities, explainability | shared methodology: computational*
+- [[Aguiar 2024 - Final-Thoughts-Digital-Humanities-Looki]] — *content similarity (0.29) | shared methodology: quantitative, framework development*
+- [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *shared concepts: participation, explainability | shared methodology: computational, framework development*
+
+</details>

@@ -1,53 +1,16 @@
 ---
-
 title: "A sociotechnical perspective for the future of AI: narratives, inequalities,' and human control"
-authors:
-- Sartori, L
-- Theodorou, A
-year: '2022'
 domain: Essential Contexts
-subdomain: Bias and Technological Determinism
-tensions:
-- Technical Capability vs Organizational Capacity
-concepts:
-- bias
-- explainability
-- equity
-- automation
-- governance
-- accountability
-- transparency
-- diversity
-- reproducibility
-methodologies:
-- computational
-- design research
-stakeholders:
-- researchers
-- institutions
-- communities
-source: Ethics and Information Technology, 24(1), 4
-url: "https://doi.org/10.1007/s10676-022-09624-3"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - essential-contexts
-  - bias-and-technological-determinism
-  - method-computational
-  - method-design-research
-  - topic-bias
-  - topic-explainability
-  - topic-equity
-  - topic-automation
-  - topic-governance
-  - topic-accountability
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-communities
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - topic-bias
+  - topic-governance
+  - topic-explainability
+type: annotation
+created: 2026-05-14
 ---
 
 # A sociotechnical perspective for the future of AI: narratives, inequalities, and human control
@@ -87,17 +50,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, institutions, communities
 
-### See Also
-
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: transparency, governance, bias, equity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: accountability, transparency, governance, bias | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Akter 2021 - Algorithmic-bias-in-data-driven-innovati]] — *shared concepts: bias, equity, reproducibility | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *shared concepts: transparency, governance, reproducibility, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, computational*
-- [[Jarrahi 2021 - Algorithmic-management-in-a-work-context]] — *shared concepts: automation, governance, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Gasser 2017 - A-Layered-Model-for-AI-Governance]] — *shared concepts: accountability, transparency, explainability, governance | shared tension: Technical Capability vs Organizational Capacity*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, automation, reproducibility, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Berry 2025 - Synthetic-Media-and-Computational-Capita]] — *shared concepts: bias, automation, explainability, reproducibility | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[Essential Contexts]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Akter 2021 - Algorithmic-bias-in-data-driven-innovati]] — *shared concepts: bias, equity, reproducibility | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Jarrahi 2021 - Algorithmic-management-in-a-work-context]] — *shared concepts: automation, governance, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: transparency, governance, bias, equity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
+
+</details>

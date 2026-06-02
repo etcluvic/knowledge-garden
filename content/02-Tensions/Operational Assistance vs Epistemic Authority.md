@@ -1,12 +1,12 @@
 ---
-title: "Operational Assistance vs Epistemic Authority"
-type: "tension"
-annotation_count: 59
-created: "2026-05-14"
+title: Operational Assistance vs Epistemic Authority
 tags:
-  - "tension"
-  - "cross-cutting"
-  - "hub-note"
+  - tension
+  - cross-cutting
+  - hub-note
+type: tension
+annotation_count: 59
+created: 2026-05-14
 ---
 
 # Operational Assistance vs Epistemic Authority
@@ -78,7 +78,7 @@ This tension captures the fundamental challenge of balancing **Operational Assis
 - [[Spatharioti 2025 - Effects-of-LLM-based-Search-on-Decision]] — *Effects of LLM-based Search on Decision Making: Speed, Accuracy, and Overrelianc* (2025)
 - [[Ter-Minassian 2025 - Democratizing-AI-Governance-Balancing-E]] — *Democratizing AI Governance: Balancing Expertise and Public Participation* (2025)
 - [[Boer 2024 - Hybrid-Intelligence-for-Digital-Humaniti]] — *Hybrid Intelligence for Digital Humanities* (2024)
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *ative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models* (2024)
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] — *Collaborative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models* (2024)
 - [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *The spread of synthetic media on X* (2024)
 - [[Kay 2024 - Epistemic-Injustice-in-Generative-AI]] — *Epistemic Injustice in Generative AI* (2024)
 - [[Varshney 2024 - Decolonial-AI-Alignment-Openness-Vises]] — *Decolonial AI Alignment: Openness, Visesa-Dharma, and Including Excluded Knowled* (2024)

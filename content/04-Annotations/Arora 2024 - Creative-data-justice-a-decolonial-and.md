@@ -1,62 +1,17 @@
 ---
 title: "Creative data justice: a decolonial and indigenous framework to assess creativity and artificial intelligence"
-authors:
-  - "Arora, Payal"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Globalism, Colonialism and Influence"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Openness vs Enclosure"
-concepts:
-  - "decolonization"
-  - "diversity"
-  - "equity"
-  - "labour"
-  - "infrastructure"
-  - "curation"
-  - "data justice"
-  - "indigenous knowledge"
-  - "generative AI"
-  - "creative commons"
-  - "bias"
-  - "commons"
-methodologies:
-  - "qualitative"
-  - "computational"
-  - "framework development"
-  - "critical analysis"
-  - "theoretical"
-stakeholders:
-  - "researchers"
-  - "communities"
-source: "Information, Communication & Society: 1-17"
-url: "https://doi.org/10.1080/1369118x.2024.2420041"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Openness vs Enclosure
 tags:
   - annotation
-  - ai-and-social
-  - globalism-colonialism-and-influence
-  - method-qualitative
-  - method-computational
-  - method-framework-development
-  - method-critical-analysis
-  - method-theoretical
-  - topic-decolonization
-  - topic-diversity
-  - topic-equity
   - topic-labour
-  - topic-infrastructure
-  - topic-curation
-  - stakeholder-researchers
   - stakeholder-communities
-  - region-global-south
-  - region-global-north
-  - region-global
-  - tension-technical-capability-v-organizational-capacity
   - tension-openness-v-enclosure
+  - method-computational
+type: annotation
+created: 2026-05-14
 ---
 
 # Creative data justice: a decolonial and indigenous framework to assess creativity and artificial intelligence
@@ -90,17 +45,16 @@ Arora (2024) develops a framework of creative data justice that includes decolon
 
 **Geographic Focus**: Global South, Global North, Global
 
-### See Also
-
-- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: bias, infrastructure, equity, indigenous knowledge | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: computational, framework development*
-- [[Montague-Hellen 2024 - Empowering-Knowledge-through-AI-Open-Sc]] — *shared concepts: generative AI, infrastructure, creative commons, curation | shared tension: Openness vs Enclosure | shared methodology: framework development*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: generative AI, bias, equity, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, critical analysis, framework development*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: decolonization, bias, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Mohamed 2020 - Decolonial-AI-Decolonial-Theory-as-Soci]] — *shared concepts: decolonization, diversity, labour, bias | same subdomain | shared methodology: computational, framework development, theoretical*
-- [[Salami 2024 - Artificial-intelligence-digital-colonia]] — *shared concepts: decolonization, labour, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Vetter 2025 - An-Endangered-Species-How-LLMs-Threaten]] — *shared concepts: curation, bias, labour, diversity | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development, qualitative*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: curation, bias, commons | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: decolonization, bias, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Salami 2024 - Artificial-intelligence-digital-colonia]] — *shared concepts: decolonization, labour, infrastructure | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *shared concepts: bias, infrastructure, equity, indigenous knowledge | shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: computational, framework development*
+
+</details>

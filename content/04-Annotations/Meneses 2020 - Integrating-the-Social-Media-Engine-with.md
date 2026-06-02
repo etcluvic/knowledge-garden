@@ -1,30 +1,13 @@
 ---
 title: "Integrating the Social Media Engine with Large-scale Open Access Repositories: A Discussion"
-authors:
-  - "Meneses, L"
-year: "2020"
-domain: "Essential Contexts"
-subdomain: "Knowledge Foundations"
-tensions:
-  []
-concepts:
-  - "open access"
-  - "infrastructure"
-methodologies:
-  []
-stakeholders:
-  []
-source: "Pop! Public"
-url: "https://doi.org/10.48404/pop.2020.04"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: Essential Contexts
+tension: []
 tags:
   - annotation
-  - essential-contexts
-  - knowledge-foundations
   - topic-open-access
-  - topic-infrastructure
+  - essential-contexts
+type: annotation
+created: 2026-05-14
 ---
 
 # Integrating the Social Media Engine with Large-scale Open Access Repositories: A Discussion

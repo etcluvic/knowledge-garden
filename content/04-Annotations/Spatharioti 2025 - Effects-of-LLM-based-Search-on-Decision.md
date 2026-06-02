@@ -1,38 +1,14 @@
 ---
 title: "Effects of LLM-based Search on Decision Making: Speed, Accuracy, and Overreliance"
-authors:
-  - "Spatharioti, Sofia Eleni, David Rothschild, Daniel G. Goldstein"
-  - "Jake M. Hofman"
-year: "2025"
-domain: "AI and Social"
-subdomain: "Human, Labour and Environmental Costs"
-tensions:
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "large language models"
-  - "hallucination"
-  - "misinformation"
-methodologies:
-  - "quantitative"
-  - "comparative"
-stakeholders:
-  []
-source: "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
-url: "https://doi.org/10.1145/3706598.3714082"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - human-labour-and-environmental-costs
-  - method-quantitative
-  - method-comparative
-  - topic-large-language-models
-  - topic-hallucination
   - topic-misinformation
-  - region-global
   - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # Effects of LLM-based Search on Decision Making: Speed, Accuracy, and Overreliance
@@ -64,17 +40,16 @@ Spatharioti et al. begin by asserting the fundamental change of how we engage in
 
 **Geographic Focus**: Global
 
-### See Also
-
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: hallucination, large language models | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: comparative, quantitative*
-- [[Park 2025 - Generative-AI-and-misinformation-a-scop]] — *shared concepts: hallucination, large language models, misinformation | same subdomain | shared methodology: quantitative*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: hallucination, large language models, misinformation | same subdomain | shared methodology: quantitative*
-- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: hallucination, large language models, misinformation | shared tension: Operational Assistance vs Epistemic Authority*
-- [[Mehlenbacher 2024 - Synthetic-Genres-Expert-Genres-Non-Spe]] — *shared concepts: large language models, misinformation | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: quantitative*
-- [[Rapanta 2025 - Critical-GenAI-Literacy-Postdigital-Con]] — *shared concepts: hallucination, large language models | shared tension: Operational Assistance vs Epistemic Authority*
-- [[Aguiar 2024 - Final-Thoughts-Digital-Humanities-Looki]] — *shared concepts: hallucination, large language models | shared methodology: quantitative*
-- [[Bakharia 2025 - From-Transcripts-to-Themes-A-Trustworth]] — *shared concepts: hallucination, large language models | shared methodology: quantitative*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: hallucination, large language models | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: comparative, quantitative*
+- [[De Angelis 2023 - ChatGPT-and-the-Rise-of-Large-Language-M]] — *shared concepts: hallucination, large language models, misinformation | shared tension: Operational Assistance vs Epistemic Authority*
+- [[Mehlenbacher 2024 - Synthetic-Genres-Expert-Genres-Non-Spe]] — *shared concepts: large language models, misinformation | shared tension: Operational Assistance vs Epistemic Authority | shared methodology: quantitative*
+
+</details>

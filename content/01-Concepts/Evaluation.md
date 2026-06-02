@@ -1,12 +1,12 @@
 ---
-title: "Evaluation"
-type: concept
-mentions: 45
-created: "2026-05-14"
+title: Evaluation
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 45
+created: 2026-05-14
 ---
 
 # Evaluation
@@ -34,7 +34,7 @@ This concept appears in **45 annotations** across the knowledge garden, spanning
 - [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] — *AI and Open Science: Implications and Library Practice Recommendations*
 - [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] — *Open Science at the generative AI turn: An exploratory analysis of challenges and opportunities*
 - [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *FAIR for AI: An Interdisciplinary and International Community Building Perspective*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *A Cartography of Open ation in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects*
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *A Cartography of Open Collaboration in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects*
 
 ### AI and Scholarship
 

@@ -1,50 +1,16 @@
 ---
-
 title: "Prompt Engineering in Higher Education: A Systematic Review to Help Inform' Curricula"
-authors:
-- Lee, Daniel
-- Edward Palmer
-year: '2025'
 domain: AI and Scholarship
-subdomain: Teaching and Pedagogy
-tensions:
-- Technical Capability vs Organizational Capacity
-concepts:
-- large language models
-- bias
-- hallucination
-- training data
-methodologies:
-- literature review
-- framework development
-- design research
-stakeholders:
-- researchers
-- institutions
-- students
-- developers
-source: 'International Journal of Educational Technology in Higher Education 22: 16'
-url: "https://doi.org/10.1186/s41239-025-00503-7"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - teaching-and-pedagogy
-  - method-literature-review
-  - method-framework-development
-  - method-design-research
-  - topic-large-language-models
-  - topic-bias
-  - topic-hallucination
-  - topic-training-data
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-students
-  - stakeholder-developers
-  - tension-technical-capability-v-organizational-capacity
   - cited-in-introduction
+  - stakeholder-students
+  - teaching-and-pedagogy
+  - topic-bias
+type: annotation
+created: 2026-05-14
 ---
 
 # Prompt Engineering in Higher Education: A Systematic Review to Help Inform Curricula
@@ -83,17 +49,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, institutions, students, developers
 
-### See Also
-
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development | cites Long*
-- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *shared concepts: hallucination, bias, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Yim 2025 - Artificial-Intelligence-AI-Learning-To]] — *shared concepts: bias, training data | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: bias, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *shared concepts: bias, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Hosseini 2023 - Fighting-Reviewer-Fatigue-or-Amplifying]] — *shared concepts: bias, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
-- [[Aguiar 2024 - Final-Thoughts-Digital-Humanities-Looki]] — *shared concepts: hallucination, bias, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: bias, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Adewumi 2023 - ProCoT-Stimulating-Critical-Thinking-an]] — *shared concepts: hallucination, bias, large language models | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Yim 2025 - Artificial-Intelligence-AI-Learning-To]] — *shared concepts: bias, training data | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Arnett 2024 - Toxicity-of-the-Commons-Curating-Open-S]] — *shared concepts: bias, training data, large language models | shared tension: Technical Capability vs Organizational Capacity | shared methodology: design research, framework development*
+
+</details>

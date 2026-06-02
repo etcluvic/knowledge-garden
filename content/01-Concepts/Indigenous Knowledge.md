@@ -1,12 +1,12 @@
 ---
-title: "Indigenous Knowledge"
-type: concept
-mentions: 4
-created: "2026-05-14"
+title: Indigenous Knowledge
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 4
+created: 2026-05-14
 ---
 
 # Indigenous Knowledge

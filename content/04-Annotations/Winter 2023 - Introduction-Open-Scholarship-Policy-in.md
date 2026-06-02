@@ -1,33 +1,15 @@
 ---
-
 title: "Introduction: Open Scholarship Policy in Focus"
-authors:
-  - "Winter, C"
-year: "2023"
-domain: "Essential Contexts"
-subdomain: "Knowledge Foundations"
-tensions:
-  []
-concepts:
-  - "accountability"
-  - "provenance"
-methodologies:
-  []
-stakeholders:
-  - "communities"
-source: "Open Scholarship Press Curated Volume: Policy"
-url: "https://doi.org/10.21428/47bc126e.5abba88b"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: Essential Contexts
+tension: []
 tags:
   - cited-in-introduction
   - annotation
   - essential-contexts
   - knowledge-foundations
   - topic-accountability
-  - topic-provenance
-  - stakeholder-communities
+type: annotation
+created: 2026-05-14
 ---
 
 # Introduction: Open Scholarship Policy in Focus

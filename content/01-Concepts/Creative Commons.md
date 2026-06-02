@@ -1,12 +1,12 @@
 ---
-title: "Creative Commons"
-type: concept
-mentions: 5
-created: "2026-05-14"
+title: Creative Commons
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 5
+created: 2026-05-14
 ---
 
 # Creative Commons

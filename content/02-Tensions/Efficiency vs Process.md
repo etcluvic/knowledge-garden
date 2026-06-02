@@ -1,12 +1,12 @@
 ---
-title: "Efficiency vs Process"
-type: "tension"
-annotation_count: 31
-created: "2026-05-14"
+title: Efficiency vs Process
 tags:
-  - "tension"
-  - "cross-cutting"
-  - "hub-note"
+  - tension
+  - cross-cutting
+  - hub-note
+type: tension
+annotation_count: 31
+created: 2026-05-14
 ---
 
 # Efficiency vs Process

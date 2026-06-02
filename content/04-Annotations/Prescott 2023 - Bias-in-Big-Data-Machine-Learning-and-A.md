@@ -1,35 +1,15 @@
 ---
 title: "Bias in Big Data, Machine Learning and AI: What Lessons for the Digital Humanities?"
-authors:
-  - "Prescott, Andrew"
-year: "2023"
-domain: "AI and Social"
-subdomain: "Diversity, Determinism, Bias and Justice"
-tensions:
-  []
-concepts:
-  - "bias"
-  - "digital humanities"
-  - "algorithmic bias"
-  - "explainability"
-methodologies:
-  - "computational"
-stakeholders:
-  []
-source: "Digital Humanities Quarterly 17 (2)"
-url: "https://www.proquest.com/scholarly-journals/bias-big-data-machine-learning-ai-what-lessons/docview/2842908427/se-2"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension: []
 tags:
   - annotation
-  - ai-and-social
-  - diversity-determinism-bias-and-justice
-  - method-computational
   - topic-bias
   - topic-digital-humanities
   - topic-algorithmic-bias
   - topic-explainability
+type: annotation
+created: 2026-05-14
 ---
 
 # Bias in Big Data, Machine Learning and AI: What Lessons for the Digital Humanities?
@@ -59,17 +39,16 @@ Prescott examines how race and gender bias arise in projects using predictive an
 
 **Methodologies**: `computational`
 
-### See Also
-
-- [[Berry 2023 - AI-Ethics-and-Digital-Humanities]] — *content similarity (0.33) | shared concepts: digital humanities, explainability | shared methodology: computational*
-- [[Taneja 2020 - AI-Powered-Recommender-Systems-Personal]] — *shared concepts: algorithmic bias, bias | shared methodology: computational | cites Bias.*
-- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: algorithmic bias, bias | same subdomain | shared methodology: computational*
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *shared concepts: bias, digital humanities, explainability | shared methodology: computational*
-- [[Akter 2021 - Algorithmic-bias-in-data-driven-innovati]] — *shared concepts: algorithmic bias, bias | shared methodology: computational*
-- [[Berry 2025 - Synthetic-Media-and-Computational-Capita]] — *shared concepts: bias, explainability | shared methodology: computational*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: algorithmic bias, bias | shared methodology: computational*
-- [[Fırıncı 2024 - Decolonial-Artificial-Intelligence-Algo]] — *shared concepts: algorithmic bias, bias | shared methodology: computational*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Berry 2023 - AI-Ethics-and-Digital-Humanities]] — *content similarity (0.33) | shared concepts: digital humanities, explainability | shared methodology: computational*
+- [[Al-kfairy 2024 - Ethical-Challenges-and-Solutions-of-Gene]] — *shared concepts: algorithmic bias, bias | same subdomain | shared methodology: computational*
+- [[Taneja 2020 - AI-Powered-Recommender-Systems-Personal]] — *shared concepts: algorithmic bias, bias | shared methodology: computational | cites Bias.*
+
+</details>

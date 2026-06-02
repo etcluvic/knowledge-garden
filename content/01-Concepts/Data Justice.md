@@ -1,12 +1,12 @@
 ---
-title: "Data Justice"
-type: concept
-mentions: 2
-created: "2026-05-14"
+title: Data Justice
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 2
+created: 2026-05-14
 ---
 
 # Data Justice

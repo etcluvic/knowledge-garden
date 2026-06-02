@@ -1,12 +1,12 @@
 ---
-title: "Diversity"
-type: concept
-mentions: 42
-created: "2026-05-14"
+title: Diversity
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 42
+created: 2026-05-14
 ---
 
 # Diversity
@@ -56,7 +56,7 @@ This concept appears in **42 annotations** across the knowledge garden, spanning
 - [[Boer 2024 - Hybrid-Intelligence-for-Digital-Humaniti]] — *Hybrid Intelligence for Digital Humanities*
 - [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *How Large Language Models Can Reshape Collective Intelligence*
 - [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *Data Citizenship: Rethinking Data Literacy in the Age of Disinformation, Misinformation, and Malinformation*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *ative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] — *Collaborative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
 - [[Duricic 2023 - Beyond-Accuracy-A-Review-on-Diversity]] — *Beyond-Accuracy: A Review on Diversity, Serendipity, and Fairness in Recommender Systems Based on Graph Neural Networks*
 - [[Gallegos 2024 - Bias-and-Fairness-in-Large-Language-Mode]] — *Bias and Fairness in Large Language Models: A Survey*
 - [[Gasser 2017 - A-Layered-Model-for-AI-Governance]] — *A Layered Model for AI Governance*

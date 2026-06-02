@@ -1,12 +1,12 @@
 ---
-title: "Citation"
-type: concept
-mentions: 14
-created: "2026-05-14"
+title: Citation
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 14
+created: 2026-05-14
 ---
 
 # Citation

@@ -1,12 +1,12 @@
 ---
-title: "Fair Principles"
-type: concept
-mentions: 3
-created: "2026-05-14"
+title: Fair Principles
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 3
+created: 2026-05-14
 ---
 
 # Fair Principles

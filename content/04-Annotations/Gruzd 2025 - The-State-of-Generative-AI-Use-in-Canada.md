@@ -1,46 +1,17 @@
 ---
 title: "The State of Generative AI Use in Canada 2025: Exploring Public Attitudes and Adoption Trends"
-authors:
-  - "Gruzd, Anatoliy, Philip Mai"
-  - "Anthony Clements Haines"
-year: "2025"
-domain: "AI and Social"
-subdomain: "Community, Connection and the Human"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-  - "Operational Assistance vs Epistemic Authority"
-concepts:
-  - "generative AI"
-  - "trust"
-  - "accountability"
-  - "accessibility"
-methodologies:
-  - "quantitative"
-stakeholders:
-  - "institutions"
-  - "policymakers"
-  - "communities"
-  - "industry"
-source: "Social Media Lab, Toronto Metropolitan University"
-url: "https://figshare.com/articles/preprint/The_State_of_Generative_AI_Use_in_Canada_2025_Exploring_Public_Attitudes_and_Adoption_Trends/28664780/1"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-social
-  - community-connection-and-the-human
-  - method-quantitative
   - topic-generative-ai
   - topic-trust
   - topic-accountability
   - topic-accessibility
-  - stakeholder-institutions
-  - stakeholder-policymakers
-  - stakeholder-communities
-  - stakeholder-industry
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
+type: annotation
+created: 2026-05-14
 ---
 
 # The State of Generative AI Use in Canada 2025: Exploring Public Attitudes and Adoption Trends
@@ -72,17 +43,16 @@ The Social Media Lab of Toronto Metropolitan University provides ‘a snapshot o
 
 **Stakeholders**: institutions, policymakers, communities, industry
 
-### See Also
-
-- [[El Khatib 2019 - Open-Social-Scholarship-Annotated-Biblio]] — *shared concepts: accessibility, accountability | shared methodology: quantitative | cites Groups*
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | cites Long*
-- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: generative AI, accountability, trust | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: generative AI, accountability, trust | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
-- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: generative AI, trust | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Frangou 2025 - AI-in-scientific-writing-and-publishing]] — *shared concepts: trust, accountability | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Janssen 2025 - Responsible-Governance-of-Generative-AI]] — *shared concepts: generative AI, accountability | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: generative AI, trust | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Mitra 2024 - Sociotechnical-Implications-of-Generativ]] — *shared concepts: generative AI, accountability, trust | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+- [[Shin 2024 - Impact-of-misinformation-from-generative]] — *shared concepts: generative AI, accountability, trust | shared tension: Technical Capability vs Organizational Capacity | shared methodology: quantitative*
+- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: generative AI, trust | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority*
+
+</details>

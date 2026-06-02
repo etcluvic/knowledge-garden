@@ -1,12 +1,12 @@
 ---
-title: "Governance"
-type: concept
-mentions: 49
-created: "2026-05-14"
+title: Governance
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 49
+created: 2026-05-14
 ---
 
 # Governance
@@ -35,7 +35,7 @@ This concept appears in **49 annotations** across the knowledge garden, spanning
 - [[Bostrom 2017 - Strategic-Implications-of-Openness-in-AI]] — *Strategic Implications of Openness in AI Development*
 - [[Carroll 2020 - The-CARE-Principles-for-Indigenous-Data]] — *The CARE Principles for Indigenous Data Governance*
 - [[Carroll 2021 - Operationalizing-the-CARE-and-FAIR-Princ]] — *Operationalizing the CARE and FAIR Principles for Indigenous Data Futures*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *A Cartography of Open ation in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects*
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *A Cartography of Open Collaboration in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects*
 - [[Radu 2021 - Steering-the-Governance-of-Artificial-In]] — *Steering the Governance of Artificial Intelligence: National Strategies in Perspective*
 - [[Schmit 2023 - Leveraging-IP-for-AI-Governance]] — *Leveraging IP for AI Governance*
 - [[Taeihagh 2025 - Governance-of-Generative-AI]] — *Governance of Generative AI*
@@ -59,7 +59,7 @@ This concept appears in **49 annotations** across the knowledge garden, spanning
 - [[Balendra 2025 - Metas-AI-Moderation-and-Free-Speech-On]] — *Meta's AI Moderation and Free Speech: Ongoing Challenges in the Global South*
 - [[Birkstedt 2023 - AI-Governance-Themes-Knowledge-Gaps-an]] — *AI Governance: Themes, Knowledge Gaps and Future Agendas*
 - [[Carmi 2020 - Data-Citizenship-Rethinking-Data-Litera]] — *Data Citizenship: Rethinking Data Literacy in the Age of Disinformation, Misinformation, and Malinformation*
-- [[Cheong 2024 - ative-Approaches-to-AI-Governance-Explo]] — *ative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
+- [[Cheong 2024 - Collaborative-Approaches-to-AI-Governance-Explo]] — *Collaborative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models*
 - [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *The spread of synthetic media on X*
 - [[Daniel Delmonaco 2024 - What-are-you-doing-TikTok]] — *“What are you doing, TikTok?*
 - [[Floridi 2018 - Soft-Ethics-and-the-Governance-of-the-Di]] — *Soft Ethics and the Governance of the Digital*

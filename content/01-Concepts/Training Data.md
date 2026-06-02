@@ -1,12 +1,12 @@
 ---
-title: "Training Data"
-type: concept
-mentions: 26
-created: "2026-05-14"
+title: Training Data
 tags:
   - concept
   - hub-note
   - glossary
+type: concept
+mentions: 26
+created: 2026-05-14
 ---
 
 # Training Data

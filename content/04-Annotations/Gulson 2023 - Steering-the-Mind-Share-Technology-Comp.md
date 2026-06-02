@@ -1,44 +1,16 @@
 ---
 title: "Steering the Mind Share: Technology Companies, Policy and Artificial Intelligence Research in Universities"
-authors:
-  - "Gulson, Kalervo N"
-  - "P. Taylor Webb"
-year: "2023"
-domain: "AI and Scholarship"
-subdomain: "Infrastructures"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "open science"
-  - "governance"
-methodologies:
-  - "qualitative"
-  - "framework development"
-stakeholders:
-  - "researchers"
-  - "institutions"
-  - "policymakers"
-  - "industry"
-source: "Discourse: Studies in the Cultural Politics of Education 44 (2): 195–207"
-url: "https://doi.org/10.1080/01596306.2021.1981828"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Scholarship
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-qualitative
-  - method-framework-development
-  - topic-open-science
-  - topic-governance
-  - stakeholder-researchers
-  - stakeholder-institutions
-  - stakeholder-policymakers
   - stakeholder-industry
-  - region-north-america
-  - region-global
+  - topic-open-science
+  - stakeholder-policymakers
   - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Steering the Mind Share: Technology Companies, Policy and Artificial Intelligence Research in Universities
@@ -72,17 +44,16 @@ Gulson and Webb (2023) examine how major technology companies are actively resha
 
 **Geographic Focus**: North America, Global
 
-### See Also
-
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *shared concepts: open science, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development, qualitative*
-- [[White 2024 - The-Model-Openness-Framework-Promoting]] — *shared concepts: open science, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-- [[Bergstrom 2024 - A-Third-Transformation-Generative-AI-an]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development, qualitative*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development, qualitative*
-- [[Weber 2023 - Organizational-Capabilities-for-AI-Imple]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development, qualitative*
-- [[Osborne 2024 - Why-Companies]] — *shared concepts: open science, governance | shared tension: Technical Capability vs Organizational Capacity*
-- [[Batool 2025 - AI-Governance-A-Systematic-Literature-R]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: framework development*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared tension: Technical Capability vs Organizational Capacity | same subdomain | shared methodology: qualitative*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] — *shared concepts: open science, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development, qualitative*
+- [[White 2024 - The-Model-Openness-Framework-Promoting]] — *shared concepts: open science, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
+- [[Osborne 2024 - Why-Companies]] — *shared concepts: open science, governance | shared tension: Technical Capability vs Organizational Capacity*
+
+</details>

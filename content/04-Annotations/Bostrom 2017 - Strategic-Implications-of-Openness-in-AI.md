@@ -1,41 +1,18 @@
 ---
-title: "Strategic Implications of Openness in AI Development"
-authors:
-  - "Bostrom, Nick"
-year: "2017"
-domain: "AI and Open"
-subdomain: "Open Source"
-tensions:
-  - "Openness vs Enclosure"
-  - "Efficiency vs Process"
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "governance"
-  - "labour"
-methodologies:
-  - "quantitative"
-  - "framework development"
-stakeholders:
-  - "communities"
-  - "industry"
-source: "Global Policy 8 (2): 135-148"
-url: "https://doi.org/10.1111/1758-5899.12403"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+title: Strategic Implications of Openness in AI Development
+domain: AI and Open
+tension:
+  - Openness vs Enclosure
+  - Efficiency vs Process
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-open
-  - open-source
-  - method-quantitative
-  - method-framework-development
+  - tension-openness-v-enclosure
   - topic-governance
   - topic-labour
-  - stakeholder-communities
-  - stakeholder-industry
-  - tension-openness-v-enclosure
   - tension-efficiency-v-process
-  - tension-technical-capability-v-organizational-capacity
+type: annotation
+created: 2026-05-14
 ---
 
 # Strategic Implications of Openness in AI Development
@@ -67,17 +44,16 @@ This article is a cross-section that surveys the notion of openness in AI develo
 
 **Stakeholders**: communities, industry
 
-### See Also
-
-- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development | cites Long*
-- [[Radu 2021 - Steering-the-Governance-of-Artificial-In]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain | shared methodology: quantitative, framework development*
-- [[Burton 2024 - How-Large-Language-Models-Can-Reshape-Co]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative, framework development*
-- [[Huerta 2023 - FAIR-for-AI-An-Interdisciplinary-and-In]] — *shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: quantitative, framework development*
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] — *shared tension: Technical Capability vs Organizational Capacity, Openness vs Enclosure | shared methodology: quantitative, framework development*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative, framework development*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | shared methodology: quantitative, framework development*
-- [[Salami 2024 - Artificial-intelligence-digital-colonia]] — *shared concepts: labour, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Open]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Salami 2024 - Artificial-intelligence-digital-colonia]] — *shared concepts: labour, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development*
+- [[Radu 2021 - Steering-the-Governance-of-Artificial-In]] — *shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process | same subdomain | shared methodology: quantitative, framework development*
+- [[Long 2020 - What-is-AI-Literacy-Competencies-and-De]] — *shared tension: Technical Capability vs Organizational Capacity | shared methodology: framework development | cites Long*
+
+</details>

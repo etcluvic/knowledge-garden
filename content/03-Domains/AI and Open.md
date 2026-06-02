@@ -1,11 +1,11 @@
 ---
-title: "AI and Open"
-type: "domain"
-annotation_count: 27
-created: "2026-05-14"
+title: AI and Open
 tags:
-  - "domain"
-  - "hub-note"
+  - domain
+  - hub-note
+type: domain
+annotation_count: 27
+created: 2026-05-14
 ---
 
 # AI and Open
@@ -45,7 +45,7 @@ tags:
 - [[Baltes 2025 - Guidelines-for-Empirical-Studies-in-Soft]] (2025) · [[Efficiency vs Process]]
 - [[Helregel 2025 - AI-and-Open-Science-Implications-and-Li]] (2025) · [[Technical Capability vs Organizational Capacity]][[Operational Assistance vs Epistemic Authority]]
 - [[Hosseini 2025 - Open-Science-at-the-generative-AI-turn]] (2025) · [[Openness vs Enclosure]][[Technical Capability vs Organizational Capacity]]
-- [[Linåker 2025 - A-Cartography-of-Open-ation-in-Open-Sour]] (2025) · [[Technical Capability vs Organizational Capacity]][[Openness vs Enclosure]]
+- [[Linåker 2025 - A-Cartography-of-Open-Collaboration-in-Open-Sour]] (2025) · [[Technical Capability vs Organizational Capacity]][[Openness vs Enclosure]]
 - [[Papi 2025 - FAMA-The-First-Large-Scale-Open-Science]] (2025) · [[Openness vs Enclosure]]
 - [[Gundersen 2024 - The-Unreasonable-Effectiveness-of-Open-S]] (2024) · [[Technical Capability vs Organizational Capacity]]
 - [[Ación 2023 - Generative-AI-Poses-Ethical-Challenges-f]] (2023) · [[Openness vs Enclosure]][[Operational Assistance vs Epistemic Authority]]

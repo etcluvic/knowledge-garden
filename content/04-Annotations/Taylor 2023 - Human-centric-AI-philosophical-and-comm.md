@@ -1,39 +1,13 @@
 ---
 title: "Human-centric AI: philosophical and community-centric considerations"
-authors:
-  - "Taylor, Randon R., Bessie O'Dell"
-  - "John W. Murphy"
-year: "2023"
-domain: "AI and Social"
-subdomain: "Community, Connection and the Human"
-tensions:
-  []
-concepts:
-  - "participation"
-methodologies:
-  - "computational"
-  - "framework development"
-stakeholders:
-  - "publishers"
-  - "communities"
-  - "industry"
-source: "AI & SOCIETY 40, no"
-url: "https://doi.org/10.1007/s00146-023-01694-1"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension: []
 tags:
   - annotation
-  - ai-and-social
-  - community-connection-and-the-human
-  - method-computational
-  - method-framework-development
   - topic-participation
-  - stakeholder-publishers
-  - stakeholder-communities
   - stakeholder-industry
-  - region-global-south
-  - region-africa
+type: annotation
+created: 2026-05-14
 ---
 
 # Human-centric AI: philosophical and community-centric considerations
@@ -67,12 +41,16 @@ Taylor, O’Dell, and Murphy present an argument that philosophical dualism, whe
 
 **Geographic Focus**: Global South, Africa
 
-### See Also
-
-- [[Mohamed 2020 - Decolonial-AI-Decolonial-Theory-as-Soci]] — *shared methodology: computational, framework development | cites Philosophy*
-- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *same subdomain | shared methodology: computational, framework development*
-- [[Whalen 2023 - Any-Means-Necessary-to-Refuse-Erasure-b]] — *same subdomain | shared methodology: computational, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Risam 2018 - What-Passes-for-Human-Undermining-the]] — *same subdomain | shared methodology: computational, framework development*
+- [[Whalen 2023 - Any-Means-Necessary-to-Refuse-Erasure-b]] — *same subdomain | shared methodology: computational, framework development*
+- [[Mohamed 2020 - Decolonial-AI-Decolonial-Theory-as-Soci]] — *shared methodology: computational, framework development | cites Philosophy*
+
+</details>

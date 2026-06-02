@@ -1,50 +1,16 @@
 ---
 title: "User-Generated Accountability: Public Participation in Algorithmic Governance on YouTube"
-authors:
-  - "Reynolds, CJ"
-  - "Blake Hallinan"
-year: "2024"
-domain: "AI and Social"
-subdomain: "Platforms"
-tensions:
-  - "Technical Capability vs Organizational Capacity"
-concepts:
-  - "infrastructure"
-  - "governance"
-  - "accountability"
-  - "automation"
-  - "transparency"
-methodologies:
-  - "computational"
-  - "framework development"
-  - "comparative"
-  - "theoretical"
-  - "empirical"
-stakeholders:
-  - "publishers"
-  - "communities"
-source: "New Media & Society 26, no"
-url: "https://doi.org/10.1177/14614448241251791"
-status: "reviewed"
-type: "annotation"
-created: "2026-05-14"
+domain: AI and Social
+tension:
+  - Technical Capability vs Organizational Capacity
 tags:
   - annotation
-  - ai-and-social
-  - platforms
-  - method-computational
-  - method-framework-development
-  - method-comparative
-  - method-theoretical
-  - method-empirical
-  - topic-infrastructure
   - topic-governance
   - topic-accountability
-  - topic-automation
-  - topic-transparency
-  - stakeholder-publishers
-  - stakeholder-communities
-  - tension-technical-capability-v-organizational-capacity
+  - platforms
+  - topic-infrastructure
+type: annotation
+created: 2026-05-14
 ---
 
 # User-Generated Accountability: Public Participation in Algorithmic Governance on YouTube
@@ -76,17 +42,16 @@ This study focuses on how YouTube creators respond to platform governance decisi
 
 **Stakeholders**: publishers, communities
 
-### See Also
-
-- [[Savolainen 2022 - The-Shadow-Banning-Controversy-Perceive]] — *content similarity (0.28) | shared concepts: automation, governance, infrastructure, transparency | same subdomain*
-- [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *shared concepts: automation, accountability, infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Chung 2025 - Betting-on-UnCertain-Futures-Sociotec]] — *shared concepts: automation, infrastructure, governance | shared tension: Technical Capability vs Organizational Capacity | shared methodology: comparative, computational, framework development*
-- [[Ngulube 2024 - Integrating-Artificial-Intelligence-Base]] — *shared concepts: accountability, governance, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development, theoretical*
-- [[Daniel Delmonaco 2024 - What-are-you-doing-TikTok]] — *shared concepts: governance, infrastructure, transparency | same subdomain | shared methodology: computational, framework development, theoretical*
-- [[Sartori 2022 - A-sociotechnical-perspective-for-the-fut]] — *shared concepts: automation, accountability, governance, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational*
-- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: infrastructure, governance, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
-- [[Bail 6206 - Can-Generative-Artiﬁcial-Intelligence-Im]] — *shared concepts: automation, infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | shared methodology: computational, framework development*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Social]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Savolainen 2022 - The-Shadow-Banning-Controversy-Perceive]] — *content similarity (0.28) | shared concepts: automation, governance, infrastructure, transparency | same subdomain*
+- [[Gorwa 2020 - Algorithmic-Content-Moderation-Technica]] — *shared concepts: automation, accountability, infrastructure, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+- [[Corsi 2024 - The-spread-of-synthetic-media-on-X]] — *shared concepts: infrastructure, governance, transparency | shared tension: Technical Capability vs Organizational Capacity | same subdomain*
+
+</details>

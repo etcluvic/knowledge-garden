@@ -1,59 +1,18 @@
 ---
-
 title: A Third Transformation? Generative AI and Scholarly Publishing
-authors:
-- Bergstrom, Tracy
-- Dylan Ruediger
-year: '2024'
 domain: AI and Scholarship
-subdomain: Infrastructures
-tensions:
-- Efficiency vs Process
-- Technical Capability vs Organizational Capacity
-- Operational Assistance vs Epistemic Authority
-concepts:
-- large language models
-- transparency
-- provenance
-- research integrity
-- automation
-- interoperability
-- peer review
-- reproducibility
-- evaluation
-methodologies:
-- qualitative
-- framework development
-stakeholders:
-- researchers
-- publishers
-- industry
-- developers
-source: Ithaka S+R
-url: "https://doi.org/10.18665/sr.321519"
-status: reviewed
-type: annotation
-created: '2026-05-14'
+tension:
+  - Efficiency vs Process
+  - Technical Capability vs Organizational Capacity
+  - Operational Assistance vs Epistemic Authority
 tags:
   - annotation
-  - ai-and-scholarship
-  - infrastructures
-  - method-qualitative
-  - method-framework-development
-  - topic-large-language-models
-  - topic-transparency
-  - topic-provenance
-  - topic-research-integrity
-  - topic-automation
-  - topic-interoperability
-  - stakeholder-researchers
-  - stakeholder-publishers
-  - stakeholder-industry
-  - stakeholder-developers
-  - tension-efficiency-v-process
-  - tension-technical-capability-v-organizational-capacity
-  - tension-operational-assistance-v-epistemic-authority
   - cited-in-introduction
+  - stakeholder-industry
+  - tension-efficiency-v-process
+  - topic-transparency
+type: annotation
+created: 2026-05-14
 ---
 
 # A Third Transformation? Generative AI and Scholarly Publishing
@@ -92,17 +51,16 @@ This annotation is cited in the following sections of the analytical introductio
 
 **Stakeholders**: researchers, publishers, industry, developers
 
-### See Also
-
-- [[Mai 2024 - The-Use-of-ChatGPT-in-Teaching-and-Learn]] — *shared concepts: automation, evaluation, research integrity, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Sun 2025 - Large-Language-Models-in-Peer-Review-Ch]] — *shared concepts: peer review, evaluation, interoperability, large language models | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process | shared methodology: framework development*
-- [[Checco 2021 - AI-Assisted-Peer-Review]] — *shared concepts: automation, evaluation, peer review, transparency | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | shared methodology: framework development*
-- [[Pividori 2024 - A-Publishing-Infrastructure-for-Artifici]] — *shared concepts: automation, evaluation, large language models, provenance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Schroeder 2024 - Large-Language-Models-in-Qualitative-Res]] — *shared concepts: automation, large language models, transparency | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | shared methodology: framework development, qualitative*
-- [[G H Lim 2025 - Generative-AI-in-Peer-Review-Process-for]] — *shared concepts: peer review, evaluation, large language models, reproducibility | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority, Efficiency vs Process*
-- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: evaluation, interoperability | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | same subdomain*
-- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: peer review, automation | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | same subdomain*
-
 ---
 
 *Return to: [[Taking Bearings - Home]] | [[AI and Scholarship]] | [[Concepts Glossary]]*
+
+---
+
+<details><summary>📎 Related Notes (3)</summary>
+
+- [[Pividori 2024 - A-Publishing-Infrastructure-for-Artifici]] — *shared concepts: automation, evaluation, large language models, provenance | shared tension: Technical Capability vs Organizational Capacity, Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Hadley 2025 - Investigating-Algorithm-Review-Boards-fo]] — *shared concepts: evaluation, interoperability | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | same subdomain*
+- [[Ma 2024 - Generative-AI-for-Academic-Publishing-S]] — *shared concepts: peer review, automation | shared tension: Technical Capability vs Organizational Capacity, Efficiency vs Process, Operational Assistance vs Epistemic Authority | same subdomain*
+
+</details>
