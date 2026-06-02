@@ -1,6 +1,12 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+:root {
+  --headerFont: "Schibsted Grotesk", sans-serif;
+  --bodyFont: "Source Sans Pro", sans-serif;
+  --codeFont: "IBM Plex Mono", monospace;
+}
+
 // Force all component headings to use the header font
 .graph-outer > h3,
 .toc-header,
