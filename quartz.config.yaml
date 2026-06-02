@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: null
-  locale: en-UK
+  locale: en-US
   baseUrl: etcluvic.github.io/knowledge-garden
   ignorePatterns:
     - private
